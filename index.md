@@ -7,5 +7,7 @@ This is a guide to finding and gathering clues to places which have been erased;
 
 ----
 
-This project is supported by [LC Labs]() at the [US Library of Congress]().
+_This is a draft website. The final will be published at the end of December 2022._
+
+_I am conducting this work in my role as 2023 Innovator in Residence at the [Library of Congress]() [LC Labs]()_.
 
