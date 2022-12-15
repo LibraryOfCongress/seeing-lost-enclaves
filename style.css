@@ -26,6 +26,11 @@ a,
 .markdown-css h1 {
   font-weight: normal;
   font-size: 48px;
+  margin-top: 40px;
+}
+
+.markdown-css h2,
+.markdown-css h3 {
 }
 
 header {
