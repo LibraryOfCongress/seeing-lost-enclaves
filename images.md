@@ -36,16 +36,29 @@ http://images.truckeehistory.org/donationReport.php?donationNumber=16 (McGlashan
 
 Compile list of famous names (McGlashan)
 
+Also see _Build a rough timeline_ in the [Tracking photos](tracking.md) section
+
 ### Theaters
 
+The website [CinemaTreasures.org](https://cinematreasures.org) is a powerful resource for tracking the history of old theaters, from construction dates to name changes to photographs and even dating images based on the posters of shows currently playing. Check the Photos and Comments tabs of a page to see user contributions.
 
+### Events & celebrations
+
+Regular events & celebrations nearby can
 
 ## Reverse image search
 
-Regular events & celebrations nearby
+An interesting and powerful technique for finding additional images of a neighborhood is to use 
 
+If you can identify a really visually unique landmark, especially a building with a unique silhouette, reverse image search can sometimes bring up other photographs of the same building. It can also sometimes surface better resolution versions of a photograph, or wider crops showing more detail around the edges.  
+
+I'll post more on this technique soon.
 
 ## Newspaper archives
+
+Chinese American and Asian American newspapers
+
+Chronicling America & the US Newspaper Directory
 
 Search LOC newspapes by "ethnicity"
 
