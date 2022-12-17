@@ -40,26 +40,16 @@ In researching Truckee, California's Chinatown, I noted a tower with distinctive
 
 According to a plaque on the site, the tower was built in 1895, which was about 17 years after the first Chinatown of Truckee was destroyed in a fire. So any photos of the area showing the tower are too late to show Chinatown at that site. 
 
-
-## Other things to note
-
-
 ### Names of buildings
 
-Searching for building names
-Dates when buildings were built or torn down or modified
+Buildings with unique names, or with uniquely named businesses (a hotel, theater, or restaurant, for example) make for good search terms. Note if possible when the buildings were built, torn down, or modified, or when businesses opened, closed, or changed names.
 
-### Dtreet names
+### Street names
 
-Changing street names
-Short street names
+Changing street names can be challenging to track, but can also narrow your search to a specific time range. In Providence, Empire Street was called Walker Street until 1901; Paine Street was called Shimbo Alley starting sometime in 1911. These dates can serve as search terms for specific time ranges, and help to date maps and photographs.
 
 ### Other timeline clues
 
-Cars, telegraph wires, other infrastructural changes
-
-Regular events & celebrations nearby
-
-
+Cars, telegraph wires, and other infrastructural changes can all help to establish dates in photographs, and keeping a list of these at hand in your tracking spreadsheet or notes is also helpful.
 
 [Next: Tracking photos >](tracking.md)

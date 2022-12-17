@@ -42,6 +42,8 @@ Compile list of famous names (McGlashan)
 
 ## Reverse image search
 
+Regular events & celebrations nearby
+
 
 ## Newspaper archives
 
