@@ -1,12 +1,12 @@
 # Searching for images
 
-For me, searching for images has required luck, creativity, and persistence. Erasure can often mean literal destruction of records, but it can also involve systematic lack of acknowledgement, recognition, or preservation of knowledge of a community. Searching for "Providence Chinatown" won't bring up many photos of what the neighborhood used to look like (although this project is itself beginning to change that). Many of the glimpses we can find of the neighborhood are incidental -- in the background of photographs of other things, like the image accompanying this article about Central Baptist Church:
+For me, finding images has required luck, creativity, and persistence. Erasure can often mean literal destruction of records, but it can also involve systematic lack of acknowledgement, recognition, or preservation of knowledge of a community. Searching for "Providence Chinatown" won't bring up many photos of what the neighborhood used to look like (although this project is itself beginning to change that). Many of the glimpses we can find of the neighborhood are incidental -- in the background of photographs of other things, like the image accompanying this article about Central Baptist Church:
 
 ![Central Baptist Church](images/images-central-baptist.png)
 
 "Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labelled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 
-## Image search
+## Online image search
 
 In my experience, using Google or DuckDuckGo image search is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result.
 
@@ -34,11 +34,25 @@ Looking over your maps, find a landmark with the neighborhood in the background:
 
 http://images.truckeehistory.org/donationReport.php?donationNumber=16 (McGlashan Mansion, also known as the Crystal Palace, the Rocking Stone, the Rocking Stone Tower, also known as the Ice Cone, or Monster Icicle)
 
+Compile list of famous names (McGlashan)
+
 ### Theaters
 
 
 
 ## Reverse image search
+
+
+## Newspaper archives
+
+Search LOC newspapes by "ethnicity"
+
+## Physical archives
+
+
+## Family records
+
+
 
 
 

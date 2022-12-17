@@ -23,6 +23,7 @@ Are descendants of the people of this time and place living nearby today? In Pro
 
 * [Chinese Railroad Workers Descendants Association](http://www.goldenspike150.org/)
 * [Remembering the Forgotten Chinese Railroad Workers](https://www.sapiens.org/archaeology/chinese-railroad-workers-utah/) by Veronica Peterson 
+* [How Tacoma’s small Chinese community reckoned with the city’s anti-Chinese history](https://www.seattletimes.com/seattle-news/how-tacomas-small-chinese-community-reckoned-with-the-citys-anti-chinese-history/) discusses the story of the Tacoma Chinese Reconciliation Park.
 
 ### Who else lived here, originally?
 
