@@ -36,32 +36,25 @@ As you learn more about the history of the place, take note of dates relevant to
 
 ### Buildings and landmarks
 
-In researching Truckee, California's Chinatown, I noted a tower with distinctive columns on the hill above the site of Chinatown. 
+In researching Truckee, California's Chinatown, I noted a tower with distinctive columns on the hill above the site of Chinatown. Unfortunately, it was owned by a famously racist leader of the white supremacist group responsible for expelling Chinatown. In this case, the tower serves as an important landmark for dating photographs. 
 
+According to a plaque on the site, the tower was built in 1895, which was about 17 years after the first Chinatown of Truckee was destroyed in a fire. So any photos of the area showing the tower are too late to show Chinatown at that site. 
 
-Her grandfather brought increased attention to the stone when he built a renowned Donner Party and butterfly museum over the rock in 1893.
-
-(plaque says 1895)
-
-Immediately after purchasing the Rocking Stone property in 1891, McGlashan began to worry that the precariously balanced boulder would roll off its perch and injure the children that regularly played at its base.
-
-The McGlashan mansion, often referred to as the "Crystal Palace," burned down in 1935
-
-
-https://www.moonshineink.com/opinion/the-rocking-stone-and-the-crystal-palace/
 
 ## Other things to note
 
 
+### Names of buildings
 
+Searching for building names
+Dates when buildings were built or torn down or modified
 
-Names of buildings
+### Dtreet names
 
 Changing street names
-
 Short street names
 
-Dates when buildings were built or torn down or modified
+### Other timeline clues
 
 Cars, telegraph wires, other infrastructural changes
 
