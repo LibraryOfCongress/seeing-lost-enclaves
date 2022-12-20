@@ -8,7 +8,7 @@ I'm sharing access to my original spreadsheet so you can see how I organized my 
 
 First, it's a working document, not a formal bibliography, so my priority was recording as much as I could, but it's not a "perfect" document, whatever that means. 
 
-![photo tracking spreadsheet](images/tracking-spreadsheet.png)
+![photo tracking spreadsheet](research/images/tracking-spreadsheet.png)
 _My photo tracking spreadsheet for Providence's Chinatown._
 
 
@@ -18,7 +18,7 @@ _My photo tracking spreadsheet for Providence's Chinatown._
 
 * [Template]()
 
-![](images/tracking-newspapers.png)
+![](research/images/tracking-newspapers.png)
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
 
 ## Why: possibilities
@@ -27,7 +27,7 @@ Using these tracking spreadsheets: names, directories...
 
 Jamelle Bouie
 
-![buildings](images/tracking-buildings.png)
+![buildings](research/images/tracking-buildings.png)
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
 
 ## Build a rough timeline

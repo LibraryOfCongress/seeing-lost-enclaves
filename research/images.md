@@ -2,7 +2,7 @@
 
 For me, finding images has required luck, creativity, and persistence. Erasure can often mean literal destruction of records, but it can also involve systematic lack of acknowledgement, recognition, or preservation of knowledge of a community. Searching for "Providence Chinatown" won't bring up many photos of what the neighborhood used to look like (although this project is itself beginning to change that). Many of the glimpses we can find of the neighborhood are incidental -- in the background of photographs of other things, like the image accompanying this article about Central Baptist Church:
 
-![Central Baptist Church](images/images-central-baptist.png)
+![Central Baptist Church](research/images/images-central-baptist.png)
 
 "Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labelled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 

@@ -9,6 +9,10 @@ _This is a draft. The final version will be published in September 2023._ This g
 
 Part 1 is the first part of an evolving guide to [relational reconstruction](relational-reconstruction.md), a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. 
 
+## Blog
+
+* [Introductory blog post](blog/01-introduction.md)
+
 ## Seeing Providence Chinatown
 
 This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown). In thinking about my approach in that project, I wrote:

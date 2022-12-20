@@ -7,7 +7,7 @@ _This is a draft. The final version will be published in September 2023._
 
 This is a guide to finding and gathering clues to places which have been erased; neighborhoods and communities who were not included in archives during their time, and whose traces we can find mostly through the in-between glimpses, the cracks and gaps, the unsaid and the hidden away. Most of what we find through this process is not the real story. It’s the selective forgetting, overwriting, and reshaping of histories, *despite* which we will try to see people, their spaces, and the things they cared about. 
 
-![empire theater](images/empire-theater-evening.jpg)
+![empire theater](research/images/empire-theater-evening.jpg)
 _A reconstruction of the Empire Theater, facing Providence's Chinatown in 1914, on a rainy evening._
 
 It's the first part of an evolving guide to [relational reconstruction](relational-reconstruction.md), a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. 

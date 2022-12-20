@@ -8,7 +8,7 @@ At the beginning, many of these questions will be hard to answer; that's OK – 
 
 First, if you can, visit the place as it is today. It might be a virtual visit, a Street View visit, or maybe a visit through scenes in a movie set in the place. 
 
-![](images/questions-streetview.jpg) 
+![](research/images/questions-streetview.jpg) 
 _The site of Providence, Rhode Island's Chinatown before 1914, with reference photograph._
 
 What does the place mean to you, now? How does it make you feel? What does it mean to people present today? These things may change as your project emerges, so it's good to note them now. 
