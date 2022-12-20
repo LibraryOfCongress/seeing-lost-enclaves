@@ -22,6 +22,8 @@ Think of this as a journey through these materials which you can chart with love
 
 It's a meditation, the searching. Handling these artifacts with tenderness. Not picking them apart like meat from a bone or gems from the soil. Gathering them together with gentle hands. Healing yourself as you glimpse them. Giving them recognition, and rest. 
 
+<!-- (Add: note on personal vs. scholarly discovery) -->
+
 
 ### A note of caution
 
@@ -43,6 +45,10 @@ To those beginning to look through these histories: please take care of yourself
 
 
 ----
+
+## Seeing Providence Chinatown
+
+This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown). In thinking about my approach in that project, I wrote:
 
 I hope to produce a more immersive and contextually complete record by way of a spatial and sensory reconstruction, which will enable audiences to experience in a richer and more personal way what it would have felt like to stand in the heart of Providence's Chinatown and other erased enclaves of color. Our histories include traumas – my ancestors were not allowed into the US until 1965, and the early history of Asian Americans in Providence was also fraught with exoticization – like Chinese performer Afong Moy’s 1835 appearance as a curiosity in the Providence Museum. These histories are over-represented in the archive.
 

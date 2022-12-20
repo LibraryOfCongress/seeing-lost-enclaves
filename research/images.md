@@ -56,11 +56,15 @@ I'll post more on this technique soon.
 
 ## Newspaper archives
 
+(see bibliography, maybe move to own section, ProJo example)
+
 Chinese American and Asian American newspapers
 
 Chronicling America & the US Newspaper Directory
 
 Search LOC newspapes by "ethnicity"
+
+Searching entire papers the week following major events (violence, celebrations, etc)
 
 ## Physical archives
 
