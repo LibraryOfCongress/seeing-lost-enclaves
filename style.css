@@ -33,8 +33,9 @@ a,
 .markdown-css h3 {
 }
 
-header {
-  padding: 12px;
+header,
+footer {
+  padding: 20px;
 }
 
 header a {
