@@ -19,12 +19,12 @@ This guide will continue to grow and change as the project emerges.
 ## Contents
 
 * [Introductory blog post](blog/01-introduction.md)
-* [Questions](questions.md)
-* [Searching for images](images.md)
-* [Mapping photos](mapping.md)
-* [Tracking photos](tracking.md)
-* [Bibliography](bibliography.md)
-* [Image collection](collection.md) (selected public domain images)
+* [Questions](research/questions.md)
+* [Searching for images](research/images.md)
+* [Mapping photos](research/mapping.md)
+* [Tracking photos](research/tracking.md)
+* [Bibliography](research/bibliography.md)
+* [Image collection](research/collection.md) (selected public domain images)
 * [Related work / inspirations](inspirations.md)
 * [Frequently Asked Questions](faq.md)
 

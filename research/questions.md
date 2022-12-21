@@ -30,8 +30,8 @@ Are descendants of the people of this time and place living nearby today? In Pro
 How are their stories entwined in the history of this place? In our lives? What are our resposibilities towards them in this work? 
 
 #### Resources:
-* [Prarie Lotus](https://lindasuepark.com/books/books-novels/prairie-lotus/) by Linda Sue Park, is accompanied, on her website, by a Native American resource guide compiled by author and educator Andrea Page (Oceti Sakowin Hunkpapa), about the Oceti Sakowin people of the area in which the book is set. 
-* [Empire's Tracks, Indigenous Nations, Chinese Workers, and the Transcontinental Railroad](https://www.ucpress.edu/book/9780520296640/empires-tracks), by Manu Karuka.
+* [Prarie Lotus](https://loc.gov/item/2020945474) by Linda Sue Park, is accompanied, on her website, by a Native American resource guide compiled by author and educator Andrea Page (Oceti Sakowin Hunkpapa), about the Oceti Sakowin people of the area in which the book is set. 
+* [Empire's Tracks, Indigenous Nations, Chinese Workers, and the Transcontinental Railroad](https://www.loc.gov/item/2018038417), by Manu Karuka.
 
 ### What can we know about peoples' lives at the time and place of our project?
 
