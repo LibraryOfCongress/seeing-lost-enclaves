@@ -1,8 +1,7 @@
 # Seeing Lost Enclaves
 ### Relational reconstructions of erased historic neighborhoods of color
 
-A project by [Jeffrey Yoo Warren](https://unterbahn.com)
-
+Seeing Lost Enclaves is a project by [Jeffrey Yoo Warren](https://unterbahn.com) as part of the 2023 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/).
 
 _This is a draft guide. The final will be published in September 2023._
 

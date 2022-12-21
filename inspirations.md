@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=0XtvCaiKbcQ
 
 ## Rememberance
 
-"Denver’s destroyed Chinatown is getting a mural dedicated to the once-thriving area’s past, present and future. "https://denverite.com/2022/11/02/denvers-destroyed-chinatown-is-getting-a-mural-dedicated-to-the-once-thriving-areas-past-present-and-future/
+"Denver’s destroyed Chinatown is getting a mural dedicated to the once-thriving area’s past, present and future." https://denverite.com/2022/11/02/denvers-destroyed-chinatown-is-getting-a-mural-dedicated-to-the-once-thriving-areas-past-present-and-future/
 
-
+"L.A.'s memorial for 1871 Chinese Massacre will mark a shift in how we honor history" https://www.latimes.com/entertainment-arts/story/2021-10-22/how-a-planned-monument-marking-the-chinese-massacre-of-1871-begins-to-fill-historical-gaps
 
