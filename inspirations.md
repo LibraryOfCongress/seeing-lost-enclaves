@@ -44,3 +44,7 @@ http://takachizu.org/treasure/takachizu-zine-1
 [Remembering the Forgotten Chinese Railroad Workers](https://www.sapiens.org/archaeology/chinese-railroad-workers-utah/) by Veronica Peterson 
 
 [How Tacoma’s small Chinese community reckoned with the city’s anti-Chinese history](https://www.seattletimes.com/seattle-news/how-tacomas-small-chinese-community-reckoned-with-the-citys-anti-chinese-history/) discusses the story of the Tacoma Chinese Reconciliation Park.
+
+
+NARA has an interesting page on harmful content in archival records: https://www.archives.gov/research/reparative-description/harmful-content
+
