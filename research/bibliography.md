@@ -63,6 +63,7 @@ Collection Community Cookbooks Science   https://guides.loc.gov/community-cookbo
 
 Collection China Folklife Folklife   https://guides.loc.gov/china-folklife 
 
+----
 
 ## General
 
@@ -127,7 +128,6 @@ Hart, Alfred A, photographer. <cite>Below Camp 37, lower canyon of Truckee</cite
 
 Edwards, W. F., Active 1883. <cite>W. F. Edwards' Tourists' guide and directory of the Truckee Basin</cite>. composeds by Irons, Chas. D Truckee, Cal.: "Republican" job print, 1883. https://loc.gov/item/23006165/
 
-
 ## Deadwood, South Dakota Chinatown
 
 R. L. Polk & Co.'s Dakota Gazetteer and Business Directory. United States: R.L. Polk & Company, 1888.
@@ -144,35 +144,191 @@ Grabill, John C. H, photographer. <cite>Hose team. The champion Chinese Hose Tea
 
 Grabill, John C. H. <cite>Deadwood, South Dakota, ; "I" troop, 8th cavalry near Fort Mead, 1889, Columbia parade, 1892</cite>. to 1892, 1888. https://www.loc.gov/item/2010650094/
 
+# Other regions
+
+While my initial search has focused on just a few places, I found a wide variety of materials on Chinatowns and other enclaves of color around the US, and I've included them here to be expanded on later.
+
+----
+
+## General
+
+<cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
+
+Jones, David D. <cite>The surnames of the Chinese in America spelled according to the David Jones system of spelling Chinese names; with notes on various subjects of interest to the Chinese and those who do business with them</cite>. San Francisco, The Chinese name spelling company, 1904. https://www.loc.gov/item/12008613/
+
+<cite>Chinese American voices: from the gold rush to the present</cite>. Berkeley: University of California Press, 2006. https://www.loc.gov/item/2005021227/
+
+Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
+
 ## Western US
+
+Pfaelzer, Jean. <cite>Driven out: the forgotten war against Chinese Americans / Jean Pfaelzer</cite>. Berkeley: University of California Press, 2008. https://www.loc.gov/item/2008013454/
+
+Chung, Sue Fawn. <cite>Chinese in the woods: logging and lumbering in the American West</cite>. [Urbana ; Chicago: University of Illinois Press, 2015] https://www.loc.gov/item/2015006371/
+
+Lee, Sue Itor, and Connie Youngitor Yu, editor. <cite>Voices from the railroad: stories by descendants of Chinese railroad workers</cite>. San Francisco: Chinese Historical Society of America, 2019. https://www.loc.gov/item/2019938953/
+
+Maniery, Mary L., Author, Rebecca Allen, Sarah Christine Heffner,  Society For Historical Archaeology Issuing Body, and  Chinese Historical Society Of America Issuing Body. <cite>Finding hidden voices of the Chinese railroad workers: an archaeological and historical journey</cite>. Germantown, MD: The Society for Historical Archaeology, 2016. https://www.loc.gov/item/2016933967/
+
+Wegars, Priscilla. <cite>Hidden heritage: historical archaeology of the overseas Chinese</cite>. Amityville, N.Y.: Baywood Pub. Co, 1993. https://www.loc.gov/item/91037295/
+
+Historic American Engineering Record, Creator, John L Morgan, Charles Chamberlain, Gerome Pratt, Orion E Kirkpatrick, Mitzi Rossillon, Lon Johnson, and Inc Renewable Technologies. <cite>Leesburg Mining District, Napias & Moose Creeks, Salmon, Lemhi County, ID</cite>. Lemhi County Salmon Idaho, 1968. translateds by Gill, Barry Leemitter, and Young, Kellymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/id0172/
+
+<cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
+
+Jones, David D. <cite>The surnames of the Chinese in America spelled according to the David Jones system of spelling Chinese names; with notes on various subjects of interest to the Chinese and those who do business with them</cite>. San Francisco, The Chinese name spelling company, 1904. https://www.loc.gov/item/12008613/
+
+<cite>Chinese American voices: from the gold rush to the present</cite>. Berkeley: University of California Press, 2006. https://www.loc.gov/item/2005021227/
+
+Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
 
 ## California
 
-## San Francisco
+_Assuming that California, and especially San Francisco, would have a huge volume of records compared to smaller "forgotten" communities, I did not focus on gathering materials for this city in my initial search, but often came across itmes anyways. They are listed here. San Francisco Chinatown and Los Angeles Chinatown materials are listed separately, below._
 
-_Assuming that San Francisco would have a huge volume of records, I did not focus on gathering materials for this city in my initial search, but often came across itmes anyways. They are listed here._
+<cite>Sanborn Fire Insurance Map from Riverside, Riverside County, California</cite>. Sanborn Map Company, 1908. Map. https://www.loc.gov/item/sanborn00793_007/
 
+Laplante, Margaret. <cite>Abandoned Chinatowns: Northern California</cite>. [Mount Pleasant, SC: Arcadia Publishing by arrangement with Fonthill Media, LLC, . \u00a9, 2021] https://www.loc.gov/item/2022301120/
 
+Mcdannold, Thomas A. <cite>California's Chinese heritage: a legacy of places</cite>. Stockton, Calif.: Heritage West Books, 2000. https://www.loc.gov/item/99095593/
 
-## Washington (state)
+Chang, Edward T., Author. <cite>Pachappa camp: the first Koreatown in the United States</cite>. Lanham: Lexington Books, 2021. https://loc.gov/item/2021932002 
+
+Sunseri, Charlotte K. “Food Politics of Alliance in a California Frontier Chinatown.” International Journal of Historical Archaeology 19, no. 2 (2015): 416–31. http://www.jstor.org/stable/24572796
+
+Spier, Robert FG. "Tool Acculturation among 19th-Century California Chinese." <cite>Ethnohistory</cite>. Columbus, Ohio: Ohio Valley Historic Indian Conference, - Bloomington, Indiana: Indiana University Window Rock, Arizona: American Society for Ethnohistory Durham, NC: Duke University Press, 1958. 97-117. https://www.loc.gov/item/57043343/
+
+Highsmith, Carol M, photographer. <cite>One of two original Chinese-operated stores in Coloma formerly Colluma and Culloma on the south fork of the American River in El Dorado County, California</cite>. United States Coloma California, 2012. Photograph. https://www.loc.gov/item/2013631012/
+
+Highsmith, Carol M, photographer. <cite>Chinese Camp, a small settlement in Tuolumne County, California</cite>. United States California Chinese Camp, 2012. Photograph. https://www.loc.gov/item/2013634027/
+
+Highsmith, Carol M, photographer. <cite>Locke Chinese Medicine in Locke, an unincorporated community in the Sacramento/San Joaqin River Delta in California</cite>. United States California Locke, 2012. Photograph. https://www.loc.gov/item/2013633562/
+
+<cite>Chinese Daily News Sacramento Calif. -18??</cite>. https://www.loc.gov/item/sn2009271006/
+
+<cite>The Chinese Camp Courier Chinese Camp, Cal. 1???-1???</cite>. https://www.loc.gov/item/sn94052961
+
+Yu, Connie Young. <cite>Chinatown, San Jose, USA</cite>. San Jose, Calif.: San Jose Historical Museum Association, 1991. https://www.loc.gov/item/92190152/
+
+Lee, Moonbeam Tong. <cite>Growing up in Chinatown: the life and work of Edward Lee</cite>. S. N.: S. L, 1987. https://www.loc.gov/item/94223219/
+
+Gong-Guy, Lillian. <cite>Chinese in San Jose and the Santa Clara Valley</cite>. Charleston, SC: Arcadia Pub, 2007. 
+
+Wong, William, 1941 July 7. <cite>Oakland's Chinatown</cite>. Charleston, SC: Arcadia, 2004. https://www.loc.gov/item/2004110491/
+
+Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
+
+Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
+
+Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
+
+Rouse, Wendy L. <cite>The children of Chinatown: growing up Chinese American in San Francisco, -1920</cite>. Chapel Hill: University of North Carolina Press, 2009. https://www.loc.gov/item/2009011633/
+
+### Los Angeles
+
+Cho, Jenny. <cite>Chinatown in Los Angeles</cite>. San Francisco, CA: Arcadia Pub, 2009. https://www.loc.gov/item/2008936544/
+
+Greenwood, Roberta S. <cite>Down by the station: Los Angeles Chinatown, -1933</cite>. Los Angeles: Institute of Archaeology, University of California, Los Angeles, 1996. https://www.loc.gov/item/96031961/
+
+### San Francisco
+
+Chinn, Thomas W. <cite>Bridging the Pacific = Chʻiao kʻua Tʻai-pʻing yang: San Francisco Chinatown and its people</cite>. San Francisco: Chinese Historical Society of America, 1989. https://www.loc.gov/item/89000926/
+
+Nee, Victor. <cite>Longtime Californ': a documentary study of an American Chinatown</cite>. Stanford, Calif.: Stanford University Press, 1986. https://www.loc.gov/item/85063406/
+
+Wong, Edmund S.,  Author. <cite>Growing up in San Francisco's Chinatown: boomer memories from noodle rolls to apple pie</cite>. Charleston, SC: The History Press, 2018. https://www.loc.gov/item/2017958369/
+
+Yung, Judy. <cite>San Francisco's Chinatown</cite>. Charleston, SC: Arcadia Pub, 2006. https://www.loc.gov/item/2006921510/
+
+ Yung, Judy, Author, and  Chinese Historical Society Of America. <cite>San Francisco's Chinatown</cite>. [Charleston, South Carolina: Arcadia Publishing,  \u00a9, 2016] https://www.loc.gov/item/2016933937/
+
+<cite>Jin Shan Ri Xin Lu San Francisco, Calif. -18??</cite>. https://www.loc.gov/item/sn93058809/
+
+<cite>Chinatown photographer, Louis J. Stellman: a catalog of his photograph collection, including a previously unpublished manuscript, Chinatown, a pictorial souvenir and guide, written by Louis J. Stellman in</cite>. Sacramento: California State Library Foundation, 1989. https://www.loc.gov/item/90151946/
+
+Wells, Fargo & Company. <cite>Wells Fargo & Co's express ...directory of Chinese business houses</cite>. [San Francisco Britton & Rey Lith, 1882] https://www.loc.gov/item/47037329/
+
+Chinese Chamber Of Commerce Of San Francisco. <cite>San Francisco Chinatown on parade in picture and story</cite>. San Francisco, 1961. https://www.loc.gov/item/71211614/
+
+Yung, Judy, Author, and  Chinese Historical Society Of America. <cite>San Francisco's Chinatown</cite>. [Charleston, South Carolina: Arcadia Publishing,  \u00a9, 2016] https://www.loc.gov/item/2016933937/
+
+Dicker, Laverne Mau. <cite>The Chinese in San Francisco: a pictorial history</cite>. New York: Dover Publications, 1979. https://www.loc.gov/item/79050669/
+
+A Chinese Business Directory of the City of San Francisco. 1952, 1949. San Francisco: Chinese Consolidated Benevolent Association of San Francisco.
+
+Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
+
+Lee, Sue, ed. Finding Jake Lee - The Paintings at Kan's: Chinese Historical Society of America, 2011. Published following the exhibition Finding Jake Lee - The Paintings at Kan's at the Chinese Historical Society of America. https://www.loc.gov/item/2013584998/
+
+Thomas A. Edison, Inc, and  Paper Print Collection. <cite>Arrest in Chinatown, San Francisco, Cal</cite>. United States: Thomas A. Edison, Inc, 1897. Video. https://www.loc.gov/item/00694412/
+
+Ackerman, Raymond, Camera,  American Mutoscope And Biograph Company,  Paper Print Collection, and  Niver. <cite>Scene in Chinatown</cite>. [United States: American Mutoscope and Biograph Company, 1900] Video. https://www.loc.gov/item/00694411/
+
+Thomas A. Edison, Inc, and  Kleine. <cite>San Francisco Chinese funeral</cite>. United States: Thomas A. Edison, Inc, 1904. Video. https://www.loc.gov/item/00694410/
+
+<cite>Jinshan Shi Bao = Chinese Times San Francisco, Calif. -Current</cite>. https://www.loc.gov/item/sn83003231/
+
+<cite>The Oriental: Or, Tung-Ngai San-Luk San Francisco, Calif. -1857</cite>. https://www.loc.gov/item/sn82015723/
+
+Schein, Jim, Author, and Gordon Chin, Cathcart, Ken Gwin, Cartographer, photographer. <cite>Gold mountain big city: Ken Cathcart'sillustrated map of San Francisco's Chinatown</cite>. [Petaluma, CA: Cameron + Company,  \u00a9, 2020]
 
 ## Arizona
 
+Highsmith, Carol M, photographer. <cite>The old Sun Mercantile Building in the warehouse district of Phoenix, Arizona. Built in , it is the last remaining building from Phoenix's Second Chinatown. The Sun Mercantile Company supplied many neighboring towns with merchandise and soon became the largest wholesale grocery house in Phoenix. This building is now as of 2019 home to the state-of-the-art IASIS Healthcare Multi Specialty Clinic</cite>. United States Arizona Phoenix, 2019. -02-24. Photograph. https://www.loc.gov/item/2018703605/
+
 ## Boston
+
+To, Wing-Kai. <cite>Chinese in Boston, -1965</cite>. Charleston, S.C.: Arcadia Pub, 2008. https://loc.gov/item/2007930872
 
 ## Denver
 
+Song, Jingyi,  Author. <cite>Denver's Chinatown, -1900: gone but not forgotten</cite>. [Leiden ; Boston: Brill, 2020] https://www.loc.gov/item/2019040938/
+
 ## Chicago
+
+<cite>Chinese in Chicago, -1945</cite>. Charleston, SC: Arcadia, 2005. https://www.loc.gov/item/2005924981/
 
 ## Hawaii
 
+Mohr, James C. <cite>Plague and fire: battling black death and theburning of Honolulu's Chinatown</cite>. New York: Oxford University Press, 2005. https://www.loc.gov/item/2004049223/
+
+Chinese Students' Alliance In The United States Of America. <cite>The handbook of the Chinese students in the U.S.A</cite>. Chicago, Ill. https://www.loc.gov/item/22003556/
+
+Hawaii Chinese Business Directory, 1934. https://www.loc.gov/item/2013584998/
+
 ## Nevada
+
+Zhu, Liping. <cite>Ethnic oasis: the Chinese in the Black Hills</cite>. Pierre: South Dakota State Historical Society Press, 2004.
+
+Lawrence & Houseworth, Publisher. <cite>Six mile canyon from C Street, Virginia City</cite>. Nevada Virginia City, 1866. [Published ; Printed Later] Photograph. https://www.loc.gov/item/2002719064/
+
+## New York
+
+_Like San Francisco, the richness and breadth of work in New York's Chinatown, and it's large continuing community, meant that I did not initially focus on materials from the area, but have nonetheless recorded a few as a starting point._
+
+Ostrow, David. <cite>Manhattan's Chinatown</cite>. Charleston, SC: Arcadia Pub, 2008. https://www.loc.gov/item/2007929952/
+
+<cite>The Chinese annual</cite>. New York, New York Chinese students' club, 1911. https://www.loc.gov/item/12004616/
 
 ## Philadelphia
 
+Wilson, Kathryn E. <cite>Ethnic renewal in Philadelphia's Chinatown: space, place, and struggle</cite>. 2015. https://www.loc.gov/item/2014042917/
+
 ## Portland
+
+Wong, Marie Rose. <cite>Sweet cakes, long journey: the Chinatowns of Portland, Oregon</cite>. Seattle: University of Washington Press, 2004. https://www.loc.gov/item/2003065752/
 
 ## Providence
 
-<cite>The Providence house directory and family address book</cite>. Providence, R. I., Sampson & Murdock Co, 1892. https://www.loc.gov/item/99002592/ (1907, 1909, 1911, and 1913 also available in the Science and Technical Reports Division's Business Directories area.)
+<cite>The Evening Bulletin Providence, R.I. -1995</cite>. https://www.loc.gov/item/sn83045219/
+
+<cite>Sanborn Fire Insurance Map from Providence, Providence County, Rhode Island</cite>. Sanborn Map Company, 1905. Map. https://www.loc.gov/item/sanborn08099_006/
+
+<cite>The Providence house directory and family address book</cite>. Providence, R. I., Sampson & Murdock Co, 1892.  (1907, 1909, 1911, and 1913 also available in the Science and Technical Reports Division's Business Directories area.)
+
+## Washington (state)
+
+<cite>Chinese children in Olympia, Wash</cite>. , ca. 1919. Photograph. https://www.loc.gov/item/2004670938/
+
+Tom, Brian. <cite>Marysville's Chinatown</cite>. Charleston, SC: Arcadia Pub, 2008. https://www.loc.gov/item/2008930816/
 
