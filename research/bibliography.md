@@ -1,67 +1,59 @@
 # Bibliography
 
-This bibliography is compiled from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other sites. It is not meant as a comprehensive listing of Library of Congress materials, and I will continue adding to it. If you have items to contribute please reach out; thank you.
+This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you have items to contribute please [reach out](/contact); thank you.
 
-For a bibliography of [Providence's Chinatown](https://unterbahn.com/chinatown), which I originally compiled before the start of this residency, I plan to expand on it with Library of Congress items and include it at a later time. 
+The Library of Congress is an enormous institution and resource, but of course many or most records of early histories of this kind are more represented in local, city and state archives, and most of all in personal, family, and community collections. For me, searching across the LOC's collections was a way to identify starting points for a deeper search of non-LOC materials. It's also important to me that these histories be well represented and accessible within the Library of Congress, and this bibliography may help in that regard. I have also begun gathering non-LOC materials and will be sharing them soon as well.
 
+For a bibliography of [Providence's Chinatown](https://unterbahn.com/chinatown), which I originally gathered before the start of this residency, I plan to expand on it with Library of Congress items and include it at a later time. 
 
-<!-- Only Chinatowns? No, but explain. Research into lost and erased enclaves of color, with a focus on Chinatowns. -->
+Finally, while this bibliography focuses mainly on early and erased Chinatowns (my initial area of focus), it also includes a few other communities such as an early Korean enclave called Pachappa Camp, and as the project continues, I am interested in learning about and including resources related to other erased enclaves of color. Again, if you have stories or resources to share, please [reach out](/contact).
 
-<!-- Only Library of Congress? No, but explain. -->
 
 ## Starting points
 
-Navigating the many divisions, collections, finding aids, guides, and search systems of the Library of Congress has been a challenge, even as the breadth of the library holds many possibilities. The following are a selection of collections, tools, services, and other starting points for research into lost enclaves of color, with a focus on Chinatowns.
+Navigating the many divisions, collections, finding aids, guides, and search systems of the Library of Congress has been a challenge, even as the breadth of the library holds many possibilities. The following are a selection of collections, tools, services, and other starting points for research into lost enclaves of color, with a focus on Chinatowns. 
 
-(continue here)
+The individual citations in the next section were largely found through these starting points, or by LOC librarians who helped me through the public [Ask a Librarian web service](https://ask.loc.gov/).
 
 
-[Collection] AAPI Community Collection - Asian Division - 1906-2013 https://guides.loc.gov/asian-american-pacific-islander/aapi-collection https://www.loc.gov/item/2013584998
+[AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection) (1906-2013) - contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. Publicly available, but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within. https://www.loc.gov/item/2013584998
 
-[Collection] Sanborn maps collection Maps   https://www.loc.gov/collections/sanborn-maps/about-this-collection/ 
+[Sanborn maps collection](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), Sanborn maps (see _Maps_ in [Searching images](images.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the US since the late 1800s.
 
-Collection Cities and Towns collections Maps   https://www.loc.gov/collections/cities-and-towns/ 
+[Cities and Towns collection](https://www.loc.gov/collections/cities-and-towns/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), this collection includes maps of many places, sorted geographically. 
 
-Collection Providence cities and towns collection Maps Providence  https://www.loc.gov/collections/cities-and-towns/?q=providence 
-Division
+[Prints and Photos Division](https://www.loc.gov/pictures/) - made up of many different collections, several of which are only available in person, although they are rapidly being scanned and uploaded. 
 
-Photos and Prints Division Photos   https://www.loc.gov/pictures/ 
+* [Geographic File filing series (US)](https://www.loc.gov/item/2005680325/)
+* [Specific Subject File filing series](https://www.loc.gov/item/2005675764/)
+* [Postcard file](https://www.loc.gov/item/2008680406/)
+* [Historic American Buildings](https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/) 
+* [Stereograph cards](https://www.loc.gov/collections/stereograph-cards/about-this-collection/) 
+* [Architecture, Design & Engineering Drawings](https://www.loc.gov/collections/architecture-design-and-engineering-drawings/about-this-collection/) 
+* [Carnegie Survey of the Architecture of the South](https://www.loc.gov/collections/carnegie-survey-architecture-of-the-south/about-this-collection/) 
+* [Farm Security Administration/Office of War Information Black-and-White Negatives](https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/) (1935-44)
 
-Geographic File filing series (US) Photos   https://www.loc.gov/item/2005680325/
+The Prints and Photos division also includes several collections which had made up the photo archives or "morguefiles" of different regional newspapers or magazines:
 
-Specific Subject File filing series Photos   https://www.loc.gov/item/2005675764/
+* [Detroit Publishing Company](https://www.loc.gov/collections/detroit-publishing-company/about-this-collection/) - this collection is available online, unlike several others of this type.
+* [New York World-Telegram and the Sun Newspaper Photo Collection](https://www.loc.gov/item/94505083) (1880-1967) - searching the collection's [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinatown&_type=all&select=all&_id=loc.pnp.eadpnp.pp021032&_displayTerm=chinatown&_zx=go&_raw_mfer_q=chinatown) for terms like "chinatown" can return some results, but they must then be checked in person.
+* [Look Magazine Picture Research File]() (1910-1970) - again, searching the [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinese&_type=all&select=all&_id=loc.pnp.eadpnp.pp019001&_displayTerm=chinese&_zx=go&_raw_mfer_q=chinese) can return some results which must then be checked in person. 
 
-Postcard file Photos   https://www.loc.gov/item/2008680406/
+[Chronicling America](https://chroniclingamerica.loc.gov/) & the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), for example, [all newspapers by ethnicity "chinese" until 1920](https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=50) See _Newspaper archives_ in [Searching for images](images.md) for more on this resource and how to use it.
 
-Historic American Buildings Photos   https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/ 
+Luo, K. & Lai, H.M. Chinese newspapers published in North Amer., 1854-1975. - this print index of newspapers identifies many newspapers by name, region, and where copies are available. It is available in print at the Asian Division reading room, and a few other copies exist at other institutions: https://worldcat.org/title/3551941 
 
-Collection Stereograph cards Photos   https://www.loc.gov/collections/stereograph-cards/about-this-collection/ 
+[Newspaper Navigator](https://news-navigator.labs.loc.gov/search) - an [LC Labs](https://labs.loc.gov/) experiment using machine learning to try searching for images in a subset of the [Chronicling America](https://chroniclingamerica.loc.gov/) collection. 
 
-New York World-Telegram and the Sun Newspaper Photo Collection Photos NYC/Providence 1880-1967 https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinatown&_type=all&select=all&_id=loc.pnp.eadpnp.pp021032&_displayTerm=chinatown&_zx=go&_raw_mfer_q=chinatown https://www.loc.gov/item/94505083
+_Business directories_ available in the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html) are not digitized or catalogued, but can be searched by region at the division's reading room, and include business listings and advertisements that can be useful clues.
 
-Collection Look Magazine Picture Research File Photos  " 1910-1970" https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinese&_type=all&select=all&_id=loc.pnp.eadpnp.pp019001&_displayTerm=chinese&_zx=go&_raw_mfer_q=chinese 
+[House History guide](https://guides.loc.gov/house-history) this guide from the Local History & Genealogy Division describes how to research the history of a house.
 
-Collection Detroit Publishing Company Photos   https://www.loc.gov/collections/detroit-publishing-company/about-this-collection/ 
+[Adam Matthews Food and Drink in History](https://eresources.loc.gov/record=e1002508~S9) - this database is full-text searchable, and I am interested in what insights it might give us into food and drink as part of the daily lives of residents of erased enclaves of color.
 
-Collection Architecture, Design & Engineering Drawings Photos   https://www.loc.gov/collections/architecture-design-and-engineering-drawings/about-this-collection/ 
+[Community Cookbooks](https://guides.loc.gov/community-cookbooks/introduction) - this collection may also contain useful information about foodways, and is part of the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html), which hosts cookbooks at the Library of Congress.
 
-Collection Carnegie Survey of the Architecture of the South Photos   https://www.loc.gov/collections/carnegie-survey-architecture-of-the-south/about-this-collection/ 
-
-Collection Farm Security Administration/Office of War Information Black-and-White Negatives Photos  1935-44 https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/ 
-
-Service Newspaper Navigator LC Labs Experiment   https://news-navigator.labs.loc.gov/search 
-
-Index Luo, K. & Lai, H.M. Chinese newspapers published in North Amer., 1854-1975. Asian  1854-1975 https://worldcat.org/title/3551941 
-
-Index US Newspaper Directory: All newspapers by ethnicity "chinese" until 1920 Newspapers  -1920 https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=20 
-
-Guide House History guide Local History & Genealogy   https://guides.loc.gov/house-history 
-
-Collection Adam Matthews Food and Drink in History (database) Science   https://eresources.loc.gov/record=e1002508~S9 
-
-Collection Community Cookbooks Science   https://guides.loc.gov/community-cookbooks/introduction 
-
-Collection China Folklife Folklife   https://guides.loc.gov/china-folklife 
+[China Folklife](https://guides.loc.gov/china-folklife) - the American Folklife Center at the Library of Congress includes a wide variety of materials from China and the US; an example is [Music and a Mystery to Celebrate the Chinese New Year](https://blogs.loc.gov/folklife/2017/01/music-chinese-new-year/), which presents recordings of Cantonese opera from 1902-3, recorded in either Philadelphia or New Jersey. 
 
 ----
 
@@ -69,34 +61,29 @@ Collection China Folklife Folklife   https://guides.loc.gov/china-folklife
 
 _These items and collections may be helpful in researching Chinatowns and other enclaves of color across the US._
 
+<cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
 
+Jones, David D. <cite>The surnames of the Chinese in America spelled according to the David Jones system of spelling Chinese names; with notes on various subjects of interest to the Chinese and those who do business with them</cite>. San Francisco, The Chinese name spelling company, 1904. https://www.loc.gov/item/12008613/
 
+<cite>Chinese American voices: from the gold rush to the present</cite>. Berkeley: University of California Press, 2006. https://www.loc.gov/item/2005021227/
 
-## New Orleans, Louisiana - Tulane Street Chinatown
+Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
 
-Several items in this collection were found or described by Richard Campanella and/or Winston Ho, each of whom has developed deep knowledge of New Orleans two Chinatowns, and on whose knowledege I have relied. 
+### Non-LOC resources
 
-Campanella, Richard. <cite>Geographies of New Orleans: urban fabrics before the storm</cite>. Lafayette, LA: Center for Louisiana Studies, 2006. https://www.loc.gov/item/2006927036/
+Chinese newspapers in the United States: Background notes and descriptive analysis.	Non-LOC		1978	https://files.eric.ed.gov/fulltext/ED165178.pdf
 
-<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 2, 1885. Map. https://www.loc.gov/item/sanborn03376_002/
+Chinese Newspapers, Periodicals, Dissertations @ Pitt: Up to the Mid-Twentieth Century	Non-LOC			https://pitt.libguides.com/c.php?g=12461&p=66151
 
-<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 2, 1896. Map. https://www.loc.gov/item/sanborn03376_006/
+America’s Historical Newspapers (online index)	Non-LOC			https://infoweb.newsbank.com/apps/readex/product-help/eanx?p=EANX
 
-<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 3, 1908. Map. https://www.loc.gov/item/sanborn03376_011/
+Geography of Chinese Workers Building the Transcontinental Railroad: A virtual reconstruction of the key historic sites (web)	Non-LOC			http://web.stanford.edu/group/chineserailroad/cgi-bin/website/virtual/
 
-Detroit Publishing Co., Copyright Claimant, and Publisher Detroit Publishing Co. <cite>Elks Place, New Orleans, La</cite>. United States New Orleans Louisiana, ca. 1906. Photograph. https://www.loc.gov/item/2016805994/
+Photogrammar (searching photographs by region and date)	Non-LOC			https://photogrammar.org/county/G4600810/timeline/193501-193801
 
-Historic American Buildings Survey, Creator, Koch, Richard, photographer. <cite>Charles Kock House, 153 South Rampart Street, New Orleans, Orleans Parish, LA</cite>. New Orleans Louisiana Orleans Parish, 1933. translateds by Price, Virginia Bmitter Documentation Compiled After. Photograph. https://www.loc.gov/item/la0618/
+Example: Walker Evans, Orleans Parish, -1938: https://photogrammar.org/county/G2200710/photographers/WalkerEvans/timeline/193501-193801
 
-Historic American Buildings Survey, Creator, and Jean Baptiste Poeyfarre. <cite>Vieux Carre Squares, Poeyfarre House, 532 Bourbon Street, New Orleans, Orleans Parish, LA</cite>. New Orleans Louisiana Orleans Parish, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/la0161/
-
-Evans, Walker, photographer. <cite>New Orleans downtown street. Louisiana</cite>. United States New Orleans Louisiana Orleans Parish, 1935. Dec. Photograph. https://www.loc.gov/item/2017759415/
-
-Detroit Publishing Co., Publisher, Jackson, William Henry, photographer. <cite>The Clay Monument, Canal Street, New Orleans</cite>. United States New Orleans Louisiana, None. [Between 1880 and 1897] Photograph. https://www.loc.gov/item/2016817550/
-
-Detroit Publishing Co., Publisher, Jackson, William Henry, photographer. <cite>Canal St. Street from the Clay Monument</cite>. United States New Orleans Louisiana, None. [Between 1880 and 1897] Photograph. https://www.loc.gov/item/2016817549/
-
-<cite>The New Orleans Daily Democrat New Orleans, La. -1880</cite>. (New Orleans, LA), Jan. 1 1877. https://www.loc.gov/item/sn83026413/ & https://chroniclingamerica.loc.gov/lccn/sn83026413/1880-03-19/ed-1/seq-10/ 
+2019 Chinese American Genealogy Conference in New York City (how-to guides)	Non-LOC			https://www.thinkchinatown.org/genealogy
 
 
 ## Truckee, California Chinatown
@@ -128,6 +115,34 @@ Hart, Alfred A, photographer. <cite>Below Camp 37, lower canyon of Truckee</cite
 
 Edwards, W. F., Active 1883. <cite>W. F. Edwards' Tourists' guide and directory of the Truckee Basin</cite>. composeds by Irons, Chas. D Truckee, Cal.: "Republican" job print, 1883. https://loc.gov/item/23006165/
 
+
+## New Orleans, Louisiana - Tulane Street Chinatown
+
+Several items in this collection were found or described by Richard Campanella and/or Winston Ho, each of whom has developed deep knowledge of New Orleans two Chinatowns, and on whose knowledege I have relied. 
+
+Campanella, Richard. <cite>Geographies of New Orleans: urban fabrics before the storm</cite>. Lafayette, LA: Center for Louisiana Studies, 2006. https://www.loc.gov/item/2006927036/
+
+<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 2, 1885. Map. https://www.loc.gov/item/sanborn03376_002/
+
+<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 2, 1896. Map. https://www.loc.gov/item/sanborn03376_006/
+
+<cite>Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana</cite>. Sanborn Map Company, ; Vol. 3, 1908. Map. https://www.loc.gov/item/sanborn03376_011/
+
+Detroit Publishing Co., Copyright Claimant, and Publisher Detroit Publishing Co. <cite>Elks Place, New Orleans, La</cite>. United States New Orleans Louisiana, ca. 1906. Photograph. https://www.loc.gov/item/2016805994/
+
+Historic American Buildings Survey, Creator, Koch, Richard, photographer. <cite>Charles Kock House, 153 South Rampart Street, New Orleans, Orleans Parish, LA</cite>. New Orleans Louisiana Orleans Parish, 1933. translateds by Price, Virginia Bmitter Documentation Compiled After. Photograph. https://www.loc.gov/item/la0618/
+
+Historic American Buildings Survey, Creator, and Jean Baptiste Poeyfarre. <cite>Vieux Carre Squares, Poeyfarre House, 532 Bourbon Street, New Orleans, Orleans Parish, LA</cite>. New Orleans Louisiana Orleans Parish, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/la0161/
+
+Evans, Walker, photographer. <cite>New Orleans downtown street. Louisiana</cite>. United States New Orleans Louisiana Orleans Parish, 1935. Dec. Photograph. https://www.loc.gov/item/2017759415/
+
+Detroit Publishing Co., Publisher, Jackson, William Henry, photographer. <cite>The Clay Monument, Canal Street, New Orleans</cite>. United States New Orleans Louisiana, None. [Between 1880 and 1897] Photograph. https://www.loc.gov/item/2016817550/
+
+Detroit Publishing Co., Publisher, Jackson, William Henry, photographer. <cite>Canal St. Street from the Clay Monument</cite>. United States New Orleans Louisiana, None. [Between 1880 and 1897] Photograph. https://www.loc.gov/item/2016817549/
+
+<cite>The New Orleans Daily Democrat New Orleans, La. -1880</cite>. (New Orleans, LA), Jan. 1 1877. https://www.loc.gov/item/sn83026413/ & https://chroniclingamerica.loc.gov/lccn/sn83026413/1880-03-19/ed-1/seq-10/ 
+
+
 ## Deadwood, South Dakota Chinatown
 
 R. L. Polk & Co.'s Dakota Gazetteer and Business Directory. United States: R.L. Polk & Company, 1888.
@@ -148,17 +163,8 @@ Grabill, John C. H. <cite>Deadwood, South Dakota, ; "I" troop, 8th cavalry near 
 
 While my initial search has focused on just a few places, I found a wide variety of materials on Chinatowns and other enclaves of color around the US, and I've included them here to be expanded on later.
 
+
 ----
-
-## General
-
-<cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
-
-Jones, David D. <cite>The surnames of the Chinese in America spelled according to the David Jones system of spelling Chinese names; with notes on various subjects of interest to the Chinese and those who do business with them</cite>. San Francisco, The Chinese name spelling company, 1904. https://www.loc.gov/item/12008613/
-
-<cite>Chinese American voices: from the gold rush to the present</cite>. Berkeley: University of California Press, 2006. https://www.loc.gov/item/2005021227/
-
-Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
 
 ## Western US
 

@@ -1,8 +1,5 @@
 # Mapping photos
 
-## 
-
-
 ## Organizing photos on a map
 
 As you collect more and more photos, you'll need to keep track of what each photograph represents, spatially. Placing them onto a map can be a powerful means of organizing what you know and don't know. 
@@ -33,4 +30,4 @@ Some places, like Truckee, CA, in the 1870s, or Deadwood, SD in the 1880s, I hav
 ![map](images/mapping-deadwood.jpg)
 _Excerpt from [Deadwood, [S.D.] from Mrs. Livingston's Hill](https://www.loc.gov/pictures/item/99613869/); between 1887 and 1892, Library of Congress._
 
-[Next: Tracking photos >](tracking.md)
+[Next: Tracking photos >](/research/tracking.md)
