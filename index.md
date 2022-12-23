@@ -29,8 +29,12 @@ _An early walkthrough of a virtual reconstruction of Providence's Chinatown in 1
 
 ## Seeing Providence Chinatown
 
-This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown). In thinking about my approach in that project, I wrote:
+This research guide comes out of initial work in [Seeing Providence Chinatown](https://unterbahn.com/chinatown), inspired by the excellent [RI Chinese History Project](https://richinesehistory.com/), by Angela Yuanuan Feng, Julieanne Fontana, John Eng-Wong, and others at Brown University's [Center for Public Humanities and Cultural Heritage](https://www.brown.edu/academics/public-humanities/home). 
+
+In thinking about my approach in that project, I wrote:
 
 > I hope to produce a more immersive and contextually complete record by way of a spatial and sensory reconstruction, which will enable audiences to experience in a richer and more personal way what it would have felt like to stand in the heart of Providence's Chinatown and other erased enclaves of color. Our histories include traumas – my ancestors were not allowed into the US until 1965, and the early history of Asian Americans in Providence was also fraught with exoticization – like Chinese performer Afong Moy’s 1835 appearance as a curiosity in the Providence Museum. These histories are over-represented in the archive.
 
 > By contrast, my goal is to use the process of reconstruction as one of healing and of belonging, and as a reclaiming and re-contextualizing of the archive and its meanings for our futures, inspired by the speculative futurity projects of contemporary Black artists and Saidiya Hartman's concept of _critical fabulation_. My practice engages peoples’ creative and collaborative abilities, building tools and spaces which support and inspire creative practices, and the Relational Reconstruction Toolkit focuses on the creative possibilities of what it could have felt like –as an Asian American person – to walk down the street and experience a sense of belonging at that moment in history.
+
+_Seeing Providence Chinatown_ received early support from the [Rhode Island Council for the Humanities](https://rihumanities.org/), [Movement Education Outdoors](https://meoutdoorsri.com/), [AS220](https://as220.org), and the City of Providence's [Department of Arts, Culture, and Tourism](https://artculturetourism.com/).
