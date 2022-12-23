@@ -10,6 +10,8 @@ This repository contains the documentation for the Seeing Lost Enclaves project.
 The files contained can be viewed individually but are cross-linked as well:
 
 * [Research](research/index.md) contains Part 1 and is online in draft form; locating reference materials for relational reconstruction.
+    * See the [bibliography here](research/bibliography.md)
+    * See an initial source set of public domain Library of Congress materials [here](research/collection.md)
 * **Reconstruction** will cover the development of modeling textures from source and reference images.
 * **Modeling** will cover crafting 3D buildings and mapping reconstructed facades and textures onto them.
 * **Soundscapes** will cover developing audio soundscapes from archival and reference recordings.
