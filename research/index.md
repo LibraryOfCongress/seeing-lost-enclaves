@@ -18,7 +18,9 @@ This guide will continue to grow and change as the project emerges.
 
 ## Contents
 
-* [Introductory blog post](blog/01-introduction.md)
+<!-- * [Introductory blog post](blog/01-introduction.md) -->
+
+* Introductory blog post (coming soon)
 * [Questions](research/questions.md)
 * [Searching for images](research/images.md)
 * [Mapping photos](research/mapping.md)

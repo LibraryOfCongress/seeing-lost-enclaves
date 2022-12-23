@@ -14,13 +14,18 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 
 ## Contents
 
-* [Introductory blog post](blog/01-introduction.md)
+<!-- * [Introductory blog post](blog/01-introduction.md) -->
+
+* Introductory blog post (coming soon)
 * [Part 1: Research](research/)
 * (additional phases coming in 2023)
 
 ## Relational reconstruction
 
 _Relational reconstruction_ focuses on the potential for a more multifaceted remembrance and correction, through relationships between the experiences partially represented in the archive, and today’s parallel experiences in minoritized groups. It acknowledges the limitations of the archive as a means of accessing erased moments, experiences, and spaces. In this approach, I seek to correct erasure, but through an imaginative, immersive, social, and creative approach, which encloses a gentle and nourishing space rather than enclosing an artifact of history in a diorama at a museum or on a plaque. This process restructures the archive as a set of selective clues, shaped by the active intent to obscure ancestral knowledges best expressed in ways least likely to be historically preserved – emotional tone, color, sound and smell, private moments and ephemera of personal relationships, hopes, aspirations, things unsaid.
+
+![](research/images/first-walkthrough.gif)
+_An early walkthrough of a virtual reconstruction of Providence's Chinatown in 1914._
 
 ## Seeing Providence Chinatown
 

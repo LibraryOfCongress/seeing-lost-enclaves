@@ -8,7 +8,7 @@ At the beginning, many of these questions will be hard to answer; that's OK – 
 
 First, if you can, visit the place as it is today. It might be a virtual visit, a Street View visit, or maybe a visit through scenes in a movie set in the place. 
 
-![](research/images/questions-streetview.jpg) 
+![](images/questions-streetview.jpg) 
 _The site of Providence, Rhode Island's Chinatown before 1914, with reference photograph._
 
 What does the place mean to you, now? How does it make you feel? What does it mean to people present today? These things may change as your project emerges, so it's good to note them now. 
@@ -45,6 +45,6 @@ Apart from, or in the absence of such accounts, what are the limitations of Whit
 
 ### What can we reconstruct from formal records?
 
-Business directories, newspaper articles, insurance maps, and advertisements can offer clues to who lived and worked at specific addresses. What were some key addresses/homes/businesses? Did street names change over time? Read on to learn some ways of organizing this knowledge. Also see the section about [tracking photos in spreadsheets](tracking.md).
+Business directories, newspaper articles, insurance maps, and advertisements (see _Starting points_ in the [bibliography](/research/bibliography.md)) can offer clues to who lived and worked at specific addresses. What were some key addresses/homes/businesses? Did street names change over time? Read on to learn some ways of organizing this knowledge. Also see the section about [tracking photos in spreadsheets](tracking.md).
 
 [Next: Searching for Images >](images.md)
