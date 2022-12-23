@@ -19,7 +19,7 @@ This is an intimidating goal. But what I've learned over the past year is not on
 ![black and white photo of two children in nice outfits, holding hands with a parent or grandparent in a dark, possibly linen traditional shirt and a basket; small child in the middle with an uncertain expression, older one with a smile and a confident step; market and carts up the hill beyond](images/01-children-walking.jpg)
 _Children with a parent or grandparent, with a marketplace in the distance behind them. (cropped) [Specific Subject File filing series](https://www.loc.gov/item/2005675764/), Print and Photo Division, Library of Congress._
 
-I’m beginning to reach out to folks about – slowly – beginning a reconstruction project in another place. Last week I spent time looking for records in Truckee, CA, New Orleans, Deadwood, SD, and other places.
+I’m beginning to reach out to folks about – slowly – beginning a reconstruction project in another place. I've recently spent time looking for records in Truckee, CA, New Orleans, Deadwood, SD, and other places.
 
 I’m interested in connecting with descendants of these communities, as well as with Asian American artists, historians, and community members interested in remembrance related to these places. Please see the link in my bio to let me know you’d like to connect, or just DM!
 
