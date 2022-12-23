@@ -47,4 +47,4 @@ Apart from, or in the absence of such accounts, what are the limitations of Whit
 
 Business directories, newspaper articles, insurance maps, and advertisements (see _Starting points_ in the [bibliography](/research/bibliography.md)) can offer clues to who lived and worked at specific addresses. What were some key addresses/homes/businesses? Did street names change over time? Read on to learn some ways of organizing this knowledge. Also see the section about [tracking photos in spreadsheets](tracking.md).
 
-[Next: Searching for Images >](images.md)
+[Next: Searching for Images >](/research/images.md)
