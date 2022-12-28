@@ -1,6 +1,6 @@
 # Bibliography
 
-This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you would like to download a selection of images and films I've curated from the LOC's collections, see the [source set(?) section of this repo] (https://github.com/jywarren/seeing-lost-enclaves/blob/main/research/collection.md). If you have items to contribute please [reach out](/contact); thank you.
+This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you would like to download an initial selection of images and films I've curated from the LOC's collections, see the [this page](/research/collection.md). If you have items to contribute please [reach out](/contact); thank you.
 
 The Library of Congress is an enormous institution and resource, but of course many or most records of early histories of this kind are more represented in local cultural heritage organizations such as historic societies, city and state archives, and most of all in personal, family, and community collections. For me, searching across the LOC's collections was a way to identify starting points for a deeper search of non-LOC materials. It's also important to me that these histories be well represented and accessible within the Library of Congress, and this bibliography may help in that regard. I have also begun gathering non-LOC materials and will be sharing them soon as well.
 
@@ -14,7 +14,6 @@ Finally, while this bibliography focuses mainly on early and erased Chinatowns (
 Navigating the many divisions, collections, finding aids, guides, and search systems of the Library of Congress has been a challenge, even as the breadth of the library holds many possibilities. The following are a selection of collections, tools, services, and other starting points for research into lost enclaves of color, with a focus on Chinatowns. 
 
 The individual citations in the next section were largely found through these starting points, or by LOC librarians who helped me through the public [Ask a Librarian web service](https://ask.loc.gov/).
-
 
 [AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection) (1906-2013) - contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. Publicly available, but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within. https://www.loc.gov/item/2013584998
 
@@ -74,23 +73,25 @@ Jones, David D. <cite>The surnames of the Chinese in America spelled according t
 
 Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
 
-### Non-LOC resources
+### Non-LOC general resources
 
-Chinese newspapers in the United States: Background notes and descriptive analysis.	Non-LOC		1978	https://files.eric.ed.gov/fulltext/ED165178.pdf
+Chinese newspapers in the United States: Background notes and descriptive analysis. (1978) https://files.eric.ed.gov/fulltext/ED165178.pdf
 
-Chinese Newspapers, Periodicals, Dissertations @ Pitt: Up to the Mid-Twentieth Century	Non-LOC			https://pitt.libguides.com/c.php?g=12461&p=66151
+Chinese Newspapers, Periodicals, Dissertations @ Pitt: Up to the Mid-Twentieth Century https://pitt.libguides.com/c.php?g=12461&p=66151
 
-America’s Historical Newspapers (online index)	Non-LOC			https://infoweb.newsbank.com/apps/readex/product-help/eanx?p=EANX
+America’s Historical Newspapers (online index) https://infoweb.newsbank.com/apps/readex/product-help/eanx?p=EANX
 
-Geography of Chinese Workers Building the Transcontinental Railroad: A virtual reconstruction of the key historic sites (web)	Non-LOC			http://web.stanford.edu/group/chineserailroad/cgi-bin/website/virtual/
+Geography of Chinese Workers Building the Transcontinental Railroad: A virtual reconstruction of the key historic sites (web publication) http://web.stanford.edu/group/chineserailroad/cgi-bin/website/virtual/
 
-Photogrammar (searching photographs by region and date)	Non-LOC			https://photogrammar.org/county/G4600810/timeline/193501-193801
+Photogrammar (search service for photographs by region and date) https://photogrammar.org/county/G4600810/timeline/193501-193801
 
-Example: Walker Evans, Orleans Parish, -1938: https://photogrammar.org/county/G2200710/photographers/WalkerEvans/timeline/193501-193801
+    Example: Walker Evans, Orleans Parish, <1938: https://photogrammar.org/county/G2200710/photographers/WalkerEvans/timeline/193501-193801
 
-2019 Chinese American Genealogy Conference in New York City (how-to guides)	Non-LOC			https://www.thinkchinatown.org/genealogy
+2019 Chinese American Genealogy Conference in New York City (including  how-to guides) https://www.thinkchinatown.org/genealogy
 
-### LOC resources for site-specific Chinatowns
+
+### LOC resources for Chinatowns and enclaves of color by region
+
 ## Truckee, California Chinatown
 
 <cite>Sanborn Fire Insurance Map from Truckee, Nevada County, California</cite>. Sanborn Map Company, Jan, 1885. Map. https://www.loc.gov/item/sanborn00895_001/
