@@ -1,8 +1,8 @@
 # Bibliography
 
-This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you have items to contribute please [reach out](/contact); thank you.
+This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you would like to download an initial selection of images and films I've curated from the LOC's collections, see the [this page](/research/collection.md). If you have items to contribute please [reach out](/contact); thank you.
 
-The Library of Congress is an enormous institution and resource, but of course many or most records of early histories of this kind are more represented in local, city and state archives, and most of all in personal, family, and community collections. For me, searching across the LOC's collections was a way to identify starting points for a deeper search of non-LOC materials. It's also important to me that these histories be well represented and accessible within the Library of Congress, and this bibliography may help in that regard. I have also begun gathering non-LOC materials and will be sharing them soon as well.
+The Library of Congress is an enormous institution and resource, but of course many or most records of early histories of this kind are more represented in local cultural heritage organizations such as historic societies, city and state archives, and most of all in personal, family, and community collections. For me, searching across the LOC's collections was a way to identify starting points for a deeper search of non-LOC materials. It's also important to me that these histories be well represented and accessible within the Library of Congress, and this bibliography may help in that regard. I have also begun gathering non-LOC materials and will be sharing them soon as well.
 
 For a bibliography of [Providence's Chinatown](https://unterbahn.com/chinatown), which I originally gathered before the start of this residency, I plan to expand on it with Library of Congress items and include it at a later time. 
 
@@ -15,31 +15,35 @@ Navigating the many divisions, collections, finding aids, guides, and search sys
 
 The individual citations in the next section were largely found through these starting points, or by LOC librarians who helped me through the public [Ask a Librarian web service](https://ask.loc.gov/).
 
-
 [AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection) (1906-2013) - contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. Publicly available, but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within. https://www.loc.gov/item/2013584998
 
 [Sanborn maps collection](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), Sanborn maps (see _Maps_ in [Searching images](images.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the US since the late 1800s.
 
 [Cities and Towns collection](https://www.loc.gov/collections/cities-and-towns/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), this collection includes maps of many places, sorted geographically. 
 
-[Prints and Photos Division](https://www.loc.gov/pictures/) - made up of many different collections, several of which are only available in person, although they are rapidly being scanned and uploaded. 
+[Geographic File filing series (US)](https://www.loc.gov/item/2005680325/) - part of the [Prints and Photographss Division](https://www.loc.gov/pictures/),
 
-* [Geographic File filing series (US)](https://www.loc.gov/item/2005680325/)
-* [Specific Subject File filing series](https://www.loc.gov/item/2005675764/)
-* [Postcard file](https://www.loc.gov/item/2008680406/)
-* [Historic American Buildings](https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/) 
-* [Stereograph cards](https://www.loc.gov/collections/stereograph-cards/about-this-collection/) 
-* [Architecture, Design & Engineering Drawings](https://www.loc.gov/collections/architecture-design-and-engineering-drawings/about-this-collection/) 
-* [Carnegie Survey of the Architecture of the South](https://www.loc.gov/collections/carnegie-survey-architecture-of-the-south/about-this-collection/) 
-* [Farm Security Administration/Office of War Information Black-and-White Negatives](https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/) (1935-44)
+[Specific Subject File filing series](https://www.loc.gov/item/2005675764/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
 
-The Prints and Photos division also includes several collections which had made up the photo archives or "morguefiles" of different regional newspapers or magazines:
+[Postcard file](https://www.loc.gov/item/2008680406/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+[Historic American Buildings](https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/about-this-collection/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+[Stereograph cards](https://www.loc.gov/collections/stereograph-cards/about-this-collection/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+[Architecture, Design & Engineering Drawings](https://www.loc.gov/collections/architecture-design-and-engineering-drawings/about-this-collection/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+[Carnegie Survey of the Architecture of the South](https://www.loc.gov/collections/carnegie-survey-architecture-of-the-south/about-this-collection/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+[Farm Security Administration/Office of War Information Black-and-White Negatives](https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/about-this-collection/) (1935-44) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
+
+The [Prints and Photographs division] (https://www.loc.gov/pictures/) also includes several collections which had made up the photo archives or "morguefiles" of different regional newspapers or magazines:
 
 * [Detroit Publishing Company](https://www.loc.gov/collections/detroit-publishing-company/about-this-collection/) - this collection is available online, unlike several others of this type.
 * [New York World-Telegram and the Sun Newspaper Photo Collection](https://www.loc.gov/item/94505083) (1880-1967) - searching the collection's [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinatown&_type=all&select=all&_id=loc.pnp.eadpnp.pp021032&_displayTerm=chinatown&_zx=go&_raw_mfer_q=chinatown) for terms like "chinatown" can return some results, but they must then be checked in person.
 * [Look Magazine Picture Research File]() (1910-1970) - again, searching the [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinese&_type=all&select=all&_id=loc.pnp.eadpnp.pp019001&_displayTerm=chinese&_zx=go&_raw_mfer_q=chinese) can return some results which must then be checked in person. 
 
-[Chronicling America](https://chroniclingamerica.loc.gov/) & the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), for example, [all newspapers by ethnicity "chinese" until 1920](https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=50) See _Newspaper archives_ in [Searching for images](images.md) for more on this resource and how to use it.
+[Chronicling America](https://chroniclingamerica.loc.gov/) & the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/) - part of the [Serial and Government Publication division] (https://www.loc.gov/rr/news/brochure.html), are newspaper collections. For example, you can search [all newspapers by ethnicity "chinese" until 1920](https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=50) See _Newspaper archives_ in [Searching for images](images.md) for more on this resource and how to use it.
 
 Luo, K. & Lai, H.M. Chinese newspapers published in North Amer., 1854-1975. - this print index of newspapers identifies many newspapers by name, region, and where copies are available. It is available in print at the Asian Division reading room, and a few other copies exist at other institutions: https://worldcat.org/title/3551941 
 
@@ -47,13 +51,13 @@ Luo, K. & Lai, H.M. Chinese newspapers published in North Amer., 1854-1975. - th
 
 _Business directories_ available in the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html) are not digitized or catalogued, but can be searched by region at the division's reading room, and include business listings and advertisements that can be useful clues.
 
-[House History guide](https://guides.loc.gov/house-history) this guide from the Local History & Genealogy Division describes how to research the history of a house.
+[House History guide](https://guides.loc.gov/house-history) this guide from the [Local History & Genealogy Division] (https://www.loc.gov/rr/genealogy/) describes how to research the history of a house.
 
-[Adam Matthews Food and Drink in History](https://eresources.loc.gov/record=e1002508~S9) - this database is full-text searchable, and I am interested in what insights it might give us into food and drink as part of the daily lives of residents of erased enclaves of color.
+[Adam Matthews Food and Drink in History](https://eresources.loc.gov/record=e1002508~S9) - part of the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html), this database is full-text searchable, and I am interested in what insights it might give us into food and drink as part of the daily lives of residents of erased enclaves of color.
 
 [Community Cookbooks](https://guides.loc.gov/community-cookbooks/introduction) - this collection may also contain useful information about foodways, and is part of the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html), which hosts cookbooks at the Library of Congress.
 
-[China Folklife](https://guides.loc.gov/china-folklife) - the American Folklife Center at the Library of Congress includes a wide variety of materials from China and the US; an example is [Music and a Mystery to Celebrate the Chinese New Year](https://blogs.loc.gov/folklife/2017/01/music-chinese-new-year/), which presents recordings of Cantonese opera from 1902-3, recorded in either Philadelphia or New Jersey. 
+[China Folklife](https://guides.loc.gov/china-folklife) - the [American Folklife Center] (https://www.loc.gov/folklife/) at the Library of Congress includes a wide variety of materials from China and the US; an example is [Music and a Mystery to Celebrate the Chinese New Year](https://blogs.loc.gov/folklife/2017/01/music-chinese-new-year/), which presents recordings of Cantonese opera from 1902-3, recorded in either Philadelphia or New Jersey. 
 
 ----
 
@@ -69,22 +73,24 @@ Jones, David D. <cite>The surnames of the Chinese in America spelled according t
 
 Tsien T. H. 1962. “Book Review: A Guide to Doctoral Dissertations by Chinese Students in America 1905-1960.” The Library Quarterly: Information Community Policy 241–42. https://www.loc.gov/item/2013584998/
 
-### Non-LOC resources
+### Non-LOC general resources
 
-Chinese newspapers in the United States: Background notes and descriptive analysis.	Non-LOC		1978	https://files.eric.ed.gov/fulltext/ED165178.pdf
+Chinese newspapers in the United States: Background notes and descriptive analysis. (1978) https://files.eric.ed.gov/fulltext/ED165178.pdf
 
-Chinese Newspapers, Periodicals, Dissertations @ Pitt: Up to the Mid-Twentieth Century	Non-LOC			https://pitt.libguides.com/c.php?g=12461&p=66151
+Chinese Newspapers, Periodicals, Dissertations @ Pitt: Up to the Mid-Twentieth Century https://pitt.libguides.com/c.php?g=12461&p=66151
 
-America’s Historical Newspapers (online index)	Non-LOC			https://infoweb.newsbank.com/apps/readex/product-help/eanx?p=EANX
+America’s Historical Newspapers (online index) https://infoweb.newsbank.com/apps/readex/product-help/eanx?p=EANX
 
-Geography of Chinese Workers Building the Transcontinental Railroad: A virtual reconstruction of the key historic sites (web)	Non-LOC			http://web.stanford.edu/group/chineserailroad/cgi-bin/website/virtual/
+Geography of Chinese Workers Building the Transcontinental Railroad: A virtual reconstruction of the key historic sites (web publication) http://web.stanford.edu/group/chineserailroad/cgi-bin/website/virtual/
 
-Photogrammar (searching photographs by region and date)	Non-LOC			https://photogrammar.org/county/G4600810/timeline/193501-193801
+Photogrammar (search service for photographs by region and date) https://photogrammar.org/county/G4600810/timeline/193501-193801
 
-Example: Walker Evans, Orleans Parish, -1938: https://photogrammar.org/county/G2200710/photographers/WalkerEvans/timeline/193501-193801
+    Example: Walker Evans, Orleans Parish, <1938: https://photogrammar.org/county/G2200710/photographers/WalkerEvans/timeline/193501-193801
 
-2019 Chinese American Genealogy Conference in New York City (how-to guides)	Non-LOC			https://www.thinkchinatown.org/genealogy
+2019 Chinese American Genealogy Conference in New York City (including  how-to guides) https://www.thinkchinatown.org/genealogy
 
+
+### LOC resources for Chinatowns and enclaves of color by region
 
 ## Truckee, California Chinatown
 
