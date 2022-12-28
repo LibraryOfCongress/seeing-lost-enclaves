@@ -12,6 +12,10 @@ My work centers on the meanings of these histories and places to descendants, Ch
 
 Though Chinatowns are for me a starting point, due to my work in Providence's Chinatown, I am also interested in the histories of other erased communities of color, and hope to learn more about these histories over the course of the project. Please [reach out](contact.md) if you are interested in sharing or contributing.
 
+## Can I visit one of the virtual reconstructions online?
+
+So far, I have hosted public visits and walking tours to Providence's Chinatown, and will continue doing so. I am working on ways to enable asynchronous visits as well, please stay tuned.
+
 ## Can I participate? 
 
 Soon, I plan to begin offering workshops based in the techniques I have been developing, and will post these on my Instagram and Twitter accounts. These will range from personal-scale [Ancestral Memory Enclaves workshops](https://unterbahn.com/2022/07/07/enclaves/) such as I have led in the past, to workshops focused on other parts of the reconstruction process.
