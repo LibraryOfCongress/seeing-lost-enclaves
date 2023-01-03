@@ -2,6 +2,8 @@
 
 In the spirit of a "Constellation of Inspirations" ([Alice Yuan Zhang](https://aliceyuanzhang.com/)), here are a range of people, projects, writings, and ideas which have inspired and shaped my work:
 
+[RI Chinese History Project](https://richinesehistory) by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong, Robert Lee, and others. This project is how I first learned about Providence's Chinatown, and I'm grateful that with their support I have been able to pursue this project. Also see the [Public Works podcast interview](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzk2Njc5MDIwL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNDQyNzQ5MzUx?ep=14).
+
 [Future Through Memory](https://futurethroughmemory.lilianleung.com/) by Lilian Leung; virtual storytelling through Toronto’s Chinatown, including community-produced 3D scans of important sites.
 
 https://www.longtimenoseechinatownto.com/ envisioning Chinatown futures (Toronto)
