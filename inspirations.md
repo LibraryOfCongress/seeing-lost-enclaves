@@ -12,6 +12,7 @@ Forever Chinatown is the story of artist Frank Wong's work to reconstruct interi
 
 [Cynthia Copeland: Restoring Seneca Village - Lessons for Snowtown](https://www.youtube.com/watch?v=VNnjxHtg2cw) includes historical and archaeological work in a Black community that lived in what is now Central Park, touching on their search for descendants, as well as participatory archaeology work, the use of core sampling and ground penetrating radar in understanding this community. 
 
+[Tending our Roots](https://tendingourroots.org/) - "A growing archive of stories about making places of belonging in AAPI America" - especially the [Vision and Values page](https://tendingourroots.org/vision-values/intersectional-movement-for-justice-and-equity/)
 
 ## Histories of Chinatowns and erased enclaves of color
 
