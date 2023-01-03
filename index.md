@@ -1,4 +1,4 @@
-![](research/images/empire-theater.png)
+![Screenshot of a model of an old theater and tailor shop, fragments of photos and maps visible.](research/images/empire-theater.png)
 _A rough draft 3D model of the Empire Theater at the edge of Providence's Chinatown, crafted from period photographs and maps._
 
 # Seeing Lost Enclaves
@@ -24,7 +24,7 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 
 _Relational reconstruction_ focuses on the potential for a more multifaceted remembrance and correction, through relationships between the experiences partially represented in the archive, and today’s parallel experiences in minoritized groups. It acknowledges the limitations of the archive as a means of accessing erased moments, experiences, and spaces. In this approach, I seek to correct erasure, but through an imaginative, immersive, social, and creative approach, which encloses a gentle and nourishing space rather than enclosing an artifact of history in a diorama at a museum or on a plaque. This process restructures the archive as a set of selective clues, shaped by the active intent to obscure ancestral knowledges best expressed in ways least likely to be historically preserved – emotional tone, color, sound and smell, private moments and ephemera of personal relationships, hopes, aspirations, things unsaid.
 
-![](research/images/first-walkthrough.gif)
+![Animated gif of walking through a digital model of Chinatown in Providence, grainy building facades and a white background.](research/images/first-walkthrough.gif)
 _An early walkthrough of a virtual reconstruction of Providence's Chinatown in 1914._
 
 ## Seeing Providence Chinatown

@@ -4,7 +4,8 @@ Searching through archival images can be traumatic and emotional. Especially whe
 
 For me, finding images has required luck, creativity, and persistence. Searching for "Providence Chinatown" won't bring up many photos of what the neighborhood used to look like (although this project is itself beginning to change that). Many of the glimpses we can find of the neighborhood are incidental -- in the background of photographs of other things, like the image accompanying this article about Central Baptist Church:
 
-![Central Baptist Church](images/images-central-baptist.png)
+![Annotated images of Central Baptist Church, highlighting a Chop Suey sign on a neighboring building, an awning with "ORIENTAL RESTAURANT," and a view of the building from a second angle.](images/images-central-baptist.png)
+_Images of Central Baptist Church from the [Rhode Island State Archives](https://www.sos.ri.gov/divisions/state-archives)_
 
 "Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labelled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 
@@ -13,7 +14,7 @@ For me, finding images has required luck, creativity, and persistence. Searching
 
 In my experience, using Google or DuckDuckGo image search is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
 
-![](images/images-image-search.png)
+![A screenshot of Duck Duck Go image search for the phrase "walker street providence" showing a range of photos of buildings, some old and some new.](images/images-image-search.png)
 
 Starting with a phrase like "Providence Chinatown" or "historic Providence Chinatown" makes sense. You can begin to develop a list of keywords as well; mine included some of the following. Limit to a time range as well if possible.
 
@@ -31,7 +32,7 @@ If there is a short street near your location, it's worth focusing on it. In New
 
 Pair the above keywords with your place name ("Providence") or "historic" or "archival"; you can also try things like "Overview of Truckee" for photos taken from a tall building or nearby hill.
 
-![](images/images-deadwood-chinatown.jpg)
+![A black and white photo of a valley with a small town organized around a main street winding into the distance, with pine trees on neighboring hills.](images/images-deadwood-chinatown.jpg)
 _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by Grabill, John C. H, between 1887-92. The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
 
 
@@ -39,7 +40,7 @@ _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by Grabill, John C. H, between 1
 
 Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the US since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. 
 
-![](images/images-providence-chinatown.jpg)
+![A scan of an old map with yellow and pink building "footprints" marked, street names and businesses like "tailor" and "Chine Gro." on Burrill Street.](images/images-providence-chinatown.jpg)
 _An 1899 Sanborn map of Providence's Chinatown, showing several Chinese American businesses._
 
 Some local records may contain property maps and other detailed maps at a similar level of detail to Sanborn maps, and are worth searching for at local libraries, archives, and City Hall records. See [Mapping photos](/research/mapping.md) for more on how to use this kind of map.
@@ -53,7 +54,7 @@ Looking over your maps and photographs, find a landmark with the neighborhood in
 
 Building out a timeline for nearby landmarks can also help with this kind of search; see _Build a rough timeline_ in the [Tracking photos](tracking.md) section.
 
-![](images/images-modern-theater.jpg)
+![Black and white photo of a busy street with people walking on the sidewalk in front of a theater, an old car parked on the curb, crowds gathering on the corner in the distance. A billboard advertises Gold Medal Flour.](images/images-modern-theater.jpg)
 _The Modern Theater in 1916, showing the street corner just outside of Chinatown following its destruction in 1914, from [CinemaTreasures.org](http://cinematreasures.org/theaters/6596/photos/336594), dated from the posters of what was playing at the time._
 
 
@@ -62,7 +63,7 @@ _The Modern Theater in 1916, showing the street corner just outside of Chinatown
 The website [CinemaTreasures.org](https://cinematreasures.org) is a surprisingly rich resource for tracking the history of old theaters, from construction dates to name changes to photographs and even dating images based on the posters of shows currently playing. Check the Photos and Comments tabs of a page to see user contributions.
 
 
-![](images/images-deadwood-race.jpg)
+![A black and whit photo of a group of people running, pulling a wheeled cart, in matching white shirts, down a dusty street lined with spectators and decorated with flags.](images/images-deadwood-race.jpg)
 _"The great Hub-and-Hub race at Deadwood, Dak., July 4, 1888, between the only two Chinese hose teams in the United States" by John C. H. Grabill. [Library of Congress](https://www.loc.gov/item/99613960/)_
 
 ### Events & celebrations

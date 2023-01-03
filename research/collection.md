@@ -4,6 +4,8 @@ As part of the first milestone of the _Seeing Lost Enclaves_ project, I've compi
 
 ## Download
 
+(also available in the `/research/collection/` folder of this project)
+
 * [General](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/general.zip) (36.5MB)
 * [General - videos](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/general-videos.zip) (77.1MB)
 * [Deadwood](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/deadwood.zip) (28.5MB)

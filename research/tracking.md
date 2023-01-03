@@ -8,7 +8,7 @@ I'm sharing access to my original spreadsheet so you can see how I organized my 
 
 First, it's a working document, not a formal bibliography, so my priority was recording as much as I could, but it's not a "perfect" document, whatever that means. 
 
-![photo tracking spreadsheet](images/tracking-spreadsheet.png)
+![Screenshot of a photo tracking spreadsheet, with columns for Building, Year, Notes, and Link, and many entries organied by street name.](images/tracking-spreadsheet.png)
 _My photo tracking spreadsheet for Providence's Chinatown._
 
 
@@ -16,7 +16,7 @@ _My photo tracking spreadsheet for Providence's Chinatown._
 
 * [Template](https://docs.google.com/spreadsheets/d/1na1BaZ8Op2iSwOGbWPYKhEflKvbEIm6IlLbMnkNj4TM/edit#gid=6183643)
 
-![](images/tracking-newspapers.png)
+![Screenshot of spreadsheet with columns Source, Date, Pages, Resources, Police, Names, Policemen, Search term, and Link, with short descriptions of articles about people, events, and addresses from the Providence Journal.](images/tracking-newspapers.png)
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
 
 
@@ -24,7 +24,7 @@ _Spreadsheet noting buildings by construction/destruction dates, addresses, buil
 
 Using these tracking spreadsheets can surface important connections -- using names from newspaper articles, court records, and other sources, I have been able to reconstruct a rough "directory" of who lived or worked at each address in Providence's Chinatown. But be aware: these records are incredibly fragmentary, and partial -- and relying primarily on these kinds of accounts, with their racist views and understandings, risks giving those perspectives too much control over the ways we understand these histories, especially when they are our own. Saidiya Hartman has written about the limits of the archive as a resource for knowledge of the lives of enslaved people during the trans-Atlantic slave trade, and the possibilities of what she terms _critical fabulation_ in overcoming these limits. Jamelle Bouie writes about the limitations of ledgers and numerically-based analysis based in the bureaucracy of enslavement, and what it cannot tell us. Find more information and links in the [inspirations page](/inspirations.md)
 
-![buildings](images/tracking-buildings.png)
+![Screenshot of spreadsheet of buildings listed by year, address, with descriptions and links.](images/tracking-buildings.png)
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
 
 
