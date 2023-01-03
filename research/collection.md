@@ -4,11 +4,11 @@ As part of the first milestone of the _Seeing Lost Enclaves_ project, I've compi
 
 ## Download
 
-* General (36.5MB)
-* General - videos (77.1MB)
-* Deadwood (28.5MB)
-* New Orleans (60.3MB)
-* Truckee (14MB)
+* [General](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/general.zip) (36.5MB)
+* [General - videos](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/general-videos.zip) (77.1MB)
+* [Deadwood](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/deadwood.zip) (28.5MB)
+* [New Orleans](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/new-orleans.zip) (60.3MB)
+* [Truckee](https://github.com/jywarren/seeing-lost-enclaves/raw/main/research/collection/truckee.zip) (14MB)
 
 ## Contents
 
