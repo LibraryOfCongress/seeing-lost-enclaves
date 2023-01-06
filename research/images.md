@@ -14,7 +14,7 @@ _Images of Central Baptist Church from the [Rhode Island State Archives](https:/
 
 In my experience, using Google or DuckDuckGo image search is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
 
-![A screenshot of Duck Duck Go image search for the phrase "walker street providence" showing a range of photos of buildings, some old and some new.](images/images-image-search.png)
+![A screenshot of Duck Duck Go image search for the phrase "empire street providence 1914" showing a range of photos of buildings, both black and white and colorized.](images/images-image-search.png)
 
 Starting with a phrase like "Providence Chinatown" or "historic Providence Chinatown" makes sense. You can begin to develop a list of keywords as well; mine included some of the following. Limit to a time range as well if possible.
 
