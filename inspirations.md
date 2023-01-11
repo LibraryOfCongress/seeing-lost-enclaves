@@ -12,9 +12,35 @@ Forever Chinatown is the story of artist Frank Wong's work to reconstruct interi
 
 [Prarie Lotus](https://loc.gov/item/2020945474) by Linda Sue Park, is accompanied, on her website, by a Native American resource guide compiled by author and educator Andrea Page (Oceti Sakowin Hunkpapa), about the Oceti Sakowin people of the area in which the book is set. 
 
+[A Portable Paradise](https://www.theguardian.com/books/2019/nov/02/a-portable-paradise-roger-robinson-poem-of-month), by poet Roger Robinson, has been a big inspiration to me in this work.
+
 [Cynthia Copeland: Restoring Seneca Village - Lessons for Snowtown](https://www.youtube.com/watch?v=VNnjxHtg2cw) includes historical and archaeological work in a Black community that lived in what is now Central Park, touching on their search for descendants, as well as participatory archaeology work, the use of core sampling and ground penetrating radar in understanding this community. 
 
 [Tending our Roots](https://tendingourroots.org/) - "A growing archive of stories about making places of belonging in AAPI America" - especially the [Vision and Values page](https://tendingourroots.org/vision-values/intersectional-movement-for-justice-and-equity/)
+
+Jo Ayuso of [Movement Education Outdoors](https://meoutdoorsri.com/) who has integrated deep history and Black and Indigenous reclaiming into powerful outdoors/mindfulness/environmental education programs for BIPOC youth, and who has inspired me with her vision of mutual care in group work.
+
+
+<!--
+
+Wing on Wo
+
+
+
+For Colored Nerds
+Mar 29, 2022
+Black in Time: The Gilded Age, Bridgerton, & Beyond
+
+https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9ZMTcxSngwMg/episode/MjNhYjc4NzYtMjdiYS00NjMzLWE2ODItZTA0YzI1OTRhMTI0?sa=X&ved=0CAIQx8UHahcKEwjw1cGX37v8AhUAAAAAHQAAAAAQLA
+
+On the "other stories" we deserve about our ancestors and how they are told, and Salli Richardson-Whitfield on protecting Black people and their truths in historical fiction in TV and film.
+
+
+The Black Digital Archiving project and the Oral Tradition podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZmFkZWIyNC9wb2RjYXN0L3Jzcw?sa=X&ved=0CBQQ9sEGahcKEwjo-pTKi778AhUAAAAAHQAAAAAQSw
+
+
+-->
+
 
 ## Histories of Chinatowns and erased enclaves of color
 
