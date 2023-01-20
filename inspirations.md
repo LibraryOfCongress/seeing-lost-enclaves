@@ -20,11 +20,11 @@ Forever Chinatown is the story of artist Frank Wong's work to reconstruct interi
 
 Jo Ayuso of [Movement Education Outdoors](https://meoutdoorsri.com/) who has integrated deep history and Black and Indigenous reclaiming into powerful outdoors/mindfulness/environmental education programs for BIPOC youth, and who has inspired me with her vision of mutual care in group work.
 
+Mia Warren's [Uncovering the Asian American Old West](https://www.yesmagazine.org/social-justice/2021/05/13/asian-american-old-west). Mia (my sister!) got me interested in the Asian American history of the West, and put me onto Liping Zhu's work on this topic, as well as Linda Sue Park's. 
 
 <!--
 
 Wing on Wo
-
 
 
 For Colored Nerds
@@ -51,6 +51,8 @@ Vanishing Chinatown tells the story of a family-run photo studio in San Francisc
 After Life - a fictional film by Hirokazu Kore-eda on memory, life, death, and creative reconstruction: https://www.youtube.com/watch?v=7rk1HFC60e0&t=316s
 
 Connie Young Yu is a historian, archeologist, activist and author on the Chinese experience in America. She gave a 2010 interview with Community Balance: https://www.youtube.com/watch?v=0XtvCaiKbcQ 
+
+Laura Ng's [An Archaeology of Chinese Transnationalism](https://gombenn.org/laura-w-ng-gom-benn-riverside-and-san-bernardino-connection/) and lecture [Creating Home on Both Sides of the Pacific: The Archaeology of Old Chinatowns and New Villages](https://www.youtube.com/watch?v=aCuBngFYLaY)
 
 
 ## Rememberance
@@ -84,4 +86,6 @@ http://takachizu.org/treasure/takachizu-zine-1
 This episode of the Parenting Decolonized podcast, [Rethinking Genealogy & Releasing Ancestral Shame with Walter English](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDYyOTY0Ni9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNTIyMzI4ODc?ep=14), focuses on Black American genealogy and both pain and shame in relation to researching one's own family history. 
 
 The National Archives and Records Administration has an interesting and detailed page on harmful content in archival records: https://www.archives.gov/research/reparative-description/harmful-content
+
+
 

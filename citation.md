@@ -23,3 +23,9 @@ AICA-USA Distinguished Lecture: Legacy Russell - https://vimeo.com/656701764
 
 Making Feminist Points - https://feministkilljoys.com/2013/09/11/making-feminist-points/
 
+----
+
+I found some really nice references for further reading in Brian Foo's [Citizen DJ guide](https://citizen-dj.labs.loc.gov/guide/), under 'Ethical considerations,' including writing on attribution, remixing, and archiving in the context of Indigenous & Black creative work.
+
+
+
