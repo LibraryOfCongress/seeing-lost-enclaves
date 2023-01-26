@@ -38,7 +38,7 @@ _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by Grabill, John C. H, between 1
 
 ## Maps
 
-Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the US since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. 
+Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insurance Company every few years for most cities above a certain size in the US since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. 
 
 ![A scan of an old map with yellow and pink building "footprints" marked, street names and businesses like "tailor" and "Chine Gro." on Burrill Street.](images/images-providence-chinatown.jpg)
 _An 1899 Sanborn map of Providence's Chinatown, showing several Chinese American businesses._
