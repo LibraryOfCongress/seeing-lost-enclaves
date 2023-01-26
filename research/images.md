@@ -33,7 +33,7 @@ If there is a short street near your location, it's worth focusing on it. In New
 Pair the above keywords with your place name ("Providence") or "historic" or "archival"; you can also try things like "Overview of Truckee" for photos taken from a tall building or nearby hill.
 
 ![A black and white photo of a valley with a small town organized around a main street winding into the distance, with pine trees on neighboring hills.](images/images-deadwood-chinatown.jpg)
-_"Deadwood, [S.D.] from Mrs. Livingston's Hill" by Grabill, John C. H, between 1887-92. The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
+_"Deadwood, [S.D.] from Mrs. Livingston's Hill" by John C. H. Grabill, between 1887-92, [Library of Congress](https://www.loc.gov/item/99613869/). The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
 
 
 ## Maps
@@ -41,7 +41,7 @@ _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by Grabill, John C. H, between 1
 Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insurance Company every few years for most cities above a certain size in the US since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. 
 
 ![A scan of an old map with yellow and pink building "footprints" marked, street names and businesses like "tailor" and "Chine Gro." on Burrill Street.](images/images-providence-chinatown.jpg)
-_An 1899 Sanborn map of Providence's Chinatown, showing several Chinese American businesses._
+_An 1899 Sanborn map of Providence's Chinatown, showing several Chinese American businesses. [Library of Congress](https://www.loc.gov/item/sanborn08099_003/), (image 18)._
 
 Some local records may contain property maps and other detailed maps at a similar level of detail to Sanborn maps, and are worth searching for at local libraries, archives, and City Hall records. See [Mapping photos](/research/mapping.md) for more on how to use this kind of map.
 
