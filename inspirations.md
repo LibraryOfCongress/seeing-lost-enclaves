@@ -79,6 +79,8 @@ http://takachizu.org/treasure/takachizu-zine-1
 
 ## Archives, harm & pain
 
+Dorothy Berry's [The House Archives Built](https://www.uproot.space/features/the-house-archives-built), on Black archiving, Black stories and materials in archives, the trust in contributing family collections, the harm of search terms, and more. 
+
 [We Still Can’t See American Slavery for What It Was](https://www.nytimes.com/2022/01/28/opinion/slavery-voyages-data-sets.html), by Jamelle Bouie, discusses the limitations of understanding the lives of those enslaved during the trans-Atlantic slave trade through data-driven records and the accounts by enslavers.
 
 [Venus in Two Acts](https://www.moma.org/collection/works/427132), by Saidiya Hartman (content warning: extreme violence and dehumanization) 
