@@ -18,7 +18,9 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 
 * Introductory blog post (coming soon)
 * [Part 1: Research](research/)
-* (additional phases coming in 2023)
+* [Part 2: Modeling](modeling/)
+* [Part 3: Atmosphere](atmosphere/) (with [Alicia Renee Ball](https://aliciareneeball.com/))
+* [Part 4: Soundscapes](soundscapes/) (with [Ann Chen](https://annhchen.com/))
 
 ## Relational reconstruction
 

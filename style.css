@@ -61,3 +61,8 @@ header a {
   hyphens: auto;
 
 }
+
+.md-pages p img {
+    margin: 0 auto;
+    display: block;
+}

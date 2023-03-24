@@ -7,7 +7,7 @@ For me, finding images has required luck, creativity, and persistence. Searching
 ![Annotated images of Central Baptist Church, highlighting a Chop Suey sign on a neighboring building, an awning with "ORIENTAL RESTAURANT," and a view of the building from a second angle.](images/images-central-baptist.png)
 _Images of Central Baptist Church from the [Rhode Island State Archives](https://www.sos.ri.gov/divisions/state-archives)_
 
-"Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labelled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
+"Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labeled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 
 
 ## Online image search
