@@ -98,7 +98,7 @@ Creating a narrative, or working poetically/in a kind of spatial poetics in the 
 
 To create more spatial depth in the scene, I have imported a horizontal image of barren trees with a transparent background to serve as our backdrop. This imagery of barren trees creates a sense of coldness in our built digital environment because it reminds us of the transition between seasons, from Summer to Fall and from Winter to Spring.  
 
-![](images/trees.jpg)
+![](images/trees.gif)
 _Tree backdrops behind the cabin._ 
 
 Now, I want to explore how the use of moving light particles can add an ethereal, dreamy and otherworldly aspect to our environment. I will explore this concept by creating an animation of sauntering fireflies that will lightly dance, float and flutter throughout the scene.  

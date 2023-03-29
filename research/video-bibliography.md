@@ -16,7 +16,7 @@ Charles L. Franck Photographers. The Historic New Orleans Collection / Charles L
 
 Grabill, John C. H, photographer. Deadwood, S.D. from Mrs. Livingston's Hill. Sount Dakota South Dakota Deadwood, None. [Between 1887 and 1892] Photograph. https://www.loc.gov/item/99613869/
 
-DEULIG TON - WOCHE NO. 59 Library of Congress Moving Image Division. ca. 1933. 
+DEULIG TON - WOCHE NO. 59 Library of Congress Moving Image Division. Call no. FAB 6423, database entry no. 59306. ca. 1933. 
 
 Deadwood in. , 1908. Photograph. https://www.loc.gov/item/2018652594/.
 
