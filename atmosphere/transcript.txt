@@ -1,0 +1,127 @@
+[00:00:00.000 --> 00:00:04.840]   Atmosphere.
+[00:00:04.840 --> 00:00:07.160]   If you've gone through the earlier parts of this guide,
+[00:00:07.160 --> 00:00:09.720]   you may have a 3D model of a building or a part of a neighborhood.
+[00:00:09.720 --> 00:00:14.200]   But in your modeling program, you might feel that the scene lacks something,
+[00:00:14.200 --> 00:00:17.560]   that it doesn't jump out at you like a memory or a real place you can imagine
+[00:00:17.560 --> 00:00:18.240]   yourself within.
+[00:00:18.240 --> 00:00:23.320]   In this part of the relational reconstruction toolkit,
+[00:00:23.320 --> 00:00:27.520]   we'll be focusing on creating emotional space through lighting, weather,
+[00:00:27.520 --> 00:00:29.520]   textures, and even movement.
+[00:00:29.520 --> 00:00:32.320]   For this part of the guide, I've worked with Alicia Renee Ball,
+[00:00:32.320 --> 00:00:36.320]   a multidisciplinary artist and designer, to explore how to create a sense of place
+[00:00:36.320 --> 00:00:40.200]   and space through dynamic world building for our reconstruction models.
+[00:00:40.200 --> 00:00:45.640]   The kinds of atmospheric effects we'll show help to create evocative moments,
+[00:00:45.640 --> 00:00:48.920]   like in our strongest memories, the quiet of a snowstorm or
+[00:00:48.920 --> 00:00:50.000]   the feeling of a rainy day.
+[00:00:50.000 --> 00:00:53.480]   [MUSIC]
+[00:00:53.480 --> 00:00:56.440]   Lighting is the first and maybe easiest way you can give your scene some
+[00:00:56.440 --> 00:00:57.960]   emotional tone.
+[00:00:57.960 --> 00:01:02.000]   Think about sunrise or sunset, or other times of day which stand out in your
+[00:01:02.000 --> 00:01:05.080]   memory, maybe an especially hot day or even a snowstorm.
+[00:01:05.080 --> 00:01:09.480]   Simple lighting effects can be added in the Mozilla Hubs editor,
+[00:01:09.480 --> 00:01:14.440]   Spoke, like point lighting for lamps or light bulbs or ambient light or sunlight.
+[00:01:14.440 --> 00:01:20.480]   You can even animate falling snow using a component called a particle emitter.
+[00:01:20.480 --> 00:01:21.720]   We'll talk about this a little later.
+[00:01:21.720 --> 00:01:26.400]   But to create more complex kinds of atmospheric effects,
+[00:01:26.400 --> 00:01:29.800]   you'll need to use a rendering program like Blender, which is free and open source.
+[00:01:29.800 --> 00:01:33.880]   For me, it's been a challenge to represent these spaces,
+[00:01:33.880 --> 00:01:36.440]   because I've found few photographs of interiors and
+[00:01:36.440 --> 00:01:38.320]   even fewer of the people who lived and work here.
+[00:01:38.320 --> 00:01:46.600]   It doesn't make sense to fill these buildings with fictional people, but
+[00:01:46.600 --> 00:01:48.400]   neither has it felt right for them to be empty.
+[00:01:48.400 --> 00:01:55.800]   [MUSIC]
+[00:01:55.800 --> 00:01:59.080]   One way I've sought to give a sense of people's presence has been to evoke a sense
+[00:01:59.080 --> 00:02:00.120]   of warmth and comfort.
+[00:02:00.120 --> 00:02:08.240]   Wet streets, rain and fog contrast with warm indoor lights to create a sense of
+[00:02:08.240 --> 00:02:10.480]   shelter and enclosure.
+[00:02:10.480 --> 00:02:14.240]   And visitors have remarked that they felt physically warmer upon coming inside out
+[00:02:14.240 --> 00:02:15.080]   of the virtual rain.
+[00:02:15.080 --> 00:02:20.680]   [MUSIC]
+[00:02:20.680 --> 00:02:24.520]   I was inspired by Alicia Renee Ball's 3D design work because of her powerful use
+[00:02:24.520 --> 00:02:27.240]   of color, texture and composition,
+[00:02:27.240 --> 00:02:29.800]   in addition to her interest in history, identity and place.
+[00:02:29.800 --> 00:02:33.800]   Next, she'll show some of the ways she's incorporated more advanced
+[00:02:33.800 --> 00:02:35.840]   atmospheric effects into a scene in Blender.
+[00:02:35.840 --> 00:02:41.360]   [MUSIC]
+[00:02:41.360 --> 00:02:45.440]   >> Hi, my name's Alicia and I'm going to demonstrate how to use Blender to
+[00:02:45.440 --> 00:02:48.600]   world built digital environments with dynamic presence.
+[00:02:48.600 --> 00:02:53.920]   I've chosen to use a 3D model that I created through a technique known as
+[00:02:53.920 --> 00:02:56.080]   photogrammetry for this portion of the guide.
+[00:02:56.080 --> 00:03:00.760]   If you would like to know more about this technique for making 3D models,
+[00:03:00.760 --> 00:03:02.760]   please see the notes written in our guide.
+[00:03:02.760 --> 00:03:09.720]   This model is a reconstruction of a big timber log cabin found at the historic
+[00:03:09.720 --> 00:03:12.080]   site, New Echota.
+[00:03:12.080 --> 00:03:15.000]   Before forced removal by the US government,
+[00:03:15.000 --> 00:03:19.640]   New Echota was the capital of the Cherokee Nation in the early 19th century
+[00:03:19.640 --> 00:03:20.640]   in the state of Georgia.
+[00:03:22.040 --> 00:03:27.920]   This area of Georgia is the home of the Koasati (Coushatta, Coosawattee, Coosa),
+[00:03:27.920 --> 00:03:29.520]   Miccosukee, Yuchi and Cherokee Indigenous peoples.
+[00:03:29.520 --> 00:03:34.920]   I've been studying the histories of black people who lived under enslavement in this
+[00:03:34.920 --> 00:03:40.080]   area and who later would be known as the Cherokee freedmen following the Civil War.
+[00:03:40.080 --> 00:03:46.080]   Their stories are a part of the complex history of this place and
+[00:03:46.080 --> 00:03:51.560]   this cabin shares some similarities with what their homes may have looked like.
+[00:03:51.560 --> 00:03:57.440]   For me, this provides a partial glimpse of how they might have lived during this era
+[00:03:57.440 --> 00:04:00.560]   and is a part of my journey to learn more about their lives.
+[00:04:00.560 --> 00:04:03.280]   As you see from my model,
+[00:04:03.280 --> 00:04:07.800]   it is already skinned with a texture from the photogrammetry process.
+[00:04:07.800 --> 00:04:12.520]   Then I'm going to create a landscape for the log cabin to sit upon by adding a plane
+[00:04:12.520 --> 00:04:13.960]   and using it as our ground.
+[00:04:13.960 --> 00:04:19.760]   I wanted to add depth and dimension to the ground plane instead of leaving it flat.
+[00:04:20.800 --> 00:04:24.840]   This will help us to create a dynamic sense of place that mimics the variety of
+[00:04:24.840 --> 00:04:27.040]   landscapes found in the natural world.
+[00:04:27.040 --> 00:04:32.120]   As I created height and depth on my surface plane,
+[00:04:32.120 --> 00:04:34.680]   I made sure to examine it from all directions,
+[00:04:34.680 --> 00:04:37.200]   tweaking it until it felt and looked just right.
+[00:04:37.200 --> 00:04:42.200]   Next, to bring to life the digital environment I am building,
+[00:04:42.200 --> 00:04:45.800]   I will be adding in a sky dome to naturally light up our scene.
+[00:04:48.320 --> 00:04:53.240]   Although it was midday, clear and sunny when I first visited New Echota to capture
+[00:04:53.240 --> 00:04:56.680]   the footage of the log cabin from our reconstruction model,
+[00:04:56.680 --> 00:05:01.760]   I wanted to create an environment that would evoke more emotion and a sublime sense of mystery.
+[00:05:01.760 --> 00:05:06.800]   To do that, I decided to set my scene at sunset.
+[00:05:06.800 --> 00:05:12.720]   Now I will pick a texture material that will best represent from memory
+[00:05:12.720 --> 00:05:15.120]   the texture of the ground at the historical site.
+[00:05:17.080 --> 00:05:21.280]   I am utilizing texture maps from a subscription-based service called Polygon.
+[00:05:21.280 --> 00:05:24.320]   For your world building exploration,
+[00:05:24.320 --> 00:05:29.520]   you can find free textures and HDRIs to use through a simple Google search.
+[00:05:29.520 --> 00:05:33.360]   One site that offers free material textures is polyhaven.com.
+[00:05:33.360 --> 00:05:44.240]   From this point on, I will be world building through what I describe as the speculative-imagine.
+[00:05:44.240 --> 00:05:49.960]   How can I reimagine and rebuild parts of a real place that will evoke more emotion
+[00:05:49.960 --> 00:05:52.160]   and a deeper connection to its histories?
+[00:05:52.160 --> 00:05:59.840]   For me, as an experimental artist and designer, I do this through playing with mood.
+[00:05:59.840 --> 00:06:04.520]   To help me build a more expansive world,
+[00:06:04.520 --> 00:06:09.400]   I will experiment with mood building through lighting, color and movement.
+[00:06:12.360 --> 00:06:18.520]   To do this, I have imported additional models into the scene to better flesh out the environment.
+[00:06:18.520 --> 00:06:26.760]   The 3D models I'm currently using, I have downloaded from Polygon.
+[00:06:26.760 --> 00:06:29.160]   Again, for your world building reconstructions,
+[00:06:29.160 --> 00:06:32.360]   you can find a plethora of free CAD resources online.
+[00:06:32.360 --> 00:06:40.120]   Pick the models that will best speak to the world you are building and reconstructing.
+[00:06:42.120 --> 00:06:47.000]   So as you can see, I imported a few tree stumps, a chopped log and a living tree.
+[00:06:47.000 --> 00:06:50.720]   These items are in dialogue with one another,
+[00:06:50.720 --> 00:06:54.720]   showcasing the various stages of life, death and transition
+[00:06:54.720 --> 00:06:58.080]   through the use of natural resources to sustain a modern world.
+[00:06:58.080 --> 00:07:04.400]   From living trees to chopped tree stumps in transition to a log cabin.
+[00:07:04.400 --> 00:07:11.680]   Creating a narrative or working poetically in the digital environments you build,
+[00:07:11.680 --> 00:07:16.120]   also adds to the dynamism and emotion of place and space.
+[00:07:16.120 --> 00:07:21.080]   To create more spatial depth in the scene,
+[00:07:21.080 --> 00:07:27.600]   I have imported a horizontal image of barren trees with a transparent background to serve as our backdrop.
+[00:07:27.600 --> 00:07:35.000]   This imagery of barren trees creates a sense of coldness in our built digital environment,
+[00:07:35.000 --> 00:07:40.880]   because it reminds us of the transition between seasons from summer to fall and from winter to spring.
+[00:07:40.880 --> 00:07:53.360]   Now I want to explore how the use of moving light particles can add an ethereal, dreamy and otherworldly aspect to our environment.
+[00:07:53.360 --> 00:08:01.520]   I will explore this concept through creating an animation of sauntering fireflies that will dance,
+[00:08:01.520 --> 00:08:03.560]   float and flutter throughout the scene.
+[00:08:03.560 --> 00:08:09.560]   We will create these dancing fireflies through the use of a particle system in Blender.
+[00:08:10.560 --> 00:08:15.560]   We will use our ground plane as the source that will generate the tiny orbs of light,
+[00:08:15.560 --> 00:08:20.560]   and then we will animate it through the use of a physics system called Boids.
+[00:08:20.560 --> 00:08:27.560]   Particle emitters can also be used to create rain or snow in a scene.
+[00:08:27.560 --> 00:08:33.560]   If you want to know more about how to create a particle system in Blender, please see the notes in our written guide.
+[00:08:33.560 --> 00:08:41.560]   We decided to use the Boids system to simulate the flight and the flutter of the fireflies, whose blooming light will add further ambience to the scene.
+[00:08:41.560 --> 00:08:48.560]   The Boids system generates a natural flight trajectory for our fireflies.
+[00:08:48.560 --> 00:08:57.560]   Finally, to turn up the drama, mood and mystery in the scene, we will also explore importing atmospheric fog into our environment.
+[00:08:58.560 --> 00:09:08.560]   Now, I will tweak the settings to increase the density, depth, visibility and color of the fog to create varying moods for our speculative scene of New Echota.
+[00:09:08.560 --> 00:09:28.560]   [Music]
+[00:09:29.560 --> 00:09:38.560]   As I practice, I enjoy infusing cosmic drama into the worlds that I build, and I do this mostly through overlaying and merging of colors.
+[00:09:38.560 --> 00:09:49.560]   This creates a hazy environment of floating auras that coat our sky and changes the dynamic of the scene, depending on the density level of the fog.
+[00:09:51.560 --> 00:10:00.560]   This is the end result of my speculative play, and another way you can create emotional space in the worldbuilding development of your relational reconstructions. Thank you.
+[00:10:00.560 --> 00:10:15.560]   That concludes this portion of the Relational Reconstruction Toolkit. Next, we'll discuss the crafting of historical soundscapes with artist Ann Chen.
+[00:10:15.560 --> 00:10:18.560]   For more on these techniques, see the written guide.
+[00:10:19.560 --> 00:10:22.560]   [Music]

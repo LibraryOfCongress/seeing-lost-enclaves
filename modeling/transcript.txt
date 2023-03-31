@@ -1,0 +1,77 @@
+[00:00:00.000 --> 00:00:07.400]   In my work Virtually Reconstructing Providence Chinatown, I've shared videos like this one,
+[00:00:07.400 --> 00:00:13.800]   which is the first moment I had enough buildings rebuilt that it really felt like a neighborhood.
+[00:00:13.800 --> 00:00:17.480]   The process of creating a model like this is involved, but the basic steps aren't so
+[00:00:17.480 --> 00:00:23.920]   hard, and are similar for each building. This part of the Relational Reconstruction Guide
+[00:00:23.920 --> 00:00:29.120]   will focus on how to begin 3D modeling using archival records. Let's look at some of the
+[00:00:29.120 --> 00:00:33.360]   techniques I've used. But keep in mind, the best way to learn is together, and I'll be
+[00:00:33.360 --> 00:00:44.240]   hosting workshops on these techniques in the spring and summer of 2023. We'll cover tracing
+[00:00:44.240 --> 00:00:53.680]   building footprints, creating surfaces from photos, and applying those to the model.
+[00:00:53.680 --> 00:00:57.440]   Often as shown in the research portion of the guide, I use maps to understand a space
+[00:00:57.440 --> 00:01:02.560]   at a moment in time. If you have a map showing buildings you're interested in, and you have
+[00:01:02.560 --> 00:01:07.320]   a pretty flat area like Providence's Chinatown, you can import the map into a 3D program like
+[00:01:07.320 --> 00:01:12.440]   SketchUp to begin modeling on it. But first you'll need to get the scale right. Many maps,
+[00:01:12.440 --> 00:01:17.400]   including Sanborn Insurance Maps at the Library of Congress, have a scale reference. If you
+[00:01:17.400 --> 00:01:21.120]   don't have such a scale reference, you could try measuring a big building in the real world,
+[00:01:21.120 --> 00:01:26.160]   or you could try measuring streets. But think about how streets may have widened or narrowed
+[00:01:26.160 --> 00:01:31.200]   over the years, and how sidewalks and curbs change. Some neighborhoods aren't on flat
+[00:01:31.200 --> 00:01:36.040]   ground of course. I won't go in depth on terrain here, but if your site is on a hillside, or
+[00:01:36.040 --> 00:01:41.200]   for example a river valley, you can approximate the terrain by tracing contours and then draping
+[00:01:41.200 --> 00:01:47.240]   a surface over them. More rural Chinatowns and ethnic enclaves were sometimes on steep
+[00:01:47.240 --> 00:01:51.720]   ground, which is harder to build on and less accessible, but this also enabled them to
+[00:01:51.720 --> 00:01:58.560]   be more protected and enclosed. Once you have your map scaled and oriented, you can trace
+[00:01:58.560 --> 00:02:02.720]   the footprints of buildings on its surface, and pull them up from the map to create a
+[00:02:02.720 --> 00:02:06.800]   very rough model of the neighborhood. If you know building heights, you can adjust those
+[00:02:06.800 --> 00:02:10.800]   as well. Repeat this for as many buildings as you can.
+[00:02:10.800 --> 00:02:26.320]   Now, although things are probably strange colors, you have a very rough idea of how
+[00:02:26.320 --> 00:02:35.560]   different buildings were organized in 3D space. Now I'll show how we can take old photographs
+[00:02:35.560 --> 00:02:40.760]   like these and map them onto the buildings we've made. I collected these over many months.
+[00:02:40.760 --> 00:02:46.640]   But now I feel like I have enough to work on this building. For more on finding images,
+[00:02:46.640 --> 00:02:54.160]   see the research portion of this guide. If you have a variety of photos of a building,
+[00:02:54.160 --> 00:03:01.560]   many of them partial, it can help to diagram the building surfaces out. We choose as front-facing
+[00:03:01.560 --> 00:03:05.960]   a photo as we can at the highest resolution available, and trace the edge of the building
+[00:03:05.960 --> 00:03:12.840]   surface. Now I'll use the Free Transform tool, or the Perspective Distort tool, to flatten
+[00:03:12.840 --> 00:03:20.160]   the facade as if we were facing it straight on. You may need to combine multiple photos
+[00:03:20.160 --> 00:03:26.200]   to get a complete facade. Sometimes, if a building has a lot of repeated elements, like
+[00:03:26.200 --> 00:03:32.200]   windows, it can be worthwhile to use one high-resolution photo to stitch together a much higher resolution
+[00:03:32.200 --> 00:03:39.240]   image of the whole facade. This can start to become more speculative, however, if there
+[00:03:39.240 --> 00:03:44.000]   are details like the staircases and balconies in this example photo, where you aren't completely
+[00:03:44.000 --> 00:03:48.240]   sure of the original appearance. But it's helpful to keep careful note of what you're
+[00:03:48.240 --> 00:03:55.040]   basing on a clear photograph versus what you're speculating about. Now, if you have forms
+[00:03:55.040 --> 00:04:02.720]   ready to apply the facades to, you can do so. Did the building have a gabled roof? Did it
+[00:04:02.720 --> 00:04:09.200]   have insets or overhangs or columns? At a certain point, you may want to look for free-to-use
+[00:04:09.200 --> 00:04:14.880]   textures to supplement your model. These could be cropped from old photos from the period,
+[00:04:14.880 --> 00:04:21.360]   or taken from texture libraries with free-to-use images. Now you can repeat the last step with
+[00:04:21.360 --> 00:04:26.920]   other facades if you have them. I did a lot of image stitching to get a clearer picture
+[00:04:26.920 --> 00:04:31.880]   of the front of this building. But you don't have to do this. For other buildings, I intentionally
+[00:04:31.880 --> 00:04:38.600]   left the newsprint texture to show where the image came from. This is a powerful step for
+[00:04:38.600 --> 00:04:42.200]   me where we start to get a feeling for the neighborhood through its textures and visual
+[00:04:42.200 --> 00:04:49.120]   language. Sometimes we can see people walking down the street or paused on a sidewalk. It's
+[00:04:49.120 --> 00:04:53.720]   at this point that I sometimes feel I'm crafting a space for someone, smoothing out the kinks
+[00:04:53.720 --> 00:05:01.000]   and the sidewalks, leaving space for gardens or private nooks, sweeping and tidying up
+[00:05:01.000 --> 00:05:09.900]   their space which is long sat gathering dust. At this point, you may want to begin making
+[00:05:09.900 --> 00:05:13.480]   your buildings into separate groups within the model. It will help you organize your
+[00:05:13.480 --> 00:05:27.880]   work and will be more difficult to do later. Flipping or mirroring a photo can help you
+[00:05:27.880 --> 00:05:38.560]   complete an incomplete facade. It can be hard to know how tall to make a building, but you
+[00:05:38.560 --> 00:05:47.520]   can use reference photos to estimate those heights in comparison to nearby buildings.
+[00:05:47.520 --> 00:05:50.840]   Try comparing different angles to photographs of the place to see if you can see things
+[00:05:50.840 --> 00:06:00.040]   match up. Once your buildings are in place, there are likely still a lot of surfaces in
+[00:06:00.040 --> 00:06:05.520]   your model which remain bare and it may help to add textures to things like yards, alleys
+[00:06:05.520 --> 00:06:12.440]   and sidewalks. You could also add vegetation or things like benches, streetlights, crates
+[00:06:12.440 --> 00:06:18.280]   or other things which help to flesh out the scene a bit. You don't need to model the whole
+[00:06:18.280 --> 00:06:22.640]   city. Sometimes even a couple buildings can be enough to create a compelling feeling of
+[00:06:22.640 --> 00:06:30.040]   a place. In a later section, I'll show how lighting and atmospheric effects as well as
+[00:06:30.040 --> 00:06:35.560]   materials and textures can help to create emotional tone. It's worthwhile to try this
+[00:06:35.560 --> 00:06:41.840]   even with a partial model to get a better feeling for the space, for example at night.
+[00:06:41.840 --> 00:06:45.780]   Above all, I've tried to focus on the feeling of a particular place or moment rather than
+[00:06:45.780 --> 00:06:51.120]   trying to create a complete or highly detailed model. Where might residents of this place
+[00:06:51.120 --> 00:06:59.560]   have sat and watched people walk by, taken a nap or sat back and daydreamed?
+[00:06:59.560 --> 00:07:05.800]   That wraps up this part of the Relational Reconstruction Toolkit. In the next section, you'll learn
+[00:07:05.800 --> 00:07:09.640]   how to add emotional tone to your scene through lighting and atmospheric effects.
+[00:07:09.640 --> 00:07:11.640]   [Music]
+[00:07:11.640 --> 00:07:13.640]   [Music]
+[00:07:13.640 --> 00:07:15.640]   [Music]
+[00:07:15.640 --> 00:07:17.640]   [Music]
+[00:07:17.640 --> 00:07:19.640]   [Music]
+[00:07:19.640 --> 00:07:21.640]   [Music]
+[00:07:21.640 --> 00:07:23.640]   [Music]
+[00:07:23.640 --> 00:07:25.640]   [Music]
