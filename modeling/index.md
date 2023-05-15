@@ -83,7 +83,7 @@ I collected these over many months, but now I feel like I have enough to work on
 
 We choose as front-facing a photo as we can, at the highest resolution available, and trace the edge of the building surface. Here I'm just doing the front facade, and I'll do the side separately. I chose a complete photo of the facade to start with, and I'll add other partial photos at better resolutions on top of it.   
 
-![](images/facade.gif)
+![](images/facade-crop.gif)
 _Cropping and transforming the facade of a building in Burrill Street Chinatown, Providence._
 
 After tracing the facade and copying it to a new layer, I'll use the free transform tool or the perspective distort tool to flatten the facade -- as if we were facing it straight on -- if it's a square facade, the top and bottom edges will be perfectly horizontal, and the left and right edges perfectly vertical. You can use guide lines to ensure the image is square:  
