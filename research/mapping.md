@@ -30,4 +30,10 @@ Some places, like Truckee, CA, in the 1870s, or Deadwood, SD in the 1880s, I hav
 ![A slightly overhead view of a group of wooden buildings at the base of a hillside in the distance, in an old black and white photo.](images/mapping-deadwood.jpg)
 _Excerpt from [Deadwood, [S.D.] from Mrs. Livingston's Hill](https://www.loc.gov/pictures/item/99613869/); between 1887 and 1892, Library of Congress._
 
-[Next: Tracking photos >](/research/tracking.md)
+----
+
+## Conclusion
+
+That wraps up the first draft of my research guide for _Seeing Lost Enclaves_, although I will be continuing to refine and expand it in the months to come. Thank you and please reach out with suggestions and questions.
+
+[Back to main research page](research/) 

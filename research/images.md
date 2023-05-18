@@ -1,18 +1,18 @@
 # Searching for images
 
-Searching through archival images can be traumatic and emotional. Especially when searching in historically White institutions, photos and especially drawings depicting communities and individual people of color are often dehumanizing or even violent. What's more, erasure can often mean literal destruction of records, but it can also involve systematic lack of acknowledgement, recognition, or preservation of knowledge of a community. Photographs can also preserve and represent powerful moments of humanity, of daily life, of family and even of our ancestors, and sometimes I found that a photograph of something apparently mundane, but familiar, like a kitchen implement or a piece of clothing, held my attention and provided some kind of hard-to-describe connection. Whether photographs bring heavy or warm feelings, allow yourself the time to process.
+Searching through archival images can be traumatic and emotional. Especially when searching in historically White institutions, photos and especially drawings depicting communities and individual people of color are often dehumanizing or even violent. What's more, erasure can often mean literal destruction of records, but it can also involve systematic lack of acknowledgement, recognition, or preservation of knowledge of a community. Photographs-- of daily life, or family portraits-- can often preserve and represent powerful moments of humanity, of daily life, of family and even of our ancestors. In my archival photographic research, a photograph of something mundane, but familiar, like a kitchen implement or a piece of clothing, would hold my attention and provide some kind of hard-to-describe connection. Whether photographs bring heavy or warm feelings, allow yourself the time to process.
 
 For me, finding images has required luck, creativity, and persistence. Searching for "Providence Chinatown" won't bring up many photos of what the neighborhood used to look like (although this project is itself beginning to change that). Many of the glimpses we can find of the neighborhood are incidental -- in the background of photographs of other things, like the image accompanying this article about Central Baptist Church:
 
 ![Annotated images of Central Baptist Church, highlighting a Chop Suey sign on a neighboring building, an awning with "ORIENTAL RESTAURANT," and a view of the building from a second angle.](images/images-central-baptist.png)
 _Images of Central Baptist Church from the [Rhode Island State Archives](https://www.sos.ri.gov/divisions/state-archives)_
 
-"Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the same building to the left side, which on careful inspection also has an awning labeled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
+"Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the building to the left side, which on careful inspection has an awning labeled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 
 
 ## Online image search
 
-In my experience, using Google or DuckDuckGo image search is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
+In my experience, using Google or DuckDuckGo image search by keyword is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
 
 ![A screenshot of Duck Duck Go image search for the phrase "empire street providence 1914" showing a range of photos of buildings, both black and white and colorized.](images/images-image-search.png)
 
@@ -60,7 +60,7 @@ _The Modern Theater in 1916, showing the street corner just outside of Chinatown
 
 ### Theaters
 
-The website [CinemaTreasures.org](https://cinematreasures.org) is a surprisingly rich resource for tracking the history of old theaters, from construction dates to name changes to photographs and even dating images based on the posters of shows currently playing. Check the Photos and Comments tabs of a page to see user contributions.
+The website [CinemaTreasures.org](http://cinematreasures.org) is a surprisingly rich resource for tracking the history of old theaters, from construction dates to name changes to photographs and even dating images based on the posters of shows currently playing. Check the Photos and Comments tabs of a page to see user contributions.
 
 
 ![A black and whit photo of a group of people running, pulling a wheeled cart, in matching white shirts, down a dusty street lined with spectators and decorated with flags.](images/images-deadwood-race.jpg)
@@ -79,10 +79,11 @@ I'll post more on this technique soon.
 
 <!-- include reverse search image later -->
 
+<!-- May 2023 revisions this far -->
 
 ## Newspaper archives
 
-Newspapers were, for me, the heaviest part of the research process, due to the constant use of racist language, the casual lack of respect care or for Asian Americans, and the accounts of police harassment, violence, and erasure which pervades coverage. Even present-day coverage of communities of color is disturbing, whether of historic events or not. But there was a lot of information in these archives, and I felt a responsibility to sift through them to find what I could. This sometimes meant searching every article of every issue of a newspaper for days or weeks following a major event (violence, celebrations, world events) to see what I could find. 
+Newspapers were, for me, the heaviest part of the research process, due to the constant use of racist language, the casual lack of respect or care for Asian Americans, and the accounts of police harassment, violence, and erasure which pervades coverage. Even present-day coverage of communities of color is disturbing, whether of historic events or not. But there was a lot of information in these archives, and I felt a responsibility to sift through them to find what I could. This sometimes meant searching every article of every issue of a newspaper for days or weeks following a major event (violence, celebrations, world events) to see what I could find. 
 
 Uniquely, many online newspaper archives include full text search, meaning that you can search within the text of the articles for keywords, just like those we used for photo searches. This also means that, unfortunately, searching for slurs and outdated or innacurate terms can sometimes be a productive, if hurtful, search technique. Please exercise care for yourself and your community if you choose to use these. 
 

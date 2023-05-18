@@ -54,11 +54,4 @@ Changing street names can be challenging to track, but can also narrow your sear
 
 Cars, telegraph wires, and other infrastructural changes can all help to establish dates in photographs, and keeping a list of these at hand in your tracking spreadsheet or notes is also helpful.
 
-
-----
-
-## Conclusion
-
-That wraps up the first draft of my research guide for _Seeing Lost Enclaves_, although I will be continuing to refine and expand it in the months to come. Thank you and please reach out with suggestions and questions.
-
-[Back to main research page](research/) 
+[Next: Mapping photos >](/research/mapping.md)

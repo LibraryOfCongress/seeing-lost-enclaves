@@ -2,23 +2,23 @@
 
 Citatations for works shown in the Research video guide.
 
-Ackerman, Raymond, Camera,  American Mutoscope And Biograph Company,  Paper Print Collection, and  Niver. Scene in Chinatown. [United States: American Mutoscope and Biograph Company, 1900] Video. https://www.loc.gov/item/00694411/
+00:05 Ackerman, Raymond, Camera,  American Mutoscope And Biograph Company,  Paper Print Collection, and  Niver. Scene in Chinatown. [United States: American Mutoscope and Biograph Company, 1900] Video. https://www.loc.gov/item/00694411/
 
-Americanized Chinese gals on Mott St. / World Telegram & Sun photo by Ed Ford. New York, 1965. Photograph. https://www.loc.gov/item/95505467/.
+01:13 Americanized Chinese gals on Mott St. / World Telegram & Sun photo by Ed Ford. New York, 1965. Photograph. https://www.loc.gov/item/95505467/.
 
-Chinese Gardens and Houses, in Tanner Creek Gulch / Gholston Collection. ca. 1892, Portland, Oregon. Photograph.
+01:22 Chinese Gardens and Houses, in Tanner Creek Gulch / Gholston Collection. ca. 1892, Portland, Oregon. Photograph.
 
-Genthe, Arnold, photographer. Woman and children walking down a street, Chinatown, San Francisco. , None. Between 1896 and 1906. Photograph. https://www.loc.gov/item/2018705205/.
+01:31 Genthe, Arnold, photographer. Woman and children walking down a street, Chinatown, San Francisco. , None. Between 1896 and 1906. Photograph. https://www.loc.gov/item/2018705205/.
 
-Hart, Alfred A, photographer. Laborers and rocks, near opening of Summit Tunnel. , None. [Sacramento, calif.: golden state photographic gallery, between 1865 and 1869] Photograph. https://www.loc.gov/item/2005682913/.
+01:39 Hart, Alfred A, photographer. Laborers and rocks, near opening of Summit Tunnel. , None. [Sacramento, calif.: golden state photographic gallery, between 1865 and 1869] Photograph. https://www.loc.gov/item/2005682913/.
 
-Charles L. Franck Photographers. The Historic New Orleans Collection / Charles L. Franck and Franck-Bertacci Photograph Collections. View down the 100 Block of Elk Place from Common Street. ca. 1936. https://louisianadigitallibrary.org/islandora/object/hnoc-clf%3A10164
+01:48 Charles L. Franck Photographers. The Historic New Orleans Collection / Charles L. Franck and Franck-Bertacci Photograph Collections. View down the 100 Block of Elk Place from Common Street. ca. 1936. https://louisianadigitallibrary.org/islandora/object/hnoc-clf%3A10164
 
-Grabill, John C. H, photographer. Deadwood, S.D. from Mrs. Livingston's Hill. Sount Dakota South Dakota Deadwood, None. [Between 1887 and 1892] Photograph. https://www.loc.gov/item/99613869/
+01:56 Grabill, John C. H, photographer. Deadwood, S.D. from Mrs. Livingston's Hill. Sount Dakota South Dakota Deadwood, None. [Between 1887 and 1892] Photograph. https://www.loc.gov/item/99613869/
 
-DEULIG TON - WOCHE NO. 59 Library of Congress Moving Image Division. Call no. FAB 6423, database entry no. 59306. ca. 1933. 
+01:59 DEULIG TON - WOCHE NO. 59 Library of Congress Moving Image Division. Call no. FAB 6423, database entry no. 59306. ca. 1933. 
 
-Deadwood in. , 1908. Photograph. https://www.loc.gov/item/2018652594/.
+02:20 Deadwood in. , 1908. Photograph. https://www.loc.gov/item/2018652594/.
 
 Sanborn Fire Insurance Map from Deadwood, Lawrence County, South Dakota. Sanborn Map Company, Jul, 1903. Map. https://www.loc.gov/item/sanborn08223_004/.
 

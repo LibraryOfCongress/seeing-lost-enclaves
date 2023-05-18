@@ -1,6 +1,6 @@
 # Questions
 
-Before beginning a project like this, I think it's healthy to think about what already exists, who's been listening for and collecting stories in a place, and, to guide one's own steps, to map out unknowns.
+Before beginning a project like this, I think it's healthy to think about what already exists, who's been listening for and collecting stories in a place, and, to guide one's own steps, to map out unknowns. The following questions may help guide you through the first step of this process, which is understanding the place you have chosen to relationally reconstruct.
 
 At the beginning, many of these questions will be hard to answer; that's OK – just bear them in mind as your work continues. 
 
@@ -13,11 +13,11 @@ _The site of Providence, Rhode Island's Chinatown before 1914, with reference ph
 
 What does the place mean to you, now? How does it make you feel? What does it mean to people present today? These things may change as your project emerges, so it's good to note them now. 
 
-### Do people still live here who remember the place you’re seeking to remember?
+### Do people still live here who remember the place you’re seeking to reconstruct?
 
 Do they have stories about the place? Do they live nearby? Have they written books, or made recordings about it? Are there other ways their stories may be preserved?
 
-Are descendants of the people of this time and place living nearby today? In Providence, I was grateful to meet and in some cases work together with descendants of Providence's Chinatown and Chinese American community. It can be hard to know the right moment; I felt cautious about reaching out before I'd done some work and had something to offer. But it seems wrong to do very much without reaching out to hear from descendants, and their involvement, approval and perspectives are central to the work.
+Are descendants of the people of this time and place living nearby today? In Providence, I was grateful to meet and in some cases work together with descendants of Providence's Chinatown and Chinese American community. It can be hard to know the right moment; I felt cautious about reaching out before I'd done some work and had something to offer. But there are stories you can only learn from descendants, and their involvement, approval and perspectives are central to the work.
 
 #### Resources:
 
@@ -27,10 +27,10 @@ Are descendants of the people of this time and place living nearby today? In Pro
 
 ### Who else lived here, originally?
 
-How are their stories entwined in the history of this place? In our lives? What are our resposibilities towards them in this work? 
+How are their stories entwined in the history of this place? In our lives? What are our responsibilities towards them in this work? 
 
 #### Resources:
-* [Prarie Lotus](https://loc.gov/item/2020945474) by Linda Sue Park, is accompanied, on her website, by a Native American resource guide compiled by author and educator Andrea Page (Oceti Sakowin Hunkpapa), about the Oceti Sakowin people of the area in which the book is set. 
+* [Prairie Lotus](https://loc.gov/item/2020945474) by Linda Sue Park, is accompanied, on her website, by a Native American resource guide compiled by author and educator Andrea Page (Oceti Sakowin Hunkpapa), about the Oceti Sakowin people of the area in which the book is set. 
 * [Empire's Tracks, Indigenous Nations, Chinese Workers, and the Transcontinental Railroad](https://www.loc.gov/item/2018038417), by Manu Karuka.
 
 ### What can we know about peoples' lives at the time and place of our project?

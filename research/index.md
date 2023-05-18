@@ -10,15 +10,11 @@ This is a guide to finding and gathering clues to places which have been erased;
 ![A model of an old theater at night, dimly lit by its glowing sign, telegraph wires illumnated by a streetlamp.](images/empire-theater-evening.jpg)
 _A reconstruction of the Empire Theater, facing Providence's Chinatown in 1914, on a rainy evening._
 
-It's the first part of an evolving guide to [relational reconstruction](relational-reconstruction.md), a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. 
-
-This guide will continue to grow and change as the project emerges. 
-
-----
-
 ## Contents
 
 <!-- * [Introductory blog post](blog/01-introduction.md) -->
+
+Since the Research part of this guide is quite long, I’ve broken it into subsections:
 
 * Introductory blog post (coming soon)
 * [Questions](research/questions.md)
@@ -27,33 +23,19 @@ This guide will continue to grow and change as the project emerges.
 * [Tracking photos](research/tracking.md)
 * [Bibliography](research/bibliography.md)
 * [Image collection](research/collection.md) (selected public domain images)
-* [Related work / inspirations](inspirations.md)
-* [Frequently Asked Questions](faq.md)
 
 
 ----
 
 ## What kind of project is this?
 
-This project, and the [relational reconstruction](relational-reconstruction.md) methodology I envision, is focused on memory, remembrance, and personal relationships to histories. It is not a work of history or formal archiving (see "Is this a precise historic recreation?" in the [FAQ](faq.md)), but a way for us to reckon with the past and its meanings to us today and in the future, in personal terms.
+As you begin your research, remember: this project, and the [relational reconstruction](relational-reconstruction.md) methodology I envision, is focused on memory, remembrance, and personal relationships to histories. It is not a work of history or formal archiving (see "Is this a precise historic recreation?" in the [FAQ](faq.md)), but a way for us to reckon with the past and its meanings to us today and in the future, in personal terms.
 
 Think of this as a journey through these materials which you can chart with love, perhaps guiding your community around the hazards and pitfalls of the archival lens, to be close with – to share space with – histories and spaces which we often must glimpse through the cracks. 
 
 It's a meditation, the searching. Handling these artifacts with tenderness. Not picking them apart like meat from a bone or gems from the soil. Gathering them together with gentle hands. Healing yourself as you glimpse them. Giving them recognition, and rest. 
 
 <!-- (Add: note on personal vs. scholarly discovery) -->
-
-<!--
-
-## What is this guide for? 
-
-Where LOC materials meet local and family collections
-2 track: for spatial reconstruction, vs. story/life
-Maps and stories, then photos and articles…
-
-
--->
-
 
 ### A note of caution
 
