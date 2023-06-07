@@ -16,8 +16,8 @@ _A reconstruction of the Empire Theater, facing Providence's Chinatown in 1914, 
 
 Since the Research part of this guide is quite long, I’ve broken it into subsections:
 
-* Introductory blog post (coming soon)
-* [Questions](research/questions.md)
+* [Introductory blog post](https://blogs.loc.gov/thesignal/2023/01/introducing-seeing-lost-enclaves-with-innovator-in-residence-jeffrey-yoo-warren/)
+* [Questions](research/questions.md) - What questions should you be asking before embarking on your project? 
 * [Searching for images](research/images.md)
 * [Mapping photos](research/mapping.md)
 * [Tracking photos](research/tracking.md)
@@ -40,4 +40,6 @@ It's a meditation, the searching. Handling these artifacts with tenderness. Not 
 ### A note of caution
 
 To those beginning to look through these histories: please take care of yourself. In this work, you’ll come across material which will be painful to read, including violence, but also the diminution of violence – even from present day historians and archivists. There will be people who don’t understand this pain or how they can add to it. Take breaks and deep breaths. Listen to something calming. The kind of justice we seek in relational reconstruction is through remembrance and connection. It may be someone else’s important work to hold themselves accountable for these acts. It may even be yours on another occasion, but our goal here and now is to see beyond those painful parts to try to connect with people’s lives; people who might be your ancestors, or who walked a path your ancestors would later. (Also: see this episode of NPR’s [Life Kit: Connect with your ancestors](https://www.npr.org/2022/11/11/1136051123/connect-with-your-ancestors))
+
+When I need to take a break and heal, I like to lay down on the floor and relax each part of my body, one at a time. Sometimes I'll listen to music, or try to picture my own ancestors; feeling their supportive presence "at my back" can be calming and strengthening. Find a practice which works for you, and remember that your work will be stronger the more you can approach it whole. 
 

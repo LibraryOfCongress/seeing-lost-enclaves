@@ -12,7 +12,12 @@ In my work virtually reconstructing Providence Chinatown, I've shared videos lik
 ![Animated gif of walking through a digital model of Chinatown in Providence, grainy building facades and a white background.](../research/images/first-walkthrough.gif)
 _An early walkthrough of a virtual reconstruction of Providence's Chinatown in 1914._
 
-In the first part of the guide, where we looked through archival records to find photographs and other clues to work with, I discussed some of the painful aspects of learning about histories of trauma and harm, and of navigating the way these old stories were told. For me, this next part of the process was an opportunity to heal. The act of reconstruction can be an act of repair -- of stitching back together these fleeting glimpses and creating a space of care.   
+In the first part of the guide, where we looked through archival records to find photographs and other clues to work with, I discussed some of the painful aspects of learning about histories of trauma and harm, and of navigating the way these old stories were told. For me, this next part of the process was an opportunity to heal. The act of reconstruction can be an act of repair -- of stitching back together these fleeting glimpses and creating a space of care. 
+
+## Accuracy and intent
+
+Because of the partial nature of the source materials we must work with, and the histories of erasure these neighborhoods have endured, we will be exercising creativity in our reconstruction process. One of my main inspirations in this has been Saidiya Hartman, whose "critical fabulation" proposes a speculative approach to writing into the gaps and against the archives. For more, see [Inspirations](inspirations). 
+  
 
 Let's look at some of the techniques I've used. But keep in mind, the best way to learn is together, and I'll be hosting workshops on these techniques in the spring and summer of 2023\.   
 

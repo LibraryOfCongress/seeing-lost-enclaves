@@ -9,6 +9,7 @@ _Images of Central Baptist Church from the [Rhode Island State Archives](https:/
 
 "Looking in the background" is how I would describe my approach for _many_ of the images I was able to find of Providence's Chinatown. See how in the above image, the building to the left side, which on careful inspection has an awning labeled "ORIENTAL RESTAURANT," appears again in a second image from the RI State Archives, again in the background of a photograph of Central Baptist Church, with ladders leaning against it.
 
+The [bibliography page](bibliography) lists a wide variety of online and offline resources, collections, and archives which I've come across, which are excellent starting points for research, especially on early Asian American communities. 
 
 ## Online image search
 
@@ -34,6 +35,8 @@ Pair the above keywords with your place name ("Providence") or "historic" or "ar
 
 ![A black and white photo of a valley with a small town organized around a main street winding into the distance, with pine trees on neighboring hills.](images/images-deadwood-chinatown.jpg)
 _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by John C. H. Grabill, between 1887-92, [Library of Congress](https://www.loc.gov/item/99613869/). The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
+
+Bear in mind that not all images in collections have been digitized or are accessible online. Many are not even catalogued.. Visiting archives in person almost always turns up details, materials, and new clues. See _Physical archives_ below. 
 
 
 ## Maps
@@ -79,13 +82,11 @@ I'll post more on this technique soon.
 
 <!-- include reverse search image later -->
 
-<!-- May 2023 revisions this far -->
-
 ## Newspaper archives
 
-Newspapers were, for me, the heaviest part of the research process, due to the constant use of racist language, the casual lack of respect or care for Asian Americans, and the accounts of police harassment, violence, and erasure which pervades coverage. Even present-day coverage of communities of color is disturbing, whether of historic events or not. But there was a lot of information in these archives, and I felt a responsibility to sift through them to find what I could. This sometimes meant searching every article of every issue of a newspaper for days or weeks following a major event (violence, celebrations, world events) to see what I could find. 
+Newspapers were, for me, the heaviest part of the research process, due to the constant use of racist language, the casual lack of respect or care for Asian Americans, and the accounts of police harassment, violence, and erasure which pervades coverage. Even present-day coverage of communities of color is disturbing, whether of historic events or not. But there was a lot of information in these archives, and I felt a responsibility to sift through them to find what I could. This sometimes meant searching every article of every issue of a newspaper for days or weeks following a major event (violence, celebrations, world events) to see what I could find. Please take a look at [A note of caution](#research), at the end of the introduction to this section, for ways to care for yourself during this kind of work. 
 
-Uniquely, many online newspaper archives include full text search, meaning that you can search within the text of the articles for keywords, just like those we used for photo searches. This also means that, unfortunately, searching for slurs and outdated or innacurate terms can sometimes be a productive, if hurtful, search technique. Please exercise care for yourself and your community if you choose to use these. 
+Uniquely, many online newspaper archives include full text search, meaning that you can search within the text of the articles for keywords, just like those we used for photo searches. This also means that, unfortunately, searching for slurs and outdated or inaccurate terms can sometimes be a productive, if hurtful, search technique. Please exercise care for yourself and your community if you choose to use these. 
 
 ### Content warning:
 
@@ -104,7 +105,7 @@ Asiatic
 Mongolian (for Chinese people)
 </details><br />
 
-Many newspapers can be found through the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), a search service of the [Chronicling America](https://chroniclingamerica.loc.gov/) online collection and search engine at the Library of Congress. The US Newspaper Directory has a very comprehensive list of all newspapers in the US (with notable exceptions, see below), but not all of them are available for full text search in the Chronicling America search engine. Use the US Newspaper Directory to identify which newspapers exist, and Chronicling America to search within those that have been scanned in. The US Newspaper Directory will also link out to other libraries which have those newspapers, as well as to WorldCat.org for additional cross-library listings. See the [bibliography](bibliography.md) for more.
+Many newspapers can be found through the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), a search service of the [Chronicling America](https://chroniclingamerica.loc.gov/) online collection at the Library of Congress. The US Newspaper Directory has a very comprehensive list of all newspapers in the US (with notable exceptions, see below), but not all of them are available for full text search in the Chronicling America search engine. Use the US Newspaper Directory to identify which newspapers exist, and Chronicling America to search within those that have been scanned. The US Newspaper Directory will also link out to other libraries which have those newspapers, as well as to WorldCat.org for additional cross-library listings. See the [bibliography](bibliography.md) for more.
 
 ![A grid of thumbnail images of scanned newspaper pages](images/images-newspapers.jpg)
 _A variety of scanned pages from Providence, RI newspapers, including some with racist depictions and designs._
@@ -120,16 +121,17 @@ I've been very interested in how early Chinese American and Asian American newsp
 
 Searching physical archives is a larger topic than I can get into here, and varies widely depending on the archive. But many local and community archives are not available online. Many are open to the public; the City of Providence archives require no appointment, and contain many original photographs, as well as police records containing mugshots, property records, business directories, and marriage and court records. These can all be important parts of piecing together histories, although they focus on a narrow slice of peoples' lives. Cross-referencing peoples' names, ages, and addresses from court, marriage, deed and police records can be painstaking but revealing.
 
-The Library of Congress has many records which are not available online, including photographs, maps, business directories, and of course, books. The [AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection), for example, is publicly available but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within, and I took careful notes on its contents myself; it contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. In the [Prints and Photos Division](https://www.loc.gov/pictures/), several collections are only available in person, although they are rapidly being scanned and uploaded. See the bibliography's _Starting points_ for more specific collections to visit. 
-  
+The Library of Congress has many records which are not available online, including photographs, maps, business directories, and of course, books. The [AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection), for example, is publicly available but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within, and I took careful notes on its contents myself; it contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. In the [Prints and Photos Division](https://www.loc.gov/pictures/), several collections are only available in person, although they are rapidly being scanned and uploaded. See the bibliography's _Starting points_ for more specific collections to visit, and the [Tracking photos section](#research/tracking) for how I keep records on what I find.  
+
 
 ## Family records
 
-Personal, family, and community collections are, of course, the most likely to include items which can give us insight into the lives of people in otherwise erased historic communities of color. But they often exist as the result of careful private stewardship for generations, and families whose histories have been systematically excluded and erased from official White institutions' collections, or whose histories have been represented in racist ways, may be very cautious about how their stories and collections are shared and to whom. 
+Personal, family, and community collections are, of course, the most likely to include items which can give us insight into the lives of people in otherwise erased historic communities of color. But they often exist as the result of careful private stewardship for generations, and families whose histories have been systematically excluded and erased from White institutions' collections, or whose histories have been represented in racist ways, may be very cautious about how their stories and collections are shared and to whom. 
 
-In my work in Providence's Chinatown, I have, through descendants of the community, been able to view much more personal materials, including portraits and other memorabilia. But the decision to share such items, how, and with whom, is something which requires care and is for descendants to make. In the absence of known descendants, I believe it is something to be considered with the participation of today's Chinese American and Asian American communities, depending on the site and its histories.
+In my work in Providence's Chinatown, I have, through descendants of the community, been able to view much more personal materials, including portraits and other memorabilia. But the decision to share such items, how, and with whom, is something which requires care and is for descendants to make. In the absence of known descendants, I believe the use of family archives is something to be thoughtfully considered in dialogue with today's Chinese American and Asian American descendant communities, depending on the site and its histories.
 
 So far, I have carefully looked through such items, and sought to incorporate understandings of their meaning into my reconstruction work indirectly. But I hope to expand on this through projects like my [Ancestral Memory Enclaves workshops](https://unterbahn.com/2022/07/07/enclaves/), where people have an opportunity to creatively explore their connection to family photographs and memories through similar methods of relational reconstruction at a personal scale. 
 
+How many photos is "enough" to make a reconstruction? In the next section, I'll show how I make connections between photos, and how I organize them on a map to understand what I'm able to see, and what's missing. But given the amount of creativity it takes to craft a virtual reconstruction, I think it's possible to work from as little as a single photo or drawing. 
 
 [Next: Mapping photos >](/research/mapping.md)

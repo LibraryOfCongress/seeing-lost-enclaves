@@ -20,7 +20,7 @@ _My photo tracking spreadsheet for Providence's Chinatown._
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
 
 
-## Why: possibilities
+## Why: surfacing connections
 
 Using these tracking spreadsheets can surface important connections -- using names from newspaper articles, court records, and other sources, I have been able to reconstruct a rough "directory" of who lived or worked at each address in Providence's Chinatown. But be aware: these records are incredibly fragmentary, and partial -- and relying primarily on these kinds of accounts, with their racist views and understandings, risks giving those perspectives too much control over the ways we understand these histories, especially when they are our own. Saidiya Hartman has written about the limits of the archive as a resource for knowledge of the lives of enslaved people during the trans-Atlantic slave trade, and the possibilities of what she terms _critical fabulation_ in overcoming these limits. Jamelle Bouie writes about the limitations of ledgers and numerically-based analysis based in the bureaucracy of enslavement, and what it cannot tell us. Find more information and links in the [inspirations page](/inspirations.md)
 
