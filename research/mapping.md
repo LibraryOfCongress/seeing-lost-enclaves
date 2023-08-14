@@ -4,7 +4,7 @@
 
 As you collect more and more photos, you'll need to keep track of what each photograph represents, spatially. Placing them onto a map can be a powerful means of organizing what you know and don't know. 
 
-Start with any initial photos you have. Can you locate the buildings in a photo on the map? It can be helpful to copy paste (or drag) images into a Google Presentation, like this: [Link to zones map](https://docs.google.com/presentation/d/1ZNBkNco4pabaOGHoWNM1n5Y2d3bhArM8WJPzWW77wNw/edit?usp=sharing) ([Here is a PDF copy](https://jywarren.github.io/seeing-lost-enclaves/research/images/mapping-images.pdf) if you prefer not to use a Google account)
+Start with any initial photos you have. Can you locate the buildings in a photo on the map? I copy pasted (or dragged) images into a Google Presentation, like this: [Link to zones map](https://docs.google.com/presentation/d/1ZNBkNco4pabaOGHoWNM1n5Y2d3bhArM8WJPzWW77wNw/edit?usp=sharing) ([Here is a PDF copy](https://jywarren.github.io/seeing-lost-enclaves/research/images/mapping-images.pdf) if you prefer not to use a Google account)
 
 Each time you find a new image, add it (or a thumbnail version of it) to the map:
 

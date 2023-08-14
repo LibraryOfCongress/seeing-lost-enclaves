@@ -18,12 +18,6 @@ As part of the first milestone of the _Seeing Lost Enclaves_ project, I've compi
 
 <cite>Sanborn Fire Insurance Map from Riverside, Riverside County, California</cite>. Sanborn Map Company, 1908. Map. https://www.loc.gov/item/sanborn00793_007/ (sanborn00793_007-master-gmd-gmd436m-g4364m-g4364rm-g4364rm_g007931908-00793_1908-0048.jpg)
 
-Thomas A. Edison, Inc, and  Paper Print Collection. <cite>Arrest in Chinatown, San Francisco, Cal</cite>. United States: Thomas A. Edison, Inc, 1897. Video. https://www.loc.gov/item/00694412/ (00694412-media-ammem-EarlyFilmsofSanFrancisco-15145.mp4)
-
-Ackerman, Raymond, Camera,  American Mutoscope And Biograph Company,  Paper Print Collection, and  Niver. <cite>Scene in Chinatown</cite>. [United States: American Mutoscope and Biograph Company, 1900] Video. https://www.loc.gov/item/00694411/ (00694411-media-ammem-EarlyFilmsofSanFrancisco-14065.mp4)
-
-Thomas A. Edison, Inc, and  Kleine. <cite>San Francisco Chinese funeral</cite>. United States: Thomas A. Edison, Inc, 1904. Video. https://www.loc.gov/item/00694410/ (00694410-media-ammem-EarlyFilmsofSanFrancisco-12311.mp4)
-
 Lawrence & Houseworth, Publisher. <cite>Six mile canyon from C Street, Virginia City</cite>. Nevada Virginia City, 1866. [Published ; Printed Later] Photograph. https://www.loc.gov/item/2002719064/ (2002719064-master-pnp-ds-04400-04482u.jpg)
 
 Glover, E. S. <cite>View of Virginia City, Montana Ty., from Alder Gulch looking east</cite>. [Montana?: s.n, 1875] https://www.loc.gov/item/89691905/
@@ -33,6 +27,14 @@ Glover, E. S. <cite>View of Virginia City, Montana Ty., from Alder Gulch looking
 <cite>Chinese children in Olympia, Wash</cite>. , ca. 1919. Photograph. https://www.loc.gov/item/2004670938/ (2004670938-master-pnp-cph-3b10000-3b16000-3b16200-3b16236u.jpg)
 
 Historic American Engineering Record, Creator, John L Morgan, Charles Chamberlain, Gerome Pratt, Orion E Kirkpatrick, Mitzi Rossillon, Lon Johnson, and Inc Renewable Technologies. <cite>Leesburg Mining District, Napias & Moose Creeks, Salmon, Lemhi County, ID</cite>. Lemhi County Salmon Idaho, 1968. translateds by Gill, Barry Leemitter, and Young, Kellymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/id0172/ (id0172-master-pnp-habshaer-id-id0100-id0172-sheet-00001a.jpg)
+
+## General - videos
+
+Thomas A. Edison, Inc, and  Paper Print Collection. <cite>Arrest in Chinatown, San Francisco, Cal</cite>. United States: Thomas A. Edison, Inc, 1897. Video. https://www.loc.gov/item/00694412/ (00694412-media-ammem-EarlyFilmsofSanFrancisco-15145.mp4)
+
+Ackerman, Raymond, Camera,  American Mutoscope And Biograph Company,  Paper Print Collection, and  Niver. <cite>Scene in Chinatown</cite>. [United States: American Mutoscope and Biograph Company, 1900] Video. https://www.loc.gov/item/00694411/ (00694411-media-ammem-EarlyFilmsofSanFrancisco-14065.mp4)
+
+Thomas A. Edison, Inc, and  Kleine. <cite>San Francisco Chinese funeral</cite>. United States: Thomas A. Edison, Inc, 1904. Video. https://www.loc.gov/item/00694410/ (00694410-media-ammem-EarlyFilmsofSanFrancisco-12311.mp4)
 
 ## Deadwood:
 

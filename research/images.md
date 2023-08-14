@@ -13,7 +13,7 @@ The [bibliography page](bibliography) lists a wide variety of online and offline
 
 ## Online image search
 
-In my experience, using Google or DuckDuckGo image search by keyword is worthwhile, but these search terms can work for online archives as well. You may have to skim through hundreds of photos. I prefer using DuckDuckGo's image search, since the full resolution image is directly linked from each result. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
+I used Google and DuckDuckGo to image search by keyword, and these search terms can work for online archives as well. You may have to skim through hundreds of photos. DuckDuckGo's image search links to the full resolution image from each result, making it easier to find the original images. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
 
 ![A screenshot of Duck Duck Go image search for the phrase "empire street providence 1914" showing a range of photos of buildings, both black and white and colorized.](images/images-image-search.png)
 
@@ -63,7 +63,7 @@ _The Modern Theater in 1916, showing the street corner just outside of Chinatown
 
 ### Theaters
 
-The website [CinemaTreasures.org](http://cinematreasures.org) is a surprisingly rich resource for tracking the history of old theaters, from construction dates to name changes to photographs and even dating images based on the posters of shows currently playing. Check the Photos and Comments tabs of a page to see user contributions.
+I used the website [CinemaTreasures.org](http://cinematreasures.org), a surprisingly rich resource for tracking the history of old theaters, from construction dates, to name changes, to photographs, and even dating images based on the posters of shows currently playing. I looked at the Photos and Comments tabs of a page to see user contributions.
 
 
 ![A black and whit photo of a group of people running, pulling a wheeled cart, in matching white shirts, down a dusty street lined with spectators and decorated with flags.](images/images-deadwood-race.jpg)

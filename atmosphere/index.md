@@ -9,7 +9,7 @@ In this part of the Relational Reconstruction Toolkit, we'll be focusing on crea
 
 If you've gone through the earlier parts of this guide, you may have a 3D model of a building or part of a neighborhood. But in your modeling program, you might feel that the scene lacks something -- that it doesn't jump out at you like a memory or a real place you could imagine yourself within.   
 
-![](images/evening-morning.jpg)
+![Buildings of different heights viewed out the window of a 3rd story dormer window in early simulated morning light.](images/evening-morning.jpg)
 _Simulated evening/morning light in an early model of Providence's Chinatown._ 
 
 The kinds of atmospheric effects we'll show help to create evocative moments, like in our strongest memories: the quiet of a snowstorm, or the feeling of a rainy day.   
@@ -19,24 +19,24 @@ The kinds of atmospheric effects we'll show help to create evocative moments, li
 
 Lighting is the first, and maybe easiest way you can give your scene some emotional tone. Think about sunrise, or sunset, or other times of days which stand out in your memory -- maybe an especially hot day or even a snowstorm.   
 
-![](images/sunset.png)
+![Pink and lavender morning light illuminate a virtual model of Providence Chinatown's closely packed buildings.](images/sunset.png)
 _Evening light in Mozilla Hubs._
 
 Simple lighting effects can be added in the Mozilla Hubs editor, Spoke - like point lighting for lamps or light bulbs, or ambient light or sunlight.   
 
 You can even animate falling snow, using a component called a particle emitter. (We'll talk more about this a little later.) Learn more about this technique here: [https://youtu.be/blFXb5b54pc](https://youtu.be/blFXb5b54pc)   
 
-![](images/snow.gif)
+![Animated falling snow and white streets and awnings give the impression of a snowstorm.](images/snow.gif)
 _Simulated snow falling in an early model of Providence's Chinatown, in the Mozilla Hubs platform._ 
 
 But to create more complex kinds of atmospheric effects, you'll need to use a rendering program like Blender, which is free and open source.   
 
-![](images/evening.png)
+![A view down onto a narrow street at night, lit from warm lights spilling out of open doorways and windows.](images/evening.png)
 _Warm interior lights on a dimly lit evening street, in Blender._ 
 
 For me, it's been a challenge to represent these spaces, because I have found few photographs of interiors, and even fewer of the people who lived and worked here. It doesn't make sense to fill them with fictional people, but neither has it felt right for them to be empty. One way I've sought to give a sense of peoples' presence has been to evoke a sense of warmth and comfort.   
 
-![](images/rain.gif)
+![Gentle rain and fog on an empty evening street, with warm light coming from windows.](images/rain.gif)
 _Simulated rain and fog on Empire Street in a model of Providence's Chinatown._ 
 
 Wet streets, rain and fog contrast with warm indoor lights to create a sense of shelter and enclosure, and visitors have remarked that they felt physically warmer upon coming inside out of the virtual rain.   
@@ -45,7 +45,7 @@ I was inspired by Alicia Renee Ball's 3D design work because of her powerful use
 
 You may find it helpful to watch the video version of the guide as Alicia goes through many of these steps in the Blender modeling program.  
 
-(Link)  
+(Link coming soon)  
   
 
 ## Alicia Renee Ball: New Echota  
@@ -60,21 +60,21 @@ I have been studying the histories of Black people who lived under enslavement i
 
 First, I will import my 3D model of the log cabin into Blender. As you see from my model it is already coveredskinned with a texture from the photogrammetry process.  
 
-![](images/cabin.jpg)
+![A textured model of a wooden cabin with broad planks and wood shingles and a stone chimney](images/cabin.jpg)
 _The imported log cabin in Blender._ 
 
 Then I am going to create a landscape for the log cabin to sit upon by adding a plane and utilizing it as my ground.  
 
 I wanted to add depth and dimension to the ground plane instead of leaving it flat. This will help to create a dynamic sense of place that mimics the natural variety of landscape in the natural world.  
 
-![](images/terrain.jpg)
+![The cabin, now silver, on a gently rolling surface gridded with grey lines, on a grey background.](images/terrain.jpg)
 _Creating hilly ground around the cabin._ 
 
 As I created height and depth on my surface plane, I made sure to examine it from all directions, tweaking it until it felt and looked just right.  
 
 Next, to bring to life the digital environment I am building I will be adding in a skydome which will naturally light up our scene, followed by bringing in surface texture for our ground.  
 
-![](images/skydome.jpg)
+![The cabin, again in color, on a now grassy-textured curved surface, with a gentle blue and pink sunset lit sky beyond.](images/skydome.jpg)
 _Texturing the ground, and the "sunset" skydome in the background._ 
 
 I am utilizing texture maps from a subscription based service called Poliigon. For your world building exploration you can find free textures and HDRIs to use through a simple google search. One site that offers free material textures is [polyhaven.com](https://polyhaven.com/).  
@@ -89,7 +89,7 @@ For me as an experimental artist and designer I like to play with mood. To help 
 
 I am using 3D models I currently have access to from Poliigon, again for your world building you can find a plethora of free CAD resources online. Pick the models that will best speak to the world you are building or reconstructing.  
 
-![](images/tree.jpg)
+![A brightly-highlighted tree with 3D control markings is positioned next to the cabin, beside a log and a stump, while other trees are visible in the distance.](images/tree.jpg)
 _Trees, stumps, and a log around the cabin._ 
 
 So as you can see I imported a few tree stumps, a chopped log, and a living tree (Alive, Midlife and Death - can take this part out but a note for self). These items are in dialogue with one another, showcasing various stages of life, death and transition through the usage of natural resources to sustain a modern world. From living trees, to chopped tree stumps in transition to a log cabin.   
@@ -98,7 +98,7 @@ Creating a narrative, or working poetically/in a kind of spatial poetics in the 
 
 To create more spatial depth in the scene, I have imported a horizontal image of barren trees with a transparent background to serve as our backdrop. This imagery of barren trees creates a sense of coldness in our built digital environment because it reminds us of the transition between seasons, from Summer to Fall and from Winter to Spring.  
 
-![](images/trees.gif)
+![A group of trees is positioned in the distance, giving the impression of a forest.](images/trees.gif)
 _Tree backdrops behind the cabin._ 
 
 Now, I want to explore how the use of moving light particles can add an ethereal, dreamy and otherworldly aspect to our environment. I will explore this concept by creating an animation of sauntering fireflies that will lightly dance, float and flutter throughout the scene.  
@@ -109,7 +109,7 @@ We will create these dancing fireflies by using a particle system in Blender. We
 
 see [https://docs.blender.org/manual/en/latest/physics/particles/emitter/physics/boids.html](https://docs.blender.org/manual/en/latest/physics/particles/emitter/physics/boids.html), and learn more about Boids at [https://en.wikipedia.org/wiki/Boids](https://en.wikipedia.org/wiki/Boids).)  
 
-![](images/fireflies.jpg)
+![Specks of warm light appear around the cabin, floating.](images/fireflies.jpg)
 _Fireflies around the cabin._ 
 
 We decided to use the Boids system to simulate the flight and flutter of the fireflies, whose blooming light will add further ambience to the scene.  
@@ -120,7 +120,7 @@ Finally, to turn up the drama, mood and mystery in this scene we will also explo
 
 Now I will tweak the settings to increase the density, depth, visibility and color of the fog to create varying moods for our speculative scene from New Echota.  
 
-![](images/fog.jpg)
+![A thin layer of fog mixes with the fireflies around the cabin. Some patches appear green or pink.](images/fog.jpg)
 _Fog around the cabin._ 
 
 In my art practice I enjoy infusing cosmic drama into the worlds I build, and I do this mostly through overlaying and merging colors. This creates a hazy environment of floating auras that coats our sky and changes the dynamic of the scene depending on the density level of the fog.  
@@ -129,7 +129,7 @@ Now I am going to play around with the camera angle until I land on a viewport o
 
 Here is the end result of my speculative play and another way you can create emotional space in the worldbuilding development of your relational reconstructions.  
 
-![](images/fireflies.gif)
+![Animation of the fireflies wandering.](images/fireflies.gif)
 _Animated fireflies wandering around the cabin in the fog at dusk._ 
 
 That concludes this portion of the Relational Reconstruction Toolkit. Next we'll discuss the crafting of historical soundscapes with artist Ann Chen.
