@@ -63,10 +63,9 @@ _The Modern Theater in 1916, showing the street corner just outside of Chinatown
 
 ### Theaters
 
-I used the website [CinemaTreasures.org](http://cinematreasures.org), a surprisingly rich resource for tracking the history of old theaters, from construction dates, to name changes, to photographs, and even dating images based on the posters of shows currently playing. I looked at the Photos and Comments tabs of a page to see user contributions.
+I used the website [CinemaTreasures.org](http://cinematreasures.org), which includes a detailed user-contributed history of stage theaters, from construction dates, to name changes, to photographs, and even dating images based on the posters of shows currently playing. I looked at the Photos and Comments tabs of a page to see user contributions.
 
-
-![A black and whit photo of a group of people running, pulling a wheeled cart, in matching white shirts, down a dusty street lined with spectators and decorated with flags.](images/images-deadwood-race.jpg)
+![A black and white photo of a group of people running, pulling a wheeled cart, in matching white shirts, down a dusty street lined with spectators and decorated with flags.](images/images-deadwood-race.jpg)
 _"The great Hub-and-Hub race at Deadwood, Dak., July 4, 1888, between the only two Chinese hose teams in the United States" by John C. H. Grabill. [Library of Congress](https://www.loc.gov/item/99613960/)_
 
 ### Events & celebrations

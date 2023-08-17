@@ -29,7 +29,7 @@ You can even animate falling snow, using a component called a particle emitter. 
 ![Animated falling snow and white streets and awnings give the impression of a snowstorm.](images/snow.gif)
 _Simulated snow falling in an early model of Providence's Chinatown, in the Mozilla Hubs platform._ 
 
-But to create more complex kinds of atmospheric effects, you'll need to use a rendering program like Blender, which is free and open source.   
+But to create more complex kinds of atmospheric effects, you'll need to use a rendering program. I used Blender, which is free and open source.
 
 ![A view down onto a narrow street at night, lit from warm lights spilling out of open doorways and windows.](images/evening.png)
 _Warm interior lights on a dimly lit evening street, in Blender._ 
@@ -50,7 +50,7 @@ You may find it helpful to watch the video version of the guide as Alicia goes t
 
 ## Alicia Renee Ball: New Echota  
 
-Hi, my name is Alicia and I am going to demonstrate how Ito use Blender to worldbuild digital environments with dynamic presence.  
+Hi, my name is Alicia and I am going to demonstrate how I used Blender to worldbuild digital environments with dynamic presence.  
 
 I have chosen to use a 3D model that I created through a technique known as photogrammetry for this portion of the guide. (If you would like to know more about this technique for making 3D models, see the notes in the written guide. Please visit this link for more information. [https://en.wikipedia.org/wiki/Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry))  
 
@@ -105,7 +105,7 @@ Now, I want to explore how the use of moving light particles can add an ethereal
 
 We will create these dancing fireflies by using a particle system in Blender. We will use our ground plane as the source that will generate tiny orbs of light, that we will animate through a physics system called Boids. Particle emitters can also be used to create rain or snow in a scene.   
 
-(If you want to know more about how to create particle systems in Blender, see the notes in the written guide. /
+(If you want to know more about how to create a particle systems like we did in Blender, see the notes in the written guide.
 
 see [https://docs.blender.org/manual/en/latest/physics/particles/emitter/physics/boids.html](https://docs.blender.org/manual/en/latest/physics/particles/emitter/physics/boids.html), and learn more about Boids at [https://en.wikipedia.org/wiki/Boids](https://en.wikipedia.org/wiki/Boids).)  
 

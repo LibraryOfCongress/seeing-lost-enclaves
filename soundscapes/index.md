@@ -42,7 +42,7 @@ Could you try chopping a fish, or rattling a metal bucket on a wooden floor?
 
 Can you use keywords to find these sounds in public archives?  
 
-You can find a lot of free to use sounds at the website [Freesound.org](http://freesound.org), like this recording of chickens: [https://freesound.org/people/elkinjn/sounds/500637/](https://freesound.org/people/elkinjn/sounds/500637/), or this recording by Miranda Huang titled "Chinatown Sidewalk": [https://freesound.org/people/MirandaHuang/sounds/232281/](https://freesound.org/people/MirandaHuang/sounds/232281/).  
+You can find a lot of free to use sounds online. We used freesound.org, where we found this recording of chickens: [https://freesound.org/people/elkinjn/sounds/500637/](https://freesound.org/people/elkinjn/sounds/500637/), or this recording by Miranda Huang titled "Chinatown Sidewalk": [https://freesound.org/people/MirandaHuang/sounds/232281/](https://freesound.org/people/MirandaHuang/sounds/232281/).  
 
 Let's focus on other clues in this photo. It is on a street. What does a busy street sound like in a shopping district? Do we know what languages are spoken in this neighborhood? Can we go out to record these specific sounds?  
 
@@ -83,7 +83,7 @@ From this kind of deep listening -- both at the site as it is today, and through
 
 ## Spatialized sound in Mozilla Hubs  
 
-After you collect sounds, you can place them within a reconstructed scene. Much of the reconstruction work so far in Seeing Lost Enclaves has been in the virtual online platform called Mozilla Hubs. Mozilla Hubs is able to host not only 3D models and visual media, but embedded sounds located within the virtual environment. These sound files are spatialized -- meaning that, just like in real life, they are louder the closer you are to them. And if you wear stereo headphones, you can hear a sound to your left or right side. This allows us to localize sounds in creative ways.   
+After you collect sounds, you can place them within a reconstructed scene. Much of the reconstruction work so far in Seeing Lost Enclaves has been in the virtual online platform called Mozilla Hubs. We used Mozilla Hubs to host not only 3D models and visual media, but embedded sounds located within the virtual environment. These sound files are spatialized -- meaning that, just like in real life, they are louder the closer you are to them. And if you wear stereo headphones, you can hear a sound to your left or right side. This allows us to localize sounds in creative ways.   
 
 ![Looking down the virtual street in gentle fog and rain, a three story wooden building with many stoops and doors occupies much of the block. Warm lights appear in the upper windows. To the right, hidden behind a wall, we see a black floating "musical notes" icon with a play button and volume slider.](images/hidden-sound.jpg)
 _A sound file playing on a loop, hidden behind a wall in a virtual reconstruction of Providence's Chinatown._ 
