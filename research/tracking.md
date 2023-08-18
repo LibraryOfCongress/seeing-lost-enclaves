@@ -4,7 +4,7 @@ In researching Providence's Chinatown, I found that I quickly collected dozens, 
 
 I'm sharing access to my original spreadsheet so you can see how I organized my record keeping, and will also share templates (below) which you can use to organize your own. You don't have to use my system, but I'll share how it works and why. 
 
-> [My photo tracking spreadsheet for Providence's Chinatown](https://docs.google.com/spreadsheets/d/1QN0UFXkYftnWY7G6bLlgcGm2uxCsbUcyRMfKfj_6y90/edit#gid=0)
+> [My photo tracking spreadsheet for Providence's Chinatown](#research/photo-tracking.xlsx)
 
 First, it's a working document, not a formal bibliography, so my priority was recording as much as I could, but it's not a "perfect" document, whatever that means. 
 
@@ -14,7 +14,7 @@ _My photo tracking spreadsheet for Providence's Chinatown._
 
 ## Templates 
 
-* [Template](https://docs.google.com/spreadsheets/d/1na1BaZ8Op2iSwOGbWPYKhEflKvbEIm6IlLbMnkNj4TM/edit#gid=6183643)
+* [Template](#research/template.xlsx)
 
 ![Screenshot of spreadsheet with columns Source, Date, Pages, Resources, Police, Names, Policemen, Search term, and Link, with short descriptions of articles about people, events, and addresses from the Providence Journal.](images/tracking-newspapers.png)
 _Spreadsheet noting buildings by construction/destruction dates, addresses, building or business names, notes and links._
