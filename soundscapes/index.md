@@ -83,7 +83,7 @@ From this kind of deep listening -- both at the site as it is today, and through
 
 ## Spatialized sound in Mozilla Hubs  
 
-After you collect sounds, you can place them within a reconstructed scene. Much of the reconstruction work so far in Seeing Lost Enclaves has been in the virtual online platform called Mozilla Hubs. We used Mozilla Hubs to host not only 3D models and visual media, but embedded sounds located within the virtual environment. These sound files are spatialized -- meaning that, just like in real life, they are louder the closer you are to them. And if you wear stereo headphones, you can hear a sound to your left or right side. This allows us to localize sounds in creative ways.   
+After you collect sounds, you can place them within a reconstructed scene. Much of the reconstruction work so far in Seeing Lost Enclaves has been in the virtual online platform called Mozilla Hubs. We used Mozilla Hubs to host not only 3D models and visual media, but embedded sounds located within the virtual environment. These sound files are spatialized -- meaning that, just like in real life, they are louder the closer you are to them. And if you wear stereo headphones, you can hear a sound to your left or right side. Think about how you might localize sounds in creative ways.   
 
 ![Looking down the virtual street in gentle fog and rain, a three story wooden building with many stoops and doors occupies much of the block. Warm lights appear in the upper windows. To the right, hidden behind a wall, we see a black floating "musical notes" icon with a play button and volume slider.](images/hidden-sound.jpg)
 _A sound file playing on a loop, hidden behind a wall in a virtual reconstruction of Providence's Chinatown._ 
@@ -106,4 +106,4 @@ Let's put it all together and see how it sounds.
 
 _A video of a partially completed reconstructed scene of Providence's Burrill Street Chinatown ca. 1900 with a simple ambient soundscape._ 
 
-That's the end of the Guide to Relational Reconstruction; thank you, and [please sign up here](https://unterbahn.com/chinatown/) to be notified about workshops and events related to Seeing Lost Enclaves.
+That's the end of the Guide to Relational Reconstruction; thank you, and [please sign up here](#contact) to be notified about workshops and events related to Seeing Lost Enclaves.

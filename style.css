@@ -11,6 +11,7 @@ body {
   border-width: 0 2px 2px 0;
   border-color: #c7d4da;
   border-style: solid;
+  color: #2A2A2A;
 }
 
 body,
@@ -20,7 +21,13 @@ body,
 
 a,
 .markdown-css a {
-  color: #63a3bd;
+  color: #0C7AC4;
+}
+
+a:hover,
+.markdown-css a:hover {
+  background: #0C7AC4;
+  color: white;
 }
 
 .markdown-css h1 {
@@ -31,6 +38,10 @@ a,
 
 .markdown-css h2,
 .markdown-css h3 {
+}
+
+.markdown-css img + em {
+  color: #2A2A2A;
 }
 
 header,
@@ -60,6 +71,10 @@ header a {
   -webkit-hyphens: auto;
   hyphens: auto;
 
+}
+
+.md-pages a {
+  text-decoration: underline;
 }
 
 .md-pages p img {
