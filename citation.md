@@ -12,6 +12,11 @@ To be more specifie, public domain is something that "happens" (from a property 
 
 More thoughts on this soon. 
 
+## Also see:
+
+* [Inspirations](inspirations)
+* [Bibliography](research/bibliography)
+
 ----
 
 Thanks to those who have shared the following resources related to citation practices:
