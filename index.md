@@ -23,6 +23,7 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 * [Part 4: Soundscapes](soundscapes/) (with [Ann Chen](https://annhchen.com/))
 * [Related work / inspirations](inspirations.md)
 * [Frequently Asked Questions](faq.md)
+* [Additional blog posts and updates](https://blogs.loc.gov/thesignal/?new=true&s=jeffrey+yoo+warren)
 
 ## What is relational reconstruction?
 
