@@ -9,13 +9,12 @@ This repository contains the documentation for the Seeing Lost Enclaves project.
 
 The files contained can be viewed individually but are cross-linked as well:
 
-* [Research](research/index.md) contains Part 1 and is online in draft form; locating reference materials for relational reconstruction.
+* [Research](research/index.md) contains Part 1: locating reference materials for relational reconstruction.
     * See the [bibliography](research/bibliography.md)
-    * See an initial [source set of free to use Library of Congress materials](research/collection.md)
-* **Reconstruction** will cover the development of modeling textures from source and reference images.
-* **Modeling** will cover crafting 3D buildings and mapping reconstructed facades and textures onto them.
-* **Soundscapes** will cover developing audio soundscapes from archival and reference recordings.
-* **Ambience** will cover generating ambient effects, lighting and weather within reconstructed scenes.
+    * See a [source set of free to use Library of Congress materials](research/collection.md)
+* [Modeling](modeling/index.md) covers crafting 3D buildings and mapping reconstructed facades and textures onto them.
+* [Soundscapes](soundscapes/index.md) covers developing audio soundscapes from archival and reference recordings.
+* [Atmosphere](atmosphere/index.md) covers generating ambient effects, lighting and weather within reconstructed scenes.
 
 This material can be browsed on GitHub https://github.com/jywarren/seeing-lost-enclaves or accessed through a web viewer at https://jywarren.github.io/seeing-lost-enclaves/
 

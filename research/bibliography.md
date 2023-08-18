@@ -228,11 +228,7 @@ Gong-Guy, Lillian. <cite>Chinese in San Jose and the Santa Clara Valley</cite>. 
 
 Wong, William, 1941 July 7. <cite>Oakland's Chinatown</cite>. Charleston, SC: Arcadia, 2004. https://www.loc.gov/item/2004110491/
 
-Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
-
-Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
-
-Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>.
+Asian American Pacific Islander Collection. <cite>Asian American Pacific Islander miscellaneous community collection</cite>. https://guides.loc.gov/asian-collections/asian-american-pacific-islander-collection
 
 Rouse, Wendy L. <cite>The children of Chinatown: growing up Chinese American in San Francisco, -1920</cite>. Chapel Hill: University of North Carolina Press, 2009. https://www.loc.gov/item/2009011633/
 

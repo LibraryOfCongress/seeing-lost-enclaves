@@ -6,7 +6,7 @@ At the beginning, many of these questions will be hard to answer; that's OK – 
 
 ----
 
-First, if you can, visit the place as it is today. It might be a virtual visit, a Street View visit, or maybe a visit through scenes in a movie set in the place. 
+First, if you can, visit the place as it is today. It might be a virtual visit, or maybe a visit through scenes in a movie set in the place. For some places, I visited using Google Street View. 
 
 ![A screenshot of Google Street View at Empire Street, Providence, RI, cars parked on both sides, a bike lane, trees, and an old photograph of a building and dirt road as an inset image.](images/questions-streetview.jpg) 
 _The site of Providence, Rhode Island's Chinatown before 1914, with reference photograph._

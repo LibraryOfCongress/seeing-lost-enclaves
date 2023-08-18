@@ -16,7 +16,7 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 
 <!-- * [Introductory blog post](blog/01-introduction.md) -->
 
-* Introductory blog post (coming soon)
+* [Introductory blog post](https://blogs.loc.gov/thesignal/2023/01/introducing-seeing-lost-enclaves-with-innovator-in-residence-jeffrey-yoo-warren/)
 * [Part 1: Research](research/)
 * [Part 2: Modeling](modeling/)
 * [Part 3: Atmosphere](atmosphere/) (with [Alicia Renee Ball](https://aliciareneeball.com/))
