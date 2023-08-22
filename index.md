@@ -6,9 +6,15 @@ _A rough draft 3D model of the Empire Theater at the edge of Providence's Chinat
 
 Seeing Lost Enclaves is a project by [Jeffrey Yoo Warren](https://unterbahn.com) as part of the 2023 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/).
 
+You can read more on the [Seeing Lost Enclaves experiment page](https://labs.loc.gov/work/experiments/lost-enclaves).
+
 _This is a draft. The final version will be published in September 2023._ This guide will continue to grow and change as the project emerges. 
 
-Part 1 is the first part of an evolving guide to _relational reconstruction_, a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown) (see below), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. Guides and documentation of subsequent phases of this work will be posted over the course of 2023, and will include topics such as reconstruction, modeling, soundscapes, ambience. 
+<iframe src="https://www.loc.gov/item/webcast-10883/?&embed=resources" width="697" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Toolkit
+
+This website an evolving guide to _relational reconstruction_, a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown) (see below), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. Guides and documentation of subsequent phases of this work will be posted over the course of 2023, and will include topics such as reconstruction, modeling, soundscapes, ambience. 
 
 As I dive deeper into this work, I hope to share the techniques I've learned and developed, both in this guide and through public workshops over the coming months. I especially hope to work together with fellow Asian Americans who share my interest in unearthing early histories and stories of erased communities across the country -- and with descendants of these communities. Though Chinatowns are for me a starting point, due to my work in Providence's Chinatown, I am also interested in the histories of other erased communities of color, and hope to learn more about these histories over the course of the project. Please [reach out](contact.md) if you are interested in sharing or contributing.
 

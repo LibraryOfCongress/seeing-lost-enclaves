@@ -36,7 +36,7 @@ Pair the above keywords with your place name ("Providence") or "historic" or "ar
 ![A black and white photo of a valley with a small town organized around a main street winding into the distance, with pine trees on neighboring hills.](images/images-deadwood-chinatown.jpg)
 _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by John C. H. Grabill, between 1887-92, [Library of Congress](https://www.loc.gov/item/99613869/). The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
 
-Bear in mind that not all images in collections have been digitized or are accessible online. Many are not even catalogued.. Visiting archives in person almost always turns up details, materials, and new clues. See _Physical archives_ below. 
+Bear in mind that not all images in collections have been digitized or are accessible online. Many are not even catalogued. Visiting archives in person almost always turns up details, materials, and new clues. See _Physical archives_ below. 
 
 
 ## Maps
