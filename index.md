@@ -20,13 +20,39 @@ As I dive deeper into this work, I hope to share the techniques I've learned and
 
 ## Contents
 
-<!-- * [Introductory blog post](blog/01-introduction.md) -->
+
+<div class="fl">
+<div class="item">
+
+[![Kids led by a parent, crossing a street.](/images/kids.jpg)](research/)
+## [1. Research](research/)
+
+</div>
+<div class="item">
+
+[![Screenshot of a model of an old theater and tailor shop, fragments of photos and maps visible.](/images/empire-theater.jpg)](modeling/)
+## [2. Modeling](modeling/)
+
+</div>
+<div class="item">
+
+[![Buildings of different heights viewed out the window of a 3rd story dormer window.](/images/evening-morning.jpg)](atmosphere/)
+## [3. Atmosphere](atmosphere/)
+_with [Alicia Renee Ball](https://aliciareneeball.com/)_
+
+</div>
+<div class="item">
+
+[![A man cuts fish heads with a cleaver on a tilted wooden table](/images/fish-market-crop.jpg)](soundscapes/)
+## [4. Soundscapes](soundscapes/)
+_with [Ann Chen](https://annhchen.com/)_
+
+</div>
+</div>
+
+## Also see
 
 * [Introductory blog post](https://blogs.loc.gov/thesignal/2023/01/introducing-seeing-lost-enclaves-with-innovator-in-residence-jeffrey-yoo-warren/)
-* [Part 1: Research](research/)
-* [Part 2: Modeling](modeling/)
-* [Part 3: Atmosphere](atmosphere/) (with [Alicia Renee Ball](https://aliciareneeball.com/))
-* [Part 4: Soundscapes](soundscapes/) (with [Ann Chen](https://annhchen.com/))
 * [Related work / inspirations](inspirations.md)
 * [Frequently Asked Questions](faq.md)
 * [Additional blog posts and updates](https://blogs.loc.gov/thesignal/?new=true&s=jeffrey+yoo+warren)
@@ -49,3 +75,23 @@ In thinking about my approach in that project, I wrote:
 > By contrast, my goal is to use the process of reconstruction as one of healing and of belonging, and as a reclaiming and re-contextualizing of the archive and its meanings for our futures, inspired by the speculative futurity projects of contemporary Black artists and Saidiya Hartman's concept of _critical fabulation_. My practice engages peoples’ creative and collaborative abilities, building tools and spaces which support and inspire creative practices, and the Relational Reconstruction Toolkit focuses on the creative possibilities of what it could have felt like –as an Asian American person – to walk down the street and experience a sense of belonging at that moment in history.
 
 _Seeing Providence Chinatown_ received early support from the [Rhode Island Council for the Humanities](https://rihumanities.org/), [Movement Education Outdoors](https://meoutdoorsri.com/), [AS220](https://as220.org), and the City of Providence's [Department of Arts, Culture, and Tourism](https://artculturetourism.com/).
+
+
+
+<style>
+.fl {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(160px, 1fr));
+  gap: 10px;
+}
+.fl > .item {
+  text-align: center;
+}
+.fl > .item h2 {
+  margin-bottom: 6px;
+}
+.markdown-css .fl p {
+  margin-bottom: 0;
+}
+</style>
+
