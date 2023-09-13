@@ -17,11 +17,11 @@ The individual citations in the next section were largely found through these st
 
 [AAPI Community Collection](https://guides.loc.gov/asian-american-pacific-islander/aapi-collection) (1906-2013) - contains books, manuscripts, personal records, yearbooks, maps, and a wide variety of other items. Publicly available, but must be requested several days in advance and only box by box; librarians in the [Asian Division](https://www.loc.gov/research-centers/asian/about-this-research-center/?loclr=blognbf) can help locate specific items within. https://www.loc.gov/item/2013584998
 
-[Sanborn maps collection](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), Sanborn maps (see _Maps_ in [Searching images](images.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the US since the late 1800s.
+[Sanborn maps collection](https://www.loc.gov/collections/sanborn-maps/about-this-collection/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), Sanborn maps (see _Maps_ in [Searching images](images.md)) were created by the Sanborn Insuance Company every few years for most cities above a certain size in the U.S. since the late 1800s.
 
 [Cities and Towns collection](https://www.loc.gov/collections/cities-and-towns/) - part of the [Geography and Map division](https://www.loc.gov/rr/geogmap/), this collection includes maps of many places, sorted geographically. 
 
-[Geographic File filing series (US)](https://www.loc.gov/item/2005680325/) - part of the [Prints and Photographss Division](https://www.loc.gov/pictures/),
+[Geographic File filing series (U.S.)](https://www.loc.gov/item/2005680325/) - part of the [Prints and Photographss Division](https://www.loc.gov/pictures/),
 
 [Specific Subject File filing series](https://www.loc.gov/item/2005675764/) - part of the [Prints and Photographs Division](https://www.loc.gov/pictures/)
 
@@ -43,7 +43,7 @@ The [Prints and Photographs division](https://www.loc.gov/pictures/) also includ
 * [New York World-Telegram and the Sun Newspaper Photo Collection](https://www.loc.gov/item/94505083) (1880-1967) - searching the collection's [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinatown&_type=all&select=all&_id=loc.pnp.eadpnp.pp021032&_displayTerm=chinatown&_zx=go&_raw_mfer_q=chinatown) for terms like "chinatown" can return some results, but they must then be checked in person.
 * [Look Magazine Picture Research File]() (1910-1970) - again, searching the [finding aid](https://findingaids.loc.gov/db/search/xq/searchITFA02.xq?_q=chinese&_type=all&select=all&_id=loc.pnp.eadpnp.pp019001&_displayTerm=chinese&_zx=go&_raw_mfer_q=chinese) can return some results which must then be checked in person. 
 
-[Chronicling America](https://chroniclingamerica.loc.gov/) & the [US Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/) - part of the [Serial and Government Publication division](https://www.loc.gov/rr/news/brochure.html), are newspaper collections. For example, you can search [all newspapers by ethnicity "chinese" until 1920](https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=50) See _Newspaper archives_ in [Searching for images](images.md) for more on this resource and how to use it.
+[Chronicling America](https://chroniclingamerica.loc.gov/) & the [U.S. Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/) - part of the [Serial and Government Publication division](https://www.loc.gov/rr/news/brochure.html), are newspaper collections. For example, you can search [all newspapers by ethnicity "chinese" until 1920](https://chroniclingamerica.loc.gov/search/titles/results/?state=&county=&city=&year1=1690&year2=1920&terms=&frequency=&language=&ethnicity=Chinese&labor=&material_type=&lccn=&rows=50) See _Newspaper archives_ in [Searching for images](images.md) for more on this resource and how to use it.
 
 Luo, K. & Lai, H.M. Chinese newspapers published in North Amer., 1854-1975. - this print index of newspapers identifies many newspapers by name, region, and where copies are available. It is available in print at the Asian Division reading room, and a few other copies exist at other institutions: https://worldcat.org/title/3551941 
 
@@ -57,13 +57,13 @@ _Business directories_ available in the [Science, Technology & Business Division
 
 [Community Cookbooks](https://guides.loc.gov/community-cookbooks/introduction) - this collection may also contain useful information about foodways, and is part of the [Science, Technology & Business Division](https://www.loc.gov/rr/scitech/general.html), which hosts cookbooks at the Library of Congress.
 
-[China Folklife](https://guides.loc.gov/china-folklife) - the [American Folklife Center](https://www.loc.gov/folklife/) at the Library of Congress includes a wide variety of materials from China and the US; an example is [Music and a Mystery to Celebrate the Chinese New Year](https://blogs.loc.gov/folklife/2017/01/music-chinese-new-year/), which presents recordings of Cantonese opera from 1902-3, recorded in either Philadelphia or New Jersey. 
+[China Folklife](https://guides.loc.gov/china-folklife) - the [American Folklife Center](https://www.loc.gov/folklife/) at the Library of Congress includes a wide variety of materials from China and the U.S.; an example is [Music and a Mystery to Celebrate the Chinese New Year](https://blogs.loc.gov/folklife/2017/01/music-chinese-new-year/), which presents recordings of Cantonese opera from 1902-3, recorded in either Philadelphia or New Jersey. 
 
 ----
 
 ## General
 
-_These items and collections may be helpful in researching Chinatowns and other enclaves of color across the US._
+_These items and collections may be helpful in researching Chinatowns and other enclaves of color across the U.S._
 
 <cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
 
@@ -167,12 +167,12 @@ Grabill, John C. H. <cite>Deadwood, South Dakota, ; "I" troop, 8th cavalry near 
 
 # Other regions
 
-While my initial search has focused on just a few places, I found a wide variety of materials on Chinatowns and other enclaves of color around the US, and I've included them here to be expanded on later.
+While my initial search has focused on just a few places, I found a wide variety of materials on Chinatowns and other enclaves of color around the U.S., and I've included them here to be expanded on later.
 
 
 ----
 
-## Western US
+## Western U.S.
 
 Pfaelzer, Jean. <cite>Driven out: the forgotten war against Chinese Americans / Jean Pfaelzer</cite>. Berkeley: University of California Press, 2008. https://www.loc.gov/item/2008013454/
 
