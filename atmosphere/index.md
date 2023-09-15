@@ -1,11 +1,13 @@
 # Seeing Lost Enclaves
 ### Relational reconstructions of erased historic neighborhoods of color
 
-_This is a draft. The final version will be published in September 2023._
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GuEDVpuVr0s?si=JR0CfS_lkiblxrsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Part 3: Atmosphere
 
-In this part of the Relational Reconstruction Toolkit, we'll be focusing on creating emotional space - through lighting, weather, textures and even movement. Here, I've worked with Alicia Renee Ball ([https://aliciareneeball.com](https://aliciareneeball.com)) - a multidisciplinary artist and designer - to explore how to create a sense of place and space through dynamic worldbuilding for our reconstruction models.  
+In this part of the Relational Reconstruction Toolkit, we'll be focusing on creating emotional space - through lighting, weather, textures and even movement. Here, I've worked with Alicia Renee Ball ([https://aliciareneeball.com](https://aliciareneeball.com)) - a multidisciplinary artist and designer - to explore how to create a sense of place and space through dynamic worldbuilding for our reconstruction models. This part of the guide is also [available in video form](https://www.loc.gov/item/webcast-11066/), narrated by Alicia and Jeff, embedded above.
 
 If you've gone through the earlier parts of this guide, you may have a 3D model of a building or part of a neighborhood. But in your modeling program, you might feel that the scene lacks something -- that it doesn't jump out at you like a memory or a real place you could imagine yourself within.   
 

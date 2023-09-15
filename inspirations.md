@@ -1,6 +1,11 @@
 # Related work / inspirations
 
-In the spirit of a "Constellation of Inspirations" ([Alice Yuan Zhang](https://aliceyuanzhang.com/) *![external link](../images/external-link.gif)*), here are a range of people, projects, writings, and ideas which have inspired and shaped my work:
+In the spirit of a "Constellation of Inspirations" ([Alice Yuan Zhang](https://aliceyuanzhang.com/) *![external link](../images/external-link.gif)*), here are a range of people, projects, writings, and ideas which have inspired and shaped my work. 
+
+Also see:
+
+* the [bibliography](research/bibliography) for this guide
+* some of [my thoughts on citation](../citation) in the context of this kind of archival work
 
 [RI Chinese History Project](https://richinesehistory) *![external link](../images/external-link.gif)* by Angela Yuanyuan Feng, Julieanne Fontana, John Eng-Wong, Robert Lee, and others. This project is how I first learned about Providence's Chinatown, and I'm grateful that with their support I have been able to pursue this project. Also see the [Public Works podcast interview](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6Mzk2Njc5MDIwL3NvdW5kcy5yc3M/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvNDQyNzQ5MzUx?ep=14) *![external link](../images/external-link.gif)*.
 

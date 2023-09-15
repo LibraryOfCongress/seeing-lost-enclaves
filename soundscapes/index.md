@@ -1,11 +1,13 @@
 # Seeing Lost Enclaves
 ### Relational reconstructions of erased historic neighborhoods of color
 
-_This is a draft. The final version will be published in September 2023._
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y81PI8e4KZc?si=J7Gs9iGnxvqJu0KX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Part 4: Soundscapes
 
-For this part of the guide I worked with artist and friend [Ann Chen](https://annhchen.com/) *![external link](../images/external-link.gif)* on how to create historical soundscapes to go with your relational reconstructions.  
+For this part of the guide I worked with artist and friend [Ann Chen](https://annhchen.com/) *![external link](../images/external-link.gif)* on how to create historical soundscapes to go with your relational reconstructions. It is also [available in video form](https://www.loc.gov/item/webcast-11067/), narrated by Ann and Jeff, embedded above.
 
 So far, we've focused on gathering, editing and reconstructing these spaces using visual imagery from archives, personal sources or the internet. Adding sound to your reconstruction can be a powerful method to augment a visitor's experience of your space and also reconnect with memories and histories. At a basic level, the ambient sounds of a neighborhood help to create a sense of "being there," from the noise of traffic, to the blowing of the wind, to the sounds of people talking, doing things, and spending time together.   
 

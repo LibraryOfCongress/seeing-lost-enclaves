@@ -2,6 +2,11 @@
 
 This bibliography was gathered from an early search through Library of Congress collections, in which I focused on several candidate sites to better understand the search process, the availability of records, and the histories of different Chinatowns and other erased enclaves of color. It is not meant as a comprehensive listing of Library of Congress materials nor a comprehensive list of such communities, and I will continue adding to it. If you would like to download an initial selection of images and films I've curated from the LOC's collections, see the [this page](/research/collection.md). If you have items to contribute please [reach out](/contact); thank you.
 
+Also see:
+
+* the [Inspirations page](../inspirations)
+* some of [my thoughts on citation](../citation) in the context of this kind of archival work
+
 The Library of Congress is an enormous institution and resource, but of course many or most records of early histories of this kind are more represented in local cultural heritage organizations such as historic societies, city and state archives, and most of all in personal, family, and community collections. For me, searching across the LOC's collections was a way to identify starting points for a deeper search of non-LOC materials. It's also important to me that these histories be well represented and accessible within the Library of Congress, and this bibliography may help in that regard. I have also begun gathering non-LOC materials and will be sharing them soon as well.
 
 For a bibliography of [Providence's Chinatown](https://unterbahn.com/chinatown), which I originally gathered before the start of this residency, I plan to expand on it with Library of Congress items and include it at a later time. 

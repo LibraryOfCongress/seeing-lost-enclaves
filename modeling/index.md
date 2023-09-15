@@ -1,11 +1,13 @@
 # Seeing Lost Enclaves
 ### Relational reconstructions of erased historic neighborhoods of color
 
-_This is a draft. The final version will be published in September 2023._
+<div class="youtube-video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvmezYMMfYE?si=h0TauBQUgi8c-UAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Part 2: Modeling
 
-This part of the Relational Reconstruction guide will focus on how to begin 3D modeling using archival records.   
+This part of the Relational Reconstruction guide will focus on how to begin 3D modeling using archival records. It is also [available in video form](https://www.loc.gov/item/webcast-11068/), embedded above.
 
 In my work virtually reconstructing Providence Chinatown, I've shared videos like this one, which was the first moment I had enough buildings rebuilt that it really felt like a neighborhood.   
 

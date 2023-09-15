@@ -92,6 +92,7 @@ header a {
   position: relative;
   overflow: hidden;
   width: 100%;
+  margin-bottom: 20px;
 }
 
 .youtube-video-container::after {
