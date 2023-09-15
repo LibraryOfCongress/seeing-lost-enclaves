@@ -4,7 +4,7 @@ In researching Providence's Chinatown, I found that I quickly collected dozens, 
 
 I'm sharing access to my original spreadsheet so you can see how I organized my record keeping, and will also share templates (below) which you can use to organize your own. You don't have to use my system, but I'll share how it works and why. 
 
-> [My photo tracking spreadsheet for Providence's Chinatown](#research/photo-tracking.xlsx)
+> [My photo tracking spreadsheet for Providence's Chinatown](#research/photo-tracking.xlsx) (.xlsx)
 
 First, it's a working document, not a formal bibliography, so my priority was recording as much as I could, but it's not a "perfect" document, whatever that means. 
 

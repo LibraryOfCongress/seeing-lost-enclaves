@@ -18,7 +18,7 @@ So far, I have hosted public visits and walking tours to Providence's Chinatown,
 
 ## Can I participate? 
 
-Soon, I plan to begin offering workshops based on the techniques I have been developing, and will post these on my [Instagram](https://instagram.com/unterbahn) and [Twitter](https://twitter.com/jywarren) accounts. These will range from personal-scale [Ancestral Memory Enclaves workshops](https://unterbahn.com/2022/07/07/enclaves/) such as I have led in the past, to workshops focused on other parts of the reconstruction process.
+Soon, I plan to begin offering workshops based on the techniques I have been developing, and will post these on my [Instagram](https://instagram.com/unterbahn) *![external link](../images/external-link.gif)* and [Twitter](https://twitter.com/jywarren) *![external link](../images/external-link.gif)* or [Bluesky](https://bsky.app/profile/jywarren.bsky.social) *![external link](../images/external-link.gif)* accounts. These will range from personal-scale [Ancestral Memory Enclaves workshops](https://unterbahn.com/2022/07/07/enclaves/) *![external link](../images/external-link.gif)* such as I have led in the past, to workshops focused on other parts of the reconstruction process.
 
 I’m also beginning to reach out to folks about – slowly – beginning a reconstruction project in another place. I've recently spent time looking for records in Truckee, CA, New Orleans, Deadwood, SD, and other places. I’m interested in connecting with descendants of these communities, as well as with Asian American artists, historians, and community members interested in remembrance related to these places. Please let me know you’d like to connect on the [contact page](/contact.md)
 

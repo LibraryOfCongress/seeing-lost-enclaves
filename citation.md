@@ -2,7 +2,7 @@
 
 (This is an unfinished and evolving series of thoughts on citation in the context of this project.)
 
-This guide is shared as a public domain work. That means there is no legal requirement to ask permission to reproduce or use its contents (though there remains an ethical and scholarly obligation to [cite one's sources](https://guides.library.oregonstate.edu/copyright/publicdomain)). However, this project incorporates materials which hold special meanings for some people, especially descendants, Chinese Americans and Asian Americans more broadly, and I want to encourage care in reusing them.  
+This guide is shared as a public domain work. That means there is no legal requirement to ask permission to reproduce or use its contents (though there remains an ethical and scholarly obligation to [cite one's sources](https://guides.library.oregonstate.edu/copyright/publicdomain) *![external link](../images/external-link.gif)*). However, this project incorporates materials which hold special meanings for some people, especially descendants, Chinese Americans and Asian Americans more broadly, and I want to encourage care in reusing them.  
 
 I often feel that the ideas behind public domain, copyright, etc., flatten some nuanced ethical considerations into a question of property. And the practice of citation can become a formal obligation to fulfill rather than an act of thanks and an expression of respect.
 

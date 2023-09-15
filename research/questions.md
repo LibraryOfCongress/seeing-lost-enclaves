@@ -21,9 +21,9 @@ Are descendants of the people of this time and place living nearby today? In Pro
 
 #### Resources:
 
-* [Chinese Railroad Workers Descendants Association](http://www.goldenspike150.org/)
-* [Remembering the Forgotten Chinese Railroad Workers](https://www.sapiens.org/archaeology/chinese-railroad-workers-utah/) by Veronica Peterson 
-* [How Tacoma’s small Chinese community reckoned with the city’s anti-Chinese history](https://www.seattletimes.com/seattle-news/how-tacomas-small-chinese-community-reckoned-with-the-citys-anti-chinese-history/) discusses the story of the Tacoma Chinese Reconciliation Park.
+* [Chinese Railroad Workers Descendants Association](http://www.goldenspike150.org/) *![external link](../images/external-link.gif)*
+* [Remembering the Forgotten Chinese Railroad Workers](https://www.sapiens.org/archaeology/chinese-railroad-workers-utah/) *![external link](../images/external-link.gif)* by Veronica Peterson 
+* [How Tacoma’s small Chinese community reckoned with the city’s anti-Chinese history](https://www.seattletimes.com/seattle-news/how-tacomas-small-chinese-community-reckoned-with-the-citys-anti-chinese-history/) *![external link](../images/external-link.gif)* discusses the story of the Tacoma Chinese Reconciliation Park.
 
 ### Who else lived here, originally?
 
@@ -40,8 +40,8 @@ Are there memoirs, stories, or media, especially by members of the community, wh
 Apart from, or in the absence of such accounts, what are the limitations of White accounts of this community? How might we see past such limitations, or through such gaps? How do we imagine a world unenclosed by what archives chose to remember?
 
 #### Resources:
-* [We Still Can’t See American Slavery for What It Was](https://www.nytimes.com/2022/01/28/opinion/slavery-voyages-data-sets.html), by Jamelle Bouie, discusses the limitations of understanding the lives of those enslaved during the trans-Atlantic slave trade through data-driven records and the accounts by enslavers.
-* [Venus in Two Acts](https://www.moma.org/collection/works/427132), by Saidiya Hartman (content warning: extreme violence and dehumanization) 
+* [We Still Can’t See American Slavery for What It Was](https://www.nytimes.com/2022/01/28/opinion/slavery-voyages-data-sets.html) *![external link](../images/external-link.gif)*, by Jamelle Bouie, discusses the limitations of understanding the lives of those enslaved during the trans-Atlantic slave trade through data-driven records and the accounts by enslavers.
+* [Venus in Two Acts](https://www.moma.org/collection/works/427132) *![external link](../images/external-link.gif)*, by Saidiya Hartman (content warning: accounts of extreme violence and dehumanization) 
 
 ### What can we reconstruct from formal records?
 
