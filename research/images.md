@@ -13,7 +13,7 @@ The [bibliography page](bibliography) lists a wide variety of online and offline
 
 ## Online image search
 
-I used Google and DuckDuckGo to image search by keyword, and these search terms can work for online archives as well. You may have to skim through hundreds of photos. DuckDuckGo's image search links to the full resolution image from each result, making it easier to find the original images. These search terms can also work in the Library of Congress's various search systems, such as the [Prints and Photos Division search](https://www.loc.gov/photos/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
+I used Google and DuckDuckGo to image search by keyword, and these search terms can work for online archives as well. You may have to skim through hundreds of photos. DuckDuckGo's image search links to the full resolution image from each result, making it easier to find the original images. These search terms can also work in the Library of Congress's various search systems, such as the [The Prints & Photographs Online Catalog](https://loc.gov/pictures/). See _Starting points_ on the [Bibliography page](bibliography.md) for more places to search for imagery. 
 
 ![A screenshot of Duck Duck Go image search for the phrase "empire street providence 1914" showing a range of photos of buildings, both black and white and colorized.](images/images-image-search.png)
 
@@ -36,7 +36,7 @@ Pair the above keywords with your place name ("Providence") or "historic" or "ar
 ![A black and white photo of a valley with a small town organized around a main street winding into the distance, with pine trees on neighboring hills.](images/images-deadwood-chinatown.jpg)
 _"Deadwood, [S.D.] from Mrs. Livingston's Hill" by John C. H. Grabill, between 1887-92, [Library of Congress](https://www.loc.gov/item/99613869/). The area of Chinatown can be seen in the distance. See [Mapping photos](/research/mapping.md) for more on this image._
 
-Bear in mind that not all images in collections have been digitized or are accessible online. Many are not even catalogued. Visiting archives in person almost always turns up details, materials, and new clues. See _Physical archives_ below. 
+Bear in mind that not all images in collections have been digitized or are accessible online. Many are not even individually catalogued, or at some archives, catalogued at all. Visiting archives in person almost always turns up details, materials, and new clues. See _Physical archives_ below. 
 
 
 ## Maps
@@ -104,7 +104,7 @@ Asiatic
 Mongolian (for Chinese people)
 </details><br />
 
-Many newspapers can be found through the [U.S. Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), a search service of the [Chronicling America](https://chroniclingamerica.loc.gov/) online collection at the Library of Congress. The U.S. Newspaper Directory has a very comprehensive list of all newspapers in the U.S. (with notable exceptions, see below), but not all of them are available for full text search in the Chronicling America search engine. Use the U.S. Newspaper Directory to identify which newspapers exist, and Chronicling America to search within those that have been scanned. The U.S. Newspaper Directory will also link out to other libraries which have those newspapers, as well as to WorldCat.org for additional cross-library listings. See the [bibliography](bibliography.md) for more.
+Many newspapers can be found through the [U.S. Newspaper Directory](https://chroniclingamerica.loc.gov/search/titles/), a search service of the [Chronicling America](https://chroniclingamerica.loc.gov/) online collection at the Library of Congress. The U.S. Newspaper Directory has a very comprehensive list of many newspapers in the U.S. (with notable exceptions, see below), but not all of them are available for full text search in the Chronicling America search engine. Use the U.S. Newspaper Directory to identify newspapers, and Chronicling America to search within those that have been scanned. The U.S. Newspaper Directory will also list other libraries which have copies of those newspapers, and I used WorldCat.org to find additional cross-library listings. See the [bibliography](bibliography.md) for more.
 
 ![A grid of thumbnail images of scanned newspaper pages](images/images-newspapers.jpg)
 _A variety of scanned pages from Providence, RI newspapers, including some with racist depictions and designs._

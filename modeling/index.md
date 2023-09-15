@@ -167,13 +167,13 @@ At a certain point, you may want to look for free to use textures to supplement 
 You can also look for architectural elements in some of the Library of Congress collections. See for example this image of brick and patio surfaces:   
 
 ![An old photo of children at long tables in a U-shape arrangement on a tiled patio on a rooftop, outdoors.](images/patio.jpg)
-_A photograph looking downward onto the roof garden of the Lenox Hill Settlement in NYC, between ca. 1915 and ca. 1920. https://www.loc.gov/pictures/item/2014702218/_
+_A photograph looking downward onto the roof garden of the Lenox Hill Settlement in NYC. "Roof garden, Lenox Hill settlement", ca. 1915-1920. Photograph from the *Bain News Service photograph collection*. [Library of Congress, Prints & Photographs Division](https://www.loc.gov/pictures/item/2014702218/)._
 
 Some places to search include:  
 
-- The Genthe collection: [https://www.loc.gov/pictures/collection/agc/](https://www.loc.gov/pictures/collection/agc/)
-- The Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey: [https://www.loc.gov/pictures/collection/hh/](https://www.loc.gov/pictures/collection/hh/)
-- Carnegie Survey of the Architecture of the South: [https://www.loc.gov/pictures/search/?st=grid&co=csas](https://www.loc.gov/pictures/search/?st=grid&co=csas)  
+- [The Genthe collection](https://www.loc.gov/pictures/collection/agc/)
+- [The Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscapes Survey](https://www.loc.gov/pictures/collection/hh/)
+- [Carnegie Survey of the Architecture of the South](https://www.loc.gov/pictures/collection/csas/)
 
 There are techniques for cropping and distorting parts of these images to create textures, which I will be sharing more about later, as well as advanced techniques for generating textures with roughness and reflectivity, as well as surfaces which appear wet.   
 
@@ -184,7 +184,7 @@ Finally, there are many free to use textures available online, typically in the 
 
 ![12 virtual spheres covered with realistic brick and plaster textures.](images/pbrs.jpg)
 
-I found free to use PBR textures available at https://ambientcg.com *![external link](../images/external-link.gif)*.  
+I found free to use PBR textures available at [ambientcg.com](https://ambientcg.com) *![external link](../images/external-link.gif)*.  
 
 While these can be very helpful sources for free-to-use textures from a similar time period, I have begun to think about the particular meanings of textures for communities of color, and the ways in which we might look to related histories in sourcing such materials as walls, floors, roofs, and more. If we can't find high resolution photographs of a cabin in Portland, Oregon's Chinese Vegetable Gardens, might we look to other Chinese American communities from that period to source textures which would be not only historically appropriate, but culturally meaningful in their origins? While the language around textures often implies that they are completely generic, re-usable, and universal, might we challenge those ideas by caring about how such textures carry meanings, in the way a familiar carpet or wallpaper from our childhood carries meaning for us today? I hope to share more ideas and methods on this theme in the coming months.  
 
