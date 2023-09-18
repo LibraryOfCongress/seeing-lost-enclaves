@@ -41,7 +41,7 @@ Bear in mind that not all images in collections have been digitized or are acces
 
 ## Maps
 
-Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insurance Company every few years for most cities above a certain size in the U.S. since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. 
+Sanborn maps (see _Starting points_ in the [bibliography](bibliography.md)) were created by the Sanborn Insurance Company every few years for most cities above a certain size in the U.S. since the late 1800s. These can provide detailed context for photographs and other records, as well as addresses, details on entryways and even staircases or roofing. Searching maps before and after the period you're researching can often offer additional clues to when buildings were built or how they were modified, and when street names changed. Also see [this collection of tips](research/maps-tips) from the Library of Congress's Division of Geography and Maps.
 
 ![A scan of an old map with yellow and pink building "footprints" marked, street names and businesses like "tailor" and "Chine Gro." on Burrill Street.](images/images-providence-chinatown.jpg)
 _An 1899 Sanborn map of Providence's Chinatown, showing several Chinese American businesses. [Library of Congress](https://www.loc.gov/item/sanborn08099_003/), (image 18)._

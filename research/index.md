@@ -11,9 +11,6 @@ This is a guide to finding and gathering clues to places which have been erased;
 
 (This part of the guide is also [available in video form](https://www.loc.gov/item/webcast-11065/), embedded above.) 
 
-![A model of an old theater at night, dimly lit by its glowing sign, telegraph wires illumnated by a streetlamp.](images/empire-theater-evening.jpg)
-_A reconstruction of the Empire Theater, facing Providence's Chinatown in 1914, on a rainy evening._
-
 ## Contents
 
 <!-- * [Introductory blog post](blog/01-introduction.md) -->
@@ -28,6 +25,8 @@ Since the Research part of this guide is quite long, I’ve broken it into subse
 * [Bibliography](research/bibliography.md)
 * [Image collection](research/collection.md) (selected public domain images)
 
+![A model of an old theater at night, dimly lit by its glowing sign, telegraph wires illumnated by a streetlamp.](images/empire-theater-evening.jpg)
+_A reconstruction of the Empire Theater, facing Providence's Chinatown in 1914, on a rainy evening._
 
 ----
 
