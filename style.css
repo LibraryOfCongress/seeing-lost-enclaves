@@ -54,6 +54,10 @@ header a {
   line-height: 2.8em;
 }
 
+header img {
+  margin-left: 8px;
+}
+
 .md-pages {
 
   /* These are technically the same, but use both */
