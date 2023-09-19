@@ -16,7 +16,7 @@ The files contained can be viewed individually but are cross-linked as well:
 * [Soundscapes](soundscapes/index.md) covers developing audio soundscapes from archival and reference recordings.
 * [Atmosphere](atmosphere/index.md) covers generating ambient effects, lighting and weather within reconstructed scenes.
 
-This material can be browsed on GitHub https://github.com/jywarren/seeing-lost-enclaves or accessed through a web viewer at https://jywarren.github.io/seeing-lost-enclaves/
+This material can be browsed on GitHub https://github.com/libraryofcongress/seeing-lost-enclaves or accessed through a web viewer at https://libraryofcongress.github.io/seeing-lost-enclaves/
 
 This guide is released under the Creative Commons Zero 1.0 license; see LICENSE.
 
