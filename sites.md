@@ -18,7 +18,7 @@ Please reach out via the contact page if you have questions or would like to dis
 
 [![wet cobblestones reflect streetlights down a gloomy street with a well-lit theater marquee in the distance, opposite of where a narrow side street turns off](images/providence.jpg)](https://hubs.mozilla.com/4UjiDyv/seeing-providence-chinatown-1914-sep-13-23#Theater)
 
-[Providence Chinatown in 1914](https://hubs.mozilla.com/4UjiDyv/seeing-providence-chinatown-1914-sep-13-23#Theater)
+[Providence Chinatown in 1914](https://hubs.mozilla.com/4UjiDyv/seeing-providence-chinatown-1914-sep-13-23#Theater) *![external link](../images/external-link.gif)*
 
 </div>
 
@@ -27,7 +27,7 @@ Please reach out via the contact page if you have questions or would like to dis
 
 [![a narrow river meanders below a grassy overgrown hillside nestled between two wooded slopes with large houses in the distance; a group of smaller cabins cluster at the top of the hillside](images/portland.jpg)](https://hubs.mozilla.com/EVBFqvG/portland-chinese-vegetable-gardens-sept-23#Grove)
 
-[Portland Chinese Vegetable Gardens, c1900](https://hubs.mozilla.com/EVBFqvG/portland-chinese-vegetable-gardens-sept-23#Grove)
+[Portland Chinese Vegetable Gardens, c1900](https://hubs.mozilla.com/EVBFqvG/portland-chinese-vegetable-gardens-sept-23#Grove) *![external link](../images/external-link.gif)*
 <br />
 (developed in collaboration with [Dri Chiu Tattersfield](https://hellodri.itch.io/) *![external link](../images/external-link.gif)*)
 
