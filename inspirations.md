@@ -88,6 +88,8 @@ Dorothy Berry's [The House Archives Built](https://www.uproot.space/features/the
 
 [We Still Can’t See American Slavery for What It Was](https://www.nytimes.com/2022/01/28/opinion/slavery-voyages-data-sets.html) *![external link](../images/external-link.gif)*, by Jamelle Bouie, discusses the limitations of understanding the lives of those enslaved during the trans-Atlantic slave trade through data-driven records and the accounts by enslavers.
 
+[Wayward lives, beautiful experiments : intimate histories of social upheaval](https://www.loc.gov/item/2018043118), by Saidiya Hartman, makes use of her methodology of critical fabulation to combine deeply researched archival materials, read "against the grain" to speculatively retell the lives of young Black women in the early 1900s, recognizing them as social innovators challenging oppressive anti-black systems through radical new ways of living. 
+
 [Venus in Two Acts](https://www.moma.org/collection/works/427132) *![external link](../images/external-link.gif)*, by Saidiya Hartman (content warning: accounts of extreme violence and dehumanization) 
 
 This episode of the Parenting Decolonized podcast, [Rethinking Genealogy & Releasing Ancestral Shame with Walter English](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDYyOTY0Ni9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNTIyMzI4ODc?ep=14) *![external link](../images/external-link.gif)*, focuses on Black American genealogy and both pain and shame in relation to researching one's own family history. 

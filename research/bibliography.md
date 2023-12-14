@@ -191,6 +191,8 @@ Wegars, Priscilla. <cite>Hidden heritage: historical archaeology of the overseas
 
 Historic American Engineering Record, Creator, John L Morgan, Charles Chamberlain, Gerome Pratt, Orion E Kirkpatrick, Mitzi Rossillon, Lon Johnson, and Inc Renewable Technologies. <cite>Leesburg Mining District, Napias & Moose Creeks, Salmon, Lemhi County, ID</cite>. Lemhi County Salmon Idaho, 1968. translateds by Gill, Barry Leemitter, and Young, Kellymitter Documentation Compiled After. Photograph. https://www.loc.gov/item/id0172/
 
+Minnick, Sylvia Sun. <cite>Samfow: The San Joaquin Chinese Legacy</cite>. Fresno, Calif. : Panorama West Pub., 1988. https://www.loc.gov/item/87063495
+
 <cite>The Ethnic press in the United States: a historical analysis and handbook</cite>. New York: Greenwood Press, 1987. https://www.loc.gov/item/85031699/
 
 Jones, David D. <cite>The surnames of the Chinese in America spelled according to the David Jones system of spelling Chinese names; with notes on various subjects of interest to the Chinese and those who do business with them</cite>. San Francisco, The Chinese name spelling company, 1904. https://www.loc.gov/item/12008613/
