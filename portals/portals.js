@@ -85,6 +85,7 @@ let locations = [
   { name: 'Providence Burrill St. Chinatown', lat: 41.820647, lng: -71.415001, url: 'viewer.html/?url=spheres/providence.jpg'},
   { name: 'Together Shovel', lat: 41.820824, lng: -71.415476, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
   { name: 'Statue of Confucius', lat: 25.027136, lng: 121.528874, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a'},
+  { name: 'Rome Square', lat: 25.027419553970663, lng: 121.52940233206643, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/portland.m4a'},
 ];
 
 function showPortal(src) {
