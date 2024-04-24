@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hidden Portals</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="portals.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Oswald:wght@200..700&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<div class="modal xfade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-theme="dark">
+
+  <div class="modal-dialog" role="document">
+    <div class="modal-content rounded-4 shadow">
+      <div class="modal-header border-bottom-0">
+        <h1 class="modal-title fs-5">🌏</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-4">
+        <h4 class="mb-0">To use Hidden Portals, location permissions & accuracy must be enabled.</h4>
+
+        <p>You’ll need (if you haven’t already allowed them):</p>
+
+        <ul class="d-grid gap-2 list-unstyled">
+          <li class="d-flex gap-3">
+            <p>1. <b>location access</b> for this web browser. <a href="">Learn how &raquo;</a></p>
+          </li>
+          <li class="d-flex gap-3">
+            <p>3. <b>precise location access</b> for this web browser (for newer phones) <a href="">Learn how &raquo;</a></p>
+          </li>
+          <li class="d-flex gap-3">
+            <p>2. <b>location access</b> for your maps app. <a href="">Learn how &raquo;</a></p>
+          </li>
+        </ul>
+        <p>Get help for <a href="">iPhones</a> or <a href="">Android</a> phones.</p>
+
+
+        <div class="modal-footer flex-column align-items-stretch w-100 gap-2 pb-3 border-top-0">
+          <p>Remember to <b>COME BACK</b> to this page - you must have this site open to experience Hidden Portals.</p>
+          <button href="maps:daddr=38.887331364759575,-77.00499085539924" type="button" class="btn btn-lg btn-primary mt-3 w-100" data-bs-dismiss="modal">📍 View in maps app &raquo;</button>
+          <button type="button" class="btn btn-lg btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="texts">
+
+<img src="sites/tiger-white.png" id="tiger" />
+
+<h1>Hidden<br />Portals</h1>
+
+<!-- NAVIGATION -->
+
+<p class="navlinks">
+<a href="#how">How it works</a> | 
+<a href="#sites">Sites</a>
+</p>
+
+<p>Hello and welcome. I’m Jeffrey Yoo Warren, the current Library of Congress Innovator in Residence.</p>
+
+<p>At the sites of 5 historical erased Asian American communities, portals have been hidden in plain sight. When you approach, the portals will open, allowing a glimpse into virtually reconstructed, immersive moments from their pasts which I and my collaborators have spent the past two years crafting from archival records and photographs, oral histories and other clues.</p> 
+
+<p>
+<a onClick="scrollAcross('providence')" href="javascript:void(0);">Providence</a> | 
+<a onClick="scrollAcross('portland')" href="javascript:void(0);">Portland</a> | 
+<a onClick="scrollAcross('hanford')" href="javascript:void(0);">Hanford</a> | 
+<a onClick="scrollAcross('pachappa')" href="javascript:void(0);">Pachappa</a> | 
+<a onClick="scrollAcross('truckee')" href="javascript:void(0);">Truckee</a>
+and <a onClick="scrollAcross('sites','start')" href="javascript:void(0);">at the Library of Congress</a>
+</p>
+
+<p>Our experiences sifting through archival clues has also revealed how these stories have been historically hidden. Portals have also been created in and around the Library of Congress in Washington, DC.</p>
+
+<p>These hidden worlds are, by necessity, partial, fleeting, and speculative to varying degrees. In the spirit of Saidiya Hartman’s critical fabulation and the speculative fiction of Linda Sue Park, we have focused on the sensory experiences of place – those knowledges most likely to survive by remaining hidden – rather than the dates and historical facts. By placing these worlds – these reconstructions of lost enclaves – in unmarked spots, I hope they will resist denials, misunderstandings, exoticizing gazes, and re-displacement, through their insubstantial and ghostly presence, impossible to drive out.</p>
+
+<p>Hidden Portals is part of the <a href="https://libraryofcongress.github.io/seeing-lost-enclaves/">Seeing Lost Enclaves</a> project by <a href="https://unterbahn.com">Jeffrey Yoo Warren</a> 2023 Innovator in Residence at the Library of Congress.</p>
+
+<br />
+
+<h2 id="history">How we got here</h2>
+
+<p>In the 1870s, Chinese Americans across the west coast were violently driven from their homes by groups such as the Caucasian League, often with the support or involvement of city officials and courts of law. <a href="https://libraryofcongress.github.io/seeing-lost-enclaves/">Seeing Lost Enclaves</a> reconnects Asian Americans with a time when we were profoundly unwelcome, but these harms are not the main focus of my work. Rather, by reconstructing the textures and stories of their lives, and immersing ourselves in the worlds of these long-ago communities, we can better understand ourselves and the more just and joyful futures we are crafting today. Each of these sites is also on the land of Native tribes and peoples.</p>
+
+<br />
+
+</div>
+
+
+<div class="how-it-works" id="how">
+
+<h2>How it works</h2>
+
+<div class="two-columns">
+
+<div>
+  <img src="sites/1.png" />
+  <p>Step 1: Visit <a href="#sites">one of the sites</a>, and <b>open this website</b> on your phone.</p>
+
+<p>
+<a onClick="scrollAcross('providence')" href="javascript:void(0);">Providence</a> | 
+<a onClick="scrollAcross('portland')" href="javascript:void(0);">Portland</a> | 
+<a onClick="scrollAcross('hanford')" href="javascript:void(0);">Hanford</a> | 
+<a onClick="scrollAcross('pachappa')" href="javascript:void(0);">Pachappa</a> | 
+<a onClick="scrollAcross('truckee')" href="javascript:void(0);">Truckee</a>
+</p>
+
+<p>...and at 5 corresponding spots at the <a onClick="toggleSites('loc')" href="#sites">Library of Congress</a>.</p>
+
+</div>
+
+<div>
+  <img src="sites/2.png" />
+  <p>Step 2: As you approach, the text of the website will begin to jitter, indicating that you’re near a portal. A slight vibration will also happen.</p>
+</div>
+
+<div>
+  <img src="sites/3.png" />
+  <p>Step 3: Approach to within 10 meters of the marked spot; keep the website open on your phone as you approach. A circular image will appear on your screen, and sounds will begin to play.</p>
+  <p>Step 4: Click the circle to enter the portal.</p>
+  <p>Step 5: Turn up the volume and/or use headphones.</p>
+</div>
+
+<div>
+  <img src="sites/4.png" />
+  <p>Step 6: Look around, using your phone as a window to see the reconstructed community.</p>
+  <p>When you leave the site, the portal will close by itself.</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="sites">
+
+<h2 id="sites">Sites</h2>
+
+<p class="texts">Hidden Portals features five different historic Asian American communities, which you can visit at their original sites, or at the Library of Congress in Washington, DC:</p>
+
+<p>
+<a onClick="scrollAcross('providence')" href="javascript:void(0);">Providence</a> | 
+<a onClick="scrollAcross('portland')" href="javascript:void(0);">Portland</a> | 
+<a onClick="scrollAcross('hanford')" href="javascript:void(0);">Hanford</a> | 
+<a onClick="scrollAcross('pachappa')" href="javascript:void(0);">Pachappa</a> | 
+<a onClick="scrollAcross('truckee')" href="javascript:void(0);">Truckee</a>
+</p>
+
+<ul class="swipe nocrt">
+
+<li class="item" id="providence">
+  <div class="today-site-pic">
+    <img src="sites/providence.jpg" />
+    <p><i>Providence today. <a onClick="toggleLoc()" href="javascript:void(0);">See Library of Congress site</a></i></p>
+  </div>
+  <div class="loc-site-pic">
+    <img class="loc-site" src="sites/providence-loc.jpg" />
+    <p><i>At Library of Congress. <a onClick="toggleLoc()" href="javascript:void(0);">See Providence today.</a></i></p>
+  </div>
+  <h3>Providence, Rhode Island: Empire Street Chinatown, c1910</h3>
+  <p>Visit the portal at the original site or at the Library of Congress:</p>
+  <p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/wyP5kpxEHZ2viaEBA">📍 Providence, RI</a> 
+    <a class="btn-yellow loc-site" href="https://maps.app.goo.gl/jK55ApG2WWQdpGui6">📍 LOC Madison Building atrium</a>
+  </p>
+  <p>Providence had a vibrant Chinese American neighborhood on both Burrill Street and Empire Street between c1880-1914, but successive displacements pushed the community out of downtown by 1914.</p>
+  <p>Some in the community were escaping racist violence across the West Coast, including Taw Foo, who moved from Portland, and grew heritage vegetables on a plot outside of town. The community included musicians, chefs, pharmacists, and members of a local church choir. Tucked into small private alleys were a tea shop, several groceries, and a restaurant called Yick’s.</p>
+</li>
+
+<li class="item" id="portland">
+  <div class="today-site-pic">
+    <img src="sites/portland.jpg" />
+    <p><i>Portland today. <a onClick="toggleLoc()" href="javascript:void(0);">See Library of Congress site</a></i></p>
+  </div>
+  <div class="loc-site-pic">
+    <img class="loc-site" src="sites/portland-loc.jpg" />
+    <p><i>At Library of Congress. <a onClick="toggleLoc()" href="javascript:void(0);">See Portland today.</a></i></p>
+  </div>
+  <h3>Portland, Oregon: Chinese Vegetable Gardens, c1901</h3>
+  <p>Visit the portal at the original site or at the Library of Congress:</p>
+  <p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/hEgUqKL1XxdcoXXk8">📍 Portland, OR</a> 
+    <a class="btn-yellow loc-site" href="https://maps.app.goo.gl/j8zTXYVd8PmLWsXs5">📍 LOC Jefferson Building south lawn</a>
+  </p>
+  <p>On the west side of Portland, at the present site of the Multnomah Athletic Club and Lincoln High School, a small farming village lived along the banks of Tanner Creek from the 1870s through the early 1900s. Today it is covered by many feet of infill, but by 1900, dozens of small buildings clustered on the hill overlooking the creek, where you could see crops growing in lush fields on the steep hillsides, and clothes hung out to dry.</p>
+  <p>This portal was created in collaboration with <a href="https://hellodri.itch.io/">Dri Chiu Tattersfield</a>
+</li>
+
+<li class="item" id="hanford">
+  <div class="today-site-pic">
+    <img src="sites/hanford.jpg" />
+    <p><i>Hanford today. <a onClick="toggleLoc()" href="javascript:void(0);">See Library of Congress site</a></i></p>
+  </div>
+  <div class="loc-site-pic">
+    <img class="loc-site" src="sites/hanford-loc.jpg" />
+    <p><i>At Library of Congress. <a onClick="toggleLoc()" href="javascript:void(0);">See Hanford today.</a></i></p>
+  </div>
+  <h3>Hanford, California: China Alley, c1892</h3>
+  <p>Visit the portal at the original site or at the Library of Congress:</p>
+  <p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/PJvhwsKcEhcKKta78">📍 Hanford, CA</a> 
+    <a class="btn-yellow loc-site" href="https://maps.app.goo.gl/E4mXo2yGSAKsJKeQA">📍 LOC Geography & Maps Division</a>
+  </p>
+  <p>The Taoist Temple is still stewarded by descendants of the neighborhood called China Alley in Hanford, California. As artist Evelyn Yin writes: "The town of Hanford was formed in 1877 when the Southern Pacific Railroad extended into California's San Joaquin Valley. Many Chinese laborers came to work on the tracks, and later stayed for farming. They were mostly from Sam Yup (三邑 sānyì), the three former counties of Namhoi (南海 nánhǎi), Poonyu (番禺 pānyú) and Shuntak (顺德 shùndé) in Canton — now known as Guǎngdōng 广东 — province. China Alley prospered to include restaurants, homes, boarding houses, general merchandise stores, herb shops, gambling establishments, a Chinese school, and a temple. Over 100 years later, the brick buildings remain largely intact and unaltered."</p>
+  <p>This portal was created in collaboration with <a href="https://www.evelynyin.com/">Evelyn Hang Yin</a>
+</li>
+
+<li class="item" id="pachappa">
+  <div class="today-site-pic">
+    <img src="sites/pachappa.jpg" />
+    <p><i>Riverside today. <a onClick="toggleLoc()" href="javascript:void(0);">See Library of Congress site</a></i></p>
+  </div>
+  <div class="loc-site-pic">
+    <img class="loc-site" src="sites/pachappa-loc.jpg" />
+    <p><i>At Library of Congress. <a onClick="toggleLoc()" href="javascript:void(0);">See Riverside today.</a></i></p>
+  </div>
+  <h3>Riverside, California: Pachappa Camp, c1912</h3>
+  <p>Visit the portal at the original site or at the Library of Congress:</p>
+  <p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/t7quK97YxJsqqttQ8">📍 Riverside, CA</a> 
+    <a class="btn-yellow loc-site" href="https://maps.app.goo.gl/oPLzTbTeETxPQvrD8">📍 LOC Madison Builidng NW terrace</a>
+  </p>
+  <p>In 1908, Pachappa Camp was established in Riverside, CA during the beginning of the occupation of Korea by the Empire of Japan, and played a role in independence organizing by early Korean Americans. Families built a small community and earned money by picking citrus. Photos of residents include children playing baseball and track, riding bicycles, learning trumpet and playing among the chrysanthemums the community grew.</p>
+  <p>This portal was created in collaboration with <a href="https://www.mmmikkalous.com/">Mikki Paek</a>
+</li>
+
+<li class="item" id="truckee">
+  <div class="today-site-pic">
+    <img src="sites/truckee.jpg" />
+    <p><i>Truckee today. <a onClick="toggleLoc()" href="javascript:void(0);">See Library of Congress site</a></i></p>
+  </div>
+  <div class="loc-site-pic">
+    <img class="loc-site" src="sites/truckee-loc.jpg" />
+    <p><i>At Library of Congress. <a onClick="toggleLoc()" href="javascript:void(0);">See Truckee today.</a></i></p>
+  </div>
+  <h3>Truckee, California: Chinatown, c1870</h3>
+  <p>Visit the portal at the original site or at the Library of Congress:</p>
+  <p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/ZJjRQ5aaDVW895bu6">📍 Truckee, CA</a> 
+    <a class="btn-yellow loc-site" href="https://maps.app.goo.gl/qbYpWtANbp4kvhVh8">📍 LOC Adams Building south patio</a>
+  </p>
+  <p>In 1870, more than a quarter of the population of Truckee was Chinese American, and a bustling Chinatown included 11 groceries, as well as tea shops, doctor’s offices, gardens, and a bath house.</p> 
+  <p>Truckee’s Chinatowns were subject to racist treatment, and were burnt down repeatedly until 1886, when most Chinese Americans left. Some relocated to Oroville and other areas, where they found relative safety and prosperity. Today, descendants of the Fong Lee family business in Truckee continue to trace their history back over 140 generations, and still remember their years in Truckee and the home they were able to make there.</p>
+  <p>This portal was created in collaboration with <a href="https://hellodri.itch.io/">Dri Chiu Tattersfield</a>
+</li>
+
+</ul>
+
+</div>
+
+<br />
+<br />
+
+
+<!--
+
+<h3>Collections used in this project</h3>
+
+<li>A wide variety of resources from LOC were used to create these reconstructions, in addition to local and family archives and histories. Some examples include:
+<li>Sanborn insurance maps
+<li>Many items from Prints & Photos
+<li>AAPI Community Collection (formerly Asian Division, now Manuscripts)
+
+Read more at the Seeing Lost Enclaves website.
+
+-->
+
+<div class="texts" id="faq">
+
+<h2>Frequently asked questions</h2>
+
+<h3>Is this a historical project?</h3>
+
+<p>Not exactly, no – my work builds on historical records and stories but as an artist, my broader goal is to connect present-day Asian Americans with the earliest histories of Asian Americans in this country. I'm more interested in how we build relationships with these pasts and how we imagine more just futures, than in the precision of the reproductions.</p>
+
+<h3>How was this project created?</h3>
+
+<p>Read more about the background and history of this project at the <a href="https://libraryofcongress.github.io/seeing-lost-enclaves/">Seeing Lost Enclaves website</a></p>
+
+<h3>What was it like for people to live here?</h3>
+
+<h3>Why were these sites chosen?</h3>
+
+<h3>Why doesn’t this community live there anymore?</h3>
+
+<h3>Where do they live today?</h3>
+
+<h3>Have more questions?</h3>
+
+<p>
+</p>
+
+</div>
+
+<br />
+
+
+<div class="texts">
+
+<h2>This land</h2>
+
+<p>Each of these sites are on Native land: the Narragansett (Providence), the Northern Paiute and Wá∙šiw (Truckee), Multnomah, Clackamas, and Watlata/Cascade, Kathlamet, Tumwater, and Tualatin Kalapuya (Portland), Yokut (Hanford), Ɂívil̃uwenetem Meytémak (Cahuilla), Gabrielino/Tongva, Payómkawichum/Luiseño (Riverside).</p>
+
+</div>
+
+<div class="texts" id="who">
+
+<h2>Who made this</h2>
+
+<p>Hidden Portals is part of <a href="https://libraryofcongress.github.io/seeing-lost-enclaves/">Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color</a>, by 2023 Innovator in Residence  Jeffrey Yoo Warren. This is a collaborative project: Jeffrey worked with different Asian American artists at each site:</p>
+
+<ul style="text-align:left;">
+  <li>Dri Chiu Tattersfield (Portland)</li>
+  <li>Mikki Paek (Pachappa Camp)</li>
+  <li>Vic Xu (Providence)</li>
+  <li>Vuthy Lay (Providence)</li>
+  <li>Evelyn Hang Yin (Hanford)</li>
+</ul>
+
+</div>
+
+<br />
+<br />
+<br />
+
+<a onclick="testPortal()">X</a>
+<a class="btn-yellow" onclick="if (confirm('Your maps app will now open; return to your web browser once you arrive to continue using Hidden Portals.')) window.location = 'geo:38.887331364759575,-77.00499085539924'" href="javascript:void(0);">📍</a>
+<a class="btn-yellow" href="maps:daddr=38.887331364759575,-77.00499085539924">📍</a>
+<p>
+    <a class="btn-yellow" href="https://maps.app.goo.gl/wyP5kpxEHZ2viaEBA">📍 Original site</a> 
+    <a class="btn-yellow" href="https://maps.app.goo.gl/hw7NJhNiQRquZAPUA">📍 Library of Congress</a>
+</p>
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button>
+
+</div>
+
+  <script src="portals.js"></script>
+</body>
+</html>

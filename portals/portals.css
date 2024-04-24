@@ -1,0 +1,325 @@
+body {
+  font-family: "Zilla Slab";
+  text-align: center;
+  background: #222;
+  color: white;
+  padding: 0%;
+  padding-top: 20%;
+}
+#tiger {
+  max-width: 200px;
+  width: 50%;
+}
+.texts {
+  padding: 0 7%;
+  max-width: 400px;
+  margin: auto;
+  box-sizing: content-box;
+}
+#portal, .portalDiv {
+  transition: all 2s ease-out;
+}
+#portal {
+  pointer-events:none;
+  background: #311;
+}
+h1 {
+  margin-top: 15%;
+  font-weight: 300;
+  font-size: 4em;
+}
+h2 {
+  font-size: 2.5em;
+}
+h3 {
+  font-size: 1.8em;
+  margin: 6px 0;
+}
+h2, h3 {
+  font-weight: 100;
+}
+
+a { color: #ffa; }
+.chrom {
+  position: relative;
+  -webkit-filter: url(#kill);
+}
+
+iframe {
+  border:0;
+  width:0;
+  height:0;
+  border-radius:500px;
+  transition: all 2s ease-out;
+}
+
+.navlinks {
+  margin: 20px 0;
+  font-size: 1.4em;
+}
+.how-it-works p {
+  font-size: 1.2em;
+}
+
+.two-columns {
+  max-width: 800px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, auto));
+}
+
+.two-columns > *{
+  padding: 20px;
+}
+
+.loc-site-pic {
+  display:none;
+}
+
+.loc-site {
+/*  display:none;*/
+}
+
+.btn-yellow {
+  padding:8px 10px;
+  margin: 0 4px;
+  border-radius:5px;
+  background: #ffa; 
+  color: #000;
+  text-decoration: none;
+  text-wrap: nowrap; 
+  line-height: 2.6em;
+}
+
+.modal {
+  --bs-modal-bg: #444;
+}
+.modal a{
+  text-wrap: nowrap; 
+}
+
+.btn:hover {
+  background: #ffc;
+  color: #444;
+}
+
+/* https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585 */
+/* https://codepen.io/dannievinther/pen/vVydZJ */
+
+/* for carousel */
+:root {
+  --gutter: 20px;
+}
+
+.text > * {
+  grid-column: 2 / -2;
+}
+
+.swipe {
+  transition: all 2s ease-out;
+  display: grid;
+  grid-gap: calc(var(--gutter) / 2);
+  grid-template-columns: 10px;
+  grid-template-rows: minmax(150px, 1fr);
+  grid-auto-flow: column;
+  grid-auto-columns: calc(66% - var(--gutter) * 2);
+
+  overflow-x: scroll;
+  scroll-snap-type: x proximity;
+  padding-bottom: calc(.75 * var(--gutter));
+  margin-bottom: calc(-.25 * var(--gutter));
+  padding-left: 0;
+}
+@media (width > 900px) {
+.swipe {
+  grid-auto-columns: calc(40% - var(--gutter) * 2);
+}
+}
+@media (width < 600px) {
+.swipe {
+  grid-auto-columns: calc(90% - var(--gutter) * 2);
+}
+}
+
+.swipe:before,
+.swipe:after {
+  content: '';
+  width: 10px;
+}
+
+.swipe .item {
+  margin-top: 20px;
+  scroll-snap-align: center;
+  padding: calc(var(--gutter) / 2 * 1.5);
+  display: flex;
+  flex-direction: column;
+/*  justify-content: center;*/
+  align-items: center;
+  border-radius: 8px;
+  background: #444;
+}
+.swipe .item img {
+  width: 100%;
+}
+
+/* flicker effect https://aleclownes.com/2017/02/01/crt-display.html */
+@keyframes textShadow {
+  0% {
+    text-shadow: 0.4389924193300864px 0 1px rgba(0,30,255,0.5), -0.4389924193300864px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  5% {
+    text-shadow: 12.7928974010788217px 0 1px rgba(0,30,255,0.5), -2.7928974010788217px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  10% {
+    text-shadow: 0.02956275843481219px 0 1px rgba(0,30,255,0.5), -0.02956275843481219px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  15% {
+    text-shadow: 0.40218538552878136px 0 1px rgba(0,30,255,0.5), -0.40218538552878136px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  20% {
+    text-shadow: 13.4794037899852017px 0 1px rgba(0,30,255,0.5), -3.4794037899852017px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  25% {
+    text-shadow: 1.6125630401149584px 0 1px rgba(0,30,255,0.5), -1.6125630401149584px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  30% {
+    text-shadow: 0.7015590085143956px 0 1px rgba(0,30,255,0.5), -0.7015590085143956px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  35% {
+    text-shadow: 13.896914047650351px 0 1px rgba(0,30,255,0.5), -3.896914047650351px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  40% {
+    text-shadow: 3.870905614848819px 0 1px rgba(0,30,255,0.5), -3.870905614848819px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  45% {
+    text-shadow: 2.231056963361899px 0 1px rgba(0,30,255,0.5), -2.231056963361899px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  50% {
+    text-shadow: 0.08084290417898504px 0 1px rgba(0,30,255,0.5), -0.08084290417898504px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  55% {
+    text-shadow: 12.3758461067427543px 0 1px rgba(0,30,255,0.5), -2.3758461067427543px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  60% {
+    text-shadow: 2.202193051050636px 0 1px rgba(0,30,255,0.5), -2.202193051050636px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  65% {
+    text-shadow: 2.8638780614874975px 0 1px rgba(0,30,255,0.5), -2.8638780614874975px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  70% {
+    text-shadow: 0.48874025155497314px 0 1px rgba(0,30,255,0.5), -0.48874025155497314px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  75% {
+    text-shadow: 1.8948491305757957px 0 1px rgba(0,30,255,0.5), -11.8948491305757957px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  80% {
+    text-shadow: 0.0833037308038857px 0 1px rgba(0,30,255,0.5), -0.0833037308038857px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  85% {
+    text-shadow: 0.09769827255241735px 0 1px rgba(0,30,255,0.5), -0.09769827255241735px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  90% {
+    text-shadow: 3.443339761481782px 0 1px rgba(0,30,255,0.5), -3.443339761481782px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  95% {
+    text-shadow: 2.1841838852799786px 0 1px rgba(0,30,255,0.5), -2.1841838852799786px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+  100% {
+    text-shadow: 2.6208764473832513px 0 1px rgba(0,30,255,0.5), -2.6208764473832513px 0 1px rgba(255,0,80,0.3), 0 0 3px;
+  }
+}
+.crt {
+  animation: textShadow 1.6s infinite;
+}
+.nocrt {
+  text-shadow: none;
+}
+
+
+@keyframes tonext {
+  75% {
+    left: 0;
+  }
+  95% {
+    left: 100%;
+  }
+  98% {
+    left: 100%;
+  }
+  99% {
+    left: 0;
+  }
+}
+
+@keyframes tostart {
+  75% {
+    left: 0;
+  }
+  95% {
+    left: -300%;
+  }
+  98% {
+    left: -300%;
+  }
+  99% {
+    left: 0;
+  }
+}
+
+@keyframes snap {
+  96% {
+    scroll-snap-align: center;
+  }
+  97% {
+    scroll-snap-align: none;
+  }
+  99% {
+    scroll-snap-align: none;
+  }
+  100% {
+    scroll-snap-align: center;
+  }
+}
+
+.xjitterbug {
+  animation-duration: .8s;
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  width: 200px;
+  animation-name: jitter;
+}
+
+@keyframes jitter {
+  10% {
+    translate(-2px, -1px) scale(1.01, 1.01);
+  }
+  20% {
+    transform: translate(1px, 2px) scale(.99, .99);
+  }
+  30% {
+    transform: translate(-1px, -1px) scale(1.01, 1.01);  
+  }
+  40% {
+    transform: translate(2px, 1px) scale(1, 1);
+  }
+  50% {
+    transform: translate(-1px, -2px) scale(.99, .99);
+  }
+  60% {
+    transform: translate(0px, 1px) scale(1.01, 1.01);
+  }
+  70% {
+    transform: translate(-2px, -1px) scale(1, 1);
+  }
+  80% {
+    transform: translate(1px, 1px) scale(.99, .99);
+  }
+  90% {
+    transform: translate(-1px, -1px) scale(1.1, 1.1);
+  }
+  100% {
+    transform: translate(1px, 1px) scale(.99, .99);
+  }                
+}
+
