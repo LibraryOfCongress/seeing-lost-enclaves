@@ -80,6 +80,7 @@ let locations = [
   { name: 'Truckee Chinatown', lat: 39.32746622566374, lng: -120.1870212082937, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/together-shovel.mp3'},
   { name: 'Portland Chinese Vegetable Gardens', lat: 45.520269721339204, lng: -122.6921961678906, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a'},
 
+  { name: 'Pachappa test', lat: 33.744774, lng: -118.099632, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a'},
   { name: 'Hanford TEST', lat: 34.09576763300175, lng: -118.30430354416602, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/together-shovel.mp3'},
   { name: 'Providence Burrill St. Chinatown', lat: 41.820647, lng: -71.415001, url: 'viewer.html/?url=spheres/providence.jpg'},
   { name: 'Together Shovel', lat: 41.820824, lng: -71.415476, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
