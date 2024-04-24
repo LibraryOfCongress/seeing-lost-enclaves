@@ -118,8 +118,8 @@ function hidePortal() {
   portal.style.width = 0;
   portal.style.height = 0;
   portal.style['pointer-events'] = 'none';
-  portalFrame.style['width'] = '1500px';
-  portalFrame.style['height'] = '1500px';
+  portalFrame.style['width'] = '130vw';
+  portalFrame.style['height'] = '130vw';
   if (audioEl.hasOwnProperty(stop)) {
     audioEl.stop();
   } else { console.log('couldnt stop audio'); }
