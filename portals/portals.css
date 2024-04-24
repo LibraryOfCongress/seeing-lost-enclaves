@@ -106,6 +106,18 @@ a { color: #ffa; }
   color: #444;
 }
 
+@supports (-webkit-touch-callout: none) {
+  /* CSS specific to iOS devices */ 
+  .android { display:none; }
+  .ios { display:block; }
+}
+
+@supports not (-webkit-touch-callout: none) {
+  /* CSS for other than iOS devices */ 
+  .android { display:block; }
+  .ios { display: none;}
+}
+
 /* https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585 */
 /* https://codepen.io/dannievinther/pen/vVydZJ */
 

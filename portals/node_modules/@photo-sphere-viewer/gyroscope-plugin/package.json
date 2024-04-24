@@ -1,0 +1,27 @@
+{
+  "name": "@photo-sphere-viewer/gyroscope-plugin",
+  "version": "5.7.3",
+  "description": "Photo Sphere Viewer plugin to add gyroscope controls on mobile devices.",
+  "keywords": [
+    "photosphere",
+    "panorama",
+    "threejs"
+  ],
+  "homepage": "https://photo-sphere-viewer.js.org/plugins/gyroscope",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mistic100/Photo-Sphere-Viewer.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Damien 'Mistic' Sorel",
+    "email": "contact@git.strangeplanet.fr",
+    "homepage": "https://www.strangeplanet.fr"
+  },
+  "main": "index.cjs",
+  "module": "index.module.js",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "@photo-sphere-viewer/core": "5.7.3"
+  }
+}

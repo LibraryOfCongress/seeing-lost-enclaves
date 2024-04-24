@@ -25,6 +25,8 @@ X TESTED - lengthen to appx 30 checks?
 - do it when in closeness*5 distance?
 - audio preloading ?
 - figure out compass orientation - switch to photo-sphere-viewer
+
+- read volume level and warn? https://stackoverflow.com/questions/62725857/how-to-get-volume-level-using-javascript
 */
 
 let el = document.createElement('div');

@@ -4,50 +4,49 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hidden Portals</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="stylesheet" href="portals.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&family=Oswald:wght@200..700&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+  <script src="node_modules/bootstrap/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
 </head>
 
 <body>
 
-<div class="modal xfade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-theme="dark">
+<div class="modal xfade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-theme="dark" style="font-family: Helvetica Neue;">
 
   <div class="modal-dialog" role="document">
     <div class="modal-content rounded-4 shadow">
       <div class="modal-header border-bottom-0">
-        <h1 class="modal-title fs-5">🌏</h1>
+        <h4 class="mb-0">Before you leave this page</h4>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body p-4">
-        <h4 class="mb-0">To use Hidden Portals, location permissions & accuracy must be enabled.</h4>
 
-        <p>You’ll need (if you haven’t already allowed them):</p>
 
-        <ul class="d-grid gap-2 list-unstyled">
-          <li class="d-flex gap-3">
-            <p>1. <b>location access</b> for this web browser. <a href="">Learn how &raquo;</a></p>
-          </li>
-          <li class="d-flex gap-3">
-            <p>3. <b>precise location access</b> for this web browser (for newer phones) <a href="">Learn how &raquo;</a></p>
-          </li>
-          <li class="d-flex gap-3">
-            <p>2. <b>location access</b> for your maps app. <a href="">Learn how &raquo;</a></p>
-          </li>
-        </ul>
-        <p>Get help for <a href="">iPhones</a> or <a href="">Android</a> phones.</p>
-
+        <div class="card" style="text-align:left;">
+          <div class="card-header">
+            <b>You may need (if you haven’t yet):</b>
+          </div>
+          <div class="card-body">
+            <p>1. <b>location access</b> for this web browser</p>
+            <p>3. <b>"precise location" access</b> for this web browser (for newer phones)</p>
+            <p>2. <b>location access</b> for your maps app</p>
+            <p>Learn how for <a href="https://support.apple.com/en-us/102647">iPhones</a> or <a href="https://support.google.com/accounts/answer/6179507?hl=en">Android phones</a></p>
+          </div>
+        </div>
 
         <div class="modal-footer flex-column align-items-stretch w-100 gap-2 pb-3 border-top-0">
           <p>Remember to <b>COME BACK</b> to this page - you must have this site open to experience Hidden Portals.</p>
-          <a href="maps:dirflg=w&daddr=38.887331364759575,-77.00499085539924" type="button" class="btn btn-lg btn-primary mt-3 w-100">📍 View in Google Maps</a>
-          <a href="maps:dirflg=w&daddr=38.887331364759575,-77.00499085539924" type="button" class="btn btn-lg btn-primary w-100">📍 View in Apple Maps</a>
-          <a href="https://www.waze.com/live-map/directions?to=ll.38.88733136%2C-77.00499086" type="button" class="btn btn-lg btn-primary w-100">📍 View in Waze Maps</a>
+          <a href="https://maps.google.com?ll=38.887331364759575,-77.00499085539924" type="button" class="btn btn-lg btn-primary mt-3 w-100">📍 Navigate in Google Maps</a>
+          <a href="https://maps.apple.com/?dirflg=w&daddr=38.887331364759575,-77.00499085539924" type="button" class="btn btn-lg btn-primary w-100">📍 Navigate in Apple Maps</a>
+          <details>
+            <summary>More</summary>
+            <a href="https://www.waze.com/live-map/directions?to=ll.38.88733136%2C-77.00499086" type="button" class="btn btn-lg btn-primary w-100 mt-3">📍 View in Waze Maps</a>
+          </details>
           <button type="button" class="btn btn-lg btn-secondary" data-bs-dismiss="modal">Close</button>
         </div>
       </div>

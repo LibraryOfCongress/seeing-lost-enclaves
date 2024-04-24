@@ -26,10 +26,10 @@
         <script type="importmap">
             {
                 "imports": {
-                    "three": "https://cdn.jsdelivr.net/npm/three/build/three.module.js",
-                    "@photo-sphere-viewer/core": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/core@5.7.3/index.module.js",
-                    "@photo-sphere-viewer/gyroscope-plugin": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/gyroscope-plugin@5.7.3/index.module.js",
-                    "@photo-sphere-viewer/stereo-plugin": "https://cdn.jsdelivr.net/npm/@photo-sphere-viewer/stereo-plugin@5.7.3/index.module.js"
+                    "three": "./node_modules/three/build/three.module.min.js",
+                    "@photo-sphere-viewer/core": "./node_modules/@photo-sphere-viewer/core/index.module.js",
+                    "@photo-sphere-viewer/gyroscope-plugin": "./node_modules/@photo-sphere-viewer/gyroscope-plugin/index.module.js",
+                    "@photo-sphere-viewer/stereo-plugin": "./node_modules/@photo-sphere-viewer/stereo-plugin/index.module.js"
                 }
             }
         </script>
@@ -45,7 +45,7 @@
 
             const viewer = new Viewer({
                 container: 'viewer',
-                panorama: baseUrl + (params.get("url") || 'images/mapogu-single.jpg'),
+                panorama: baseUrl + (params.get("url") || 'spheres/providence.jpg'),
                 defaultZoomLvl: 0,
                 
                 //interpolateBackground: true,
