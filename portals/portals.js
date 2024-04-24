@@ -31,8 +31,9 @@ let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
 el.style="position:fixed;z-index:999;left:50%;bottom:50%;";
-el.innerHTML = '<iframe id="portal" src=""></iframe>';
+el.innerHTML = '<div id="portal"><iframe id="portalFrame" src=""></iframe></div>';
 el.onclick = function() { portalGrow() };
+let portalFrame = document.getElementById('portalFrame');
 let portal = document.getElementById('portal');
 let audioEl = {};
 hidePortal();
@@ -84,13 +85,13 @@ let locations = [
 ];
 
 function showPortal(src) {
-  if (portal.src != src) portal.src = src;
+  if (portalFrame.src != src) portalFrame.src = src;
   portalOpen = true;
   el.style.left = '10%';
   el.style.bottom = '10%';
   portal.style.width = '80vw';
   portal.style.height = '80vw';
-  portal.style['border-radius'] = '500px';
+  portal.style['border-radius'] = '1000px';
 }
 function portalGrow(src) {
   el.style.left = 0;
@@ -100,6 +101,8 @@ function portalGrow(src) {
   portal.style.height = '101vh';
   portal.style['border-radius'] = 0;
   portal.style['pointer-events'] = 'all';
+  portalFrame.style['width'] = '100%';
+  portalFrame.style['height'] = '100%';
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
       this.currentTime = 0;
@@ -111,10 +114,12 @@ function portalGrow(src) {
 function hidePortal() {
   el.style.left = '50%';
   el.style.bottom = '50%';
-  portal.style['border-radius'] = '500px';
+  portal.style['border-radius'] = '1000px';
   portal.style.width = 0;
   portal.style.height = 0;
   portal.style['pointer-events'] = 'none';
+  portalFrame.style['width'] = '1500px';
+  portalFrame.style['height'] = '1500px';
   if (audioEl.hasOwnProperty(stop)) {
     audioEl.stop();
   } else { console.log('couldnt stop audio'); }
