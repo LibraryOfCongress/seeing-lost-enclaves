@@ -75,6 +75,19 @@ a { color: #ffa; }
   padding: 20px;
 }
 
+.loc-site-pic p, .today-site-pic p {
+  margin-top:8px;
+  font-size: 15px !important;
+  padding: 0px 5px;
+}
+.loc-site-pic i, .today-site-pic i {
+  padding: 0px 5px;
+  display: inline-block;
+}
+.loc-site-pic .btn, .today-site-pic .btn {
+  padding: 0px 5px;
+  text-decoration:underline;
+}
 .loc-site-pic {
   display:none;
 }

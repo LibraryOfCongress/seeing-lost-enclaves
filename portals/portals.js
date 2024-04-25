@@ -141,6 +141,12 @@ function testPortal() {
   preservePortal = 3; // leave portal open for 3 cycles
 }
 
+function wereInDc(position) {
+  //Box -77.157505,38.824151,-76.929196,38.965237
+  let lat = position.coords.latitude, lon = position.coords.longitude;
+  if (lat > 38.824151 && lat < 38.965237 && lon > -77.157505 && lon < -76.929196) toggleLoc();
+}
+
 if (navigator.geolocation) {
   navigator.geolocation.watchPosition((position) => {
       let foundPortal = false, isNearPortal = false;
@@ -189,6 +195,7 @@ if (navigator.geolocation) {
         hidePortal();
         portalOpen = false;
       }
+      wereInDc(position); // toggle images to DC images
     },
     () => {
       console.log("There was an error geocoding.");
