@@ -245,8 +245,12 @@ function readNarration(audioUrl) {
   narrationAudioEl.controls = true;
   narrationAudioEl.id = "narrationAudioEl";
   document.getElementById('portal-overlay').append(narrationAudioEl);
+  narrationAudioEl.addEventListener('ended', function() {
+    audioEl.volume = 1;
+  }, false);
   narrationAudioEl.onload = function() {
     narrationAudioEl.play();
+    audioEl.volume = 0.2;
   }
 }
 
