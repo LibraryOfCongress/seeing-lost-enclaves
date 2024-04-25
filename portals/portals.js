@@ -32,7 +32,7 @@ X TESTED - lengthen to appx 30 checks?
 let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
-el.style="position:fixed;z-index:999;left:50%;bottom:50%;";
+el.style="position:fixed;z-index:998;left:50%;bottom:50%;";
 el.innerHTML = '<div id="portal"><iframe id="portalFrame" src=""></iframe></div>';
 el.onclick = function() { portalGrow() };
 let portalFrame = document.getElementById('portalFrame');
@@ -92,11 +92,14 @@ function showPortal(src) {
   if (portalFrame.src != src) portalFrame.src = src;
   portalOpen = true;
   el.style.left = '10%';
-  el.style.bottom = '10%';
+  el.style.bottom = '15%';
   portal.style.width = '80vw';
   portal.style.height = '80vw';
   portal.style['border-radius'] = '1000px';
+  document.body.classList.add('dim');
+  document.getElementById('portal-click').classList.remove('hidden');
 }
+
 function portalGrow(src) {
   el.style.left = 0;
   el.style.bottom = '-5px';
@@ -107,6 +110,8 @@ function portalGrow(src) {
   portal.style['pointer-events'] = 'all';
   portalFrame.style['width'] = '100%';
   portalFrame.style['height'] = '100%';
+  document.getElementById('portal-overlay').classList.remove('hidden');
+  document.getElementById('portal-click').classList.add('hidden');
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
       this.currentTime = 0;
@@ -115,6 +120,7 @@ function portalGrow(src) {
     audioEl.play();
   }
 }
+
 function hidePortal() {
   el.style.left = '50%';
   el.style.bottom = '50%';
@@ -124,15 +130,22 @@ function hidePortal() {
   portal.style['pointer-events'] = 'none';
   portalFrame.style['width'] = '130vw';
   portalFrame.style['height'] = '130vw';
+  document.body.classList.remove('dim');
   if (audioEl.hasOwnProperty(stop)) {
     audioEl.stop();
   } else { console.log('couldnt stop audio'); }
 }
+
 function loadAudio(src) {
   audioEl = new Audio(src);
   /*audioEl.addEventListener("canplaythrough", (event) => {
     audioEl.play(); // doesn't work because it requires user interaction before audio is allowed
   });*/
+}
+
+function readNarration(site) {
+  // dim other audio
+  console.log('play', site);
 }
 
 function testPortal() {

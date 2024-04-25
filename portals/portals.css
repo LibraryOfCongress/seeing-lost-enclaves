@@ -26,7 +26,7 @@ body {
 }
 #portalFrame {
   width: 130vw;
-  height: 130vw;
+  height: 130vh;
 }
 
 iframe {
@@ -73,6 +73,43 @@ a { color: #ffa; }
 
 .two-columns > *{
   padding: 20px;
+}
+
+body.dim .sites,
+body.dim .texts,
+body.dim .how-it-works {
+  opacity: 0.3;
+}
+
+.portal-overlay.hidden,
+.portal-click.hidden {
+  display: none;
+}
+.portal-overlay button {
+  background: none;
+  border: none;
+}
+.portal-overlay {
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  width: 70px;
+  padding: 10px;
+  z-index: 999;
+}
+.portal-overlay img {
+  width: 70px;
+}
+
+.portal-click {
+  position: sticky;
+  bottom: 10px;
+  width: 70px;
+  padding: 10px;
+  margin: auto;
+}
+.portal-click img {
+  width: 70px;
 }
 
 .loc-site-pic p, .today-site-pic p {
