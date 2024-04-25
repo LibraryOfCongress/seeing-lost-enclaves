@@ -90,11 +90,10 @@ body.dim .how-it-works {
   border: none;
 }
 .portal-overlay {
-  position: sticky;
-  bottom: 0;
-  left: 0;
+  position: fixed;
+  top: 15px;
+  left: 10px;
   width: 70px;
-  padding: 10px;
   z-index: 999;
 }
 .portal-overlay img {
