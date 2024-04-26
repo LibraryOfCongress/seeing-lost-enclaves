@@ -71,10 +71,10 @@ let locations = [
   //{ name: 'Providence Coal Fired Pizza', lat: 41.82149997128618, lng: -71.4147083014786, url: 'stereo.html/?embedded&url=spheres/mapogu.jpg', audio: 'https://jywarren.github.io/sfpcrr/audio/mapogu.m4a'},
 
   { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/portland.m4a', narration: 'audio/providence.mp3'},
-  { name: 'LOC Jefferson Courtyard/Portland', lat: 38.88846874367604, lng: -77.00489686567619, url: 'viewer.html/?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
-  { name: 'LOC Jefferson Lawn/Portland', lat: 38.88781245768495, lng: -77.00477273819244, url: 'viewer.html/?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
-  { name: 'LOC G&M/Hanford', lat: 38.88695681049907, lng: -77.00469312973286, url: 'viewer.html/?url=spheres/hanford.jpg', audio: 'audio/portland.m4a', narration: 'audio/hanford.mp3'},
-  { name: 'LOC Madison Terrace/Pachappa', lat: 38.887369, lng: -77.005503, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3'},
+  { name: 'LOC Jefferson Courtyard/Portland', lat: 38.88846874367604, lng: -77.00489686567619, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
+  { name: 'LOC Jefferson Lawn/Portland', lat: 38.88781245768495, lng: -77.00477273819244, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
+  { name: 'LOC G&M/Hanford', lat: 38.88695681049907, lng: -77.00469312973286, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/portland.m4a', narration: 'audio/hanford.mp3'},
+  { name: 'LOC Madison Terrace/Pachappa', lat: 38.887369, lng: -77.005503, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3'},
   { name: 'LOC Adams/Truckee', lat: 38.887752, lng: -77.002705, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/together-shovel.m4a', narration: 'audio/truckee.mp3'},
 
   { name: 'Providence Empire St. Chinatown', lat: 41.8213485, lng: -71.4156095, url: 'viewer.html?url=spheres/providence.jpg', narration: 'audio/providence.mp3'},
