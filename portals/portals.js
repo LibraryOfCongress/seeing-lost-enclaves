@@ -176,6 +176,7 @@ function showPortal(src) {
   portal.style['border-radius'] = '1000px';
   document.body.classList.add('dim');
   document.getElementById('portal-click').classList.remove('hidden');
+  document.getElementById('openPortalButton').focus();
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
       this.currentTime = 0;
@@ -201,6 +202,7 @@ function portalGrow(src) {
     document.getElementById('narrationButton').onclick = function(e) {
       readNarration(currentPortal.narration);
     }
+    document.getElementById('narrationButton').focus();
   }
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {

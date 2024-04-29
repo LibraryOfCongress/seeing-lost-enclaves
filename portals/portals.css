@@ -85,9 +85,14 @@ body.dim .how-it-works {
 .portal-click.hidden {
   display: none;
 }
-.portal-overlay button {
+.portal-overlay button,
+.portal-click button {
   background: none;
   border: none;
+}
+.portal-overlay button:focus,
+.portal-click button:focus {
+  outline: 0;
 }
 .portal-overlay {
   position: fixed;
