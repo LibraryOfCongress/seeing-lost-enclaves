@@ -94,12 +94,6 @@ let locations = [
   { name: 'Together Shovel', lat: 41.820824, lng: -71.415476, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
 ];
 
-
-
-
-
-
-
 let links = {
   'providence': {
     'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:41.821381+-71.415611',
@@ -269,7 +263,9 @@ function testPortal() {
   preservePortal = 3; // leave portal open for 3 cycles
 }
 
+let dcToggled = false; // only toggle once
 function wereInDc(position) {
+  dcToggled = true;
   //Box -77.157505,38.824151,-76.929196,38.965237
   let lat = position.coords.latitude, lon = position.coords.longitude;
   if (lat > 38.824151 && lat < 38.965237 && lon > -77.157505 && lon < -76.929196) toggleLoc();
@@ -287,7 +283,7 @@ if (navigator.geolocation) {
             isNearPortal = true;
             if (portalOpen == false && timeLooking > timeLimit) {
               console.log('just open');
-              showPortal(loc.url); // just open if it's been more that 60 checks
+              if (loc.blocked !== true) showPortal(loc.url); // just open if it's been more that 60 checks
               currentPortal = loc;
               preservePortal = 3; // leave portal open for 3 cycles
             }
@@ -300,7 +296,7 @@ if (navigator.geolocation) {
         if (Math.abs(loc.lat - position.coords.latitude) < closeness) {
           if (Math.abs(loc.lng - position.coords.longitude) < closeness) {
             if (portalOpen == false) {
-              showPortal(loc.url);
+              if (loc.blocked !== true) showPortal(loc.url);
               currentPortal = loc;
               if (loc.audio != audioEl.src) loadAudio(loc.audio); // if there's new audio
               preservePortal = 3; // leave portal open for 3 cycles
@@ -322,10 +318,11 @@ if (navigator.geolocation) {
       }
       preservePortal = preservePortal - 1;
       if (!foundPortal && preservePortal < 1 && timeLooking < timeLimit) {
+        console.log('no longer in portal zone: !foundPortal && preservePortal < 1 && timeLooking < timeLimit');
         hidePortal();
         portalOpen = false;
       }
-      wereInDc(position); // toggle images to DC images
+      if (dcToggled !== true) wereInDc(position); // toggle images to DC images
     },
     () => { console.log("There was an error geocoding."); },
     { enableHighAccuracy: true }
