@@ -176,6 +176,7 @@ function showPortal(src) {
   portal.style['border-radius'] = '1000px';
   document.body.classList.add('dim');
   document.getElementById('portal-click').classList.remove('hidden');
+  document.getElementById('openPortalButton').onclick = function() { portalGrow() };
   document.getElementById('openPortalButton').focus();
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
