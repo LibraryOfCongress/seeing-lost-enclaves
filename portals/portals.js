@@ -57,11 +57,6 @@ function scrollAcross(id, block) {
   if (el) el.scrollIntoView({behavior: 'smooth', block: block, inline: 'center'});
 }
 
-function toggleLoc() {
-  document.querySelectorAll('.loc-site-pic').forEach(function(el) { el.style.display = el.style.display == "block" ? "none" : "block"; });
-  document.querySelectorAll('.today-site-pic').forEach(function(el) { el.style.display = el.style.display == "none" ? "block" : "none"; });
-}
-
 if (window.location.hash != "") {
   scrollAcross(window.location.hash.split('#')[1]);
 } 
@@ -215,6 +210,7 @@ function portalGrow(src) {
 }
 
 function hidePortal() {
+  console.log('closing portal');
   el.style.left = '50%';
   el.style.bottom = '50%';
   portal.style['border-radius'] = '1000px';
@@ -265,10 +261,29 @@ function testPortal() {
 
 let dcToggled = false; // only toggle once
 function wereInDc(position) {
-  dcToggled = true;
   //Box -77.157505,38.824151,-76.929196,38.965237
   let lat = position.coords.latitude, lon = position.coords.longitude;
-  if (lat > 38.824151 && lat < 38.965237 && lon > -77.157505 && lon < -76.929196) toggleLoc();
+  console.log('checking if we are in DC', lat, lon);
+  if (lat > 38.824151 && lat < 38.965237 && lon > -77.157505 && lon < -76.929196) {
+    console.log('we are in DC');
+    dcToggled = true;
+    toggleLoc();
+  }
+}
+
+function toggleLoc() {
+  console.log('toggle LOC location pics')
+  document.querySelectorAll('.loc-site-pic').forEach(function(el) { el.style.display = el.style.display == "block" ? "none" : "block"; });
+  document.querySelectorAll('.today-site-pic').forEach(function(el) { el.style.display = el.style.display == "none" ? "block" : "none"; });
+}
+
+function setupPortalBlock(loc) {
+  // mark site as blocked if close button is clicked
+  document.getElementById('closePortalButton').onclick = function() {
+    loc.blocked = true; // mark blocked until page refresh
+    hidePortal();
+    console.log('portal blocked:', loc.name);
+  };
 }
 
 if (navigator.geolocation) {
@@ -283,7 +298,10 @@ if (navigator.geolocation) {
             isNearPortal = true;
             if (portalOpen == false && timeLooking > timeLimit) {
               console.log('just open');
-              if (loc.blocked !== true) showPortal(loc.url); // just open if it's been more that 60 checks
+              if (loc.blocked !== true) {
+                showPortal(loc.url); // just open if it's been more that 60 checks
+                setupPortalBlock(loc);
+              }
               currentPortal = loc;
               preservePortal = 3; // leave portal open for 3 cycles
             }
@@ -296,7 +314,10 @@ if (navigator.geolocation) {
         if (Math.abs(loc.lat - position.coords.latitude) < closeness) {
           if (Math.abs(loc.lng - position.coords.longitude) < closeness) {
             if (portalOpen == false) {
-              if (loc.blocked !== true) showPortal(loc.url);
+              if (loc.blocked !== true) {
+                showPortal(loc.url);
+                setupPortalBlock(loc);
+              }
               currentPortal = loc;
               if (loc.audio != audioEl.src) loadAudio(loc.audio); // if there's new audio
               preservePortal = 3; // leave portal open for 3 cycles
