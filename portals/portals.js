@@ -173,6 +173,8 @@ function showPortal(src) {
   document.getElementById('portal-click').classList.remove('hidden');
   document.getElementById('openPortalButton').onclick = function() { portalGrow() };
   document.getElementById('openPortalButton').focus();
+  document.getElementById('closePortalButton').style.display = 'block';
+  document.getElementById('narrationButton').style.display = 'block';
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
       this.currentTime = 0;
@@ -220,6 +222,8 @@ function hidePortal() {
   portalFrame.style['width'] = '130vw';
   portalFrame.style['height'] = '130vw';
   document.body.classList.remove('dim');
+  document.getElementById('closePortalButton').style.display = 'none';
+  document.getElementById('narrationButton').style.display = 'none';
   if (audioEl.hasOwnProperty('stop')) {
     audioEl.stop();
   } else { console.log('couldnt stop audio'); }

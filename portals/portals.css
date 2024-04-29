@@ -106,6 +106,7 @@ body.dim .how-it-works {
   left: 10px;
   width: 70px;
   z-index: 999;
+  animation: fadeIn 2s;
 }
 .portal-overlay img {
   width: 70px;
@@ -117,9 +118,24 @@ body.dim .how-it-works {
   width: 70px;
   padding: 10px;
   margin: auto;
+  animation: fadeIn 2s;
 }
 .portal-click img {
   width: 70px;
+}
+
+#closePortalButton {
+  position: fixed;
+  right: 20px;
+  top: 20px;
+}
+#closePortalButton img {
+  width: 40px;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .loc-site-pic p, .today-site-pic p {
