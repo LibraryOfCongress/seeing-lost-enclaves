@@ -5,6 +5,7 @@ X fix portal to top of viewport, not page
 X carousel hash override - do it ourselves, so we can also detect and do it smoothly and centered?
 X TEST test portal closing aggressively (fixed with persistance?)
 X Finish modal
+X make stereo icon larger
 
 X rework buzzing, stop when actually there
   - checked preservePortal < 1
@@ -15,16 +16,15 @@ X TEST after 3m open portal if near - TEST ON SITE
 X TESTED - lengthen to appx 30 checks?
 - TEST 30 checks or switch to time, not iterations
 
+- fix portal height
+- dim audio during narration
+- make it possible to close the portal
+
 
 - test with system text mag
 - debug audio not turning off
 
-- make stereo icon larger
-- dim audio during narration
-
 - per-site closeness value
-
-
 - try preloading imgs with onLoad() ( preloading is already done somehow? Caching?)
 - do it when in closeness*5 distance?
 - audio preloading ?
@@ -149,7 +149,6 @@ let links = {
 
 const siteButtons = document.querySelectorAll(".sites .item .btn-yellow");
 siteButtons.forEach(function(siteButton) {
-console.log(siteButton)
   siteButton.onclick = function(e) {
     e.preventDefault();
     showModal(siteButton.attributes['data-site'].value);
@@ -321,15 +320,10 @@ if (navigator.geolocation) {
       }
       wereInDc(position); // toggle images to DC images
     },
-    () => {
-      console.log("There was an error geocoding.");
-    },
-    {
-      enableHighAccuracy: true
-    }
+    () => { console.log("There was an error geocoding."); },
+    { enableHighAccuracy: true }
   );
 } else {
-  // Browser doesn't support Geolocation
   console.log("Error: Your browser doesn't support geolocation.");
 }
 

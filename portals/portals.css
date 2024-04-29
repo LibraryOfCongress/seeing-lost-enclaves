@@ -29,6 +29,12 @@ body {
   height: 130vh;
 }
 
+@media (width < 600px) {
+  .portalDiv {
+
+  }
+}
+
 iframe {
   border:0;
   transition: all 2s ease-out;
