@@ -94,58 +94,65 @@ let locations = [
   { name: 'Together Shovel', lat: 41.820824, lng: -71.415476, url: 'viewer.html?url=spheres/shovel.jpg', audio: 'audio/together-shovel.mp3'},
 ];
 
+
+
+
+
+
+
 let links = {
   'providence': {
-    'google': 'https://maps.app.goo.gl/68R7xo8yvznkuwQS9',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:41.821381+-71.415611',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=41.821381,-71.415611',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.41.821381,-71.415611',
   },
   'providence-loc': {
-    'google': 'https://maps.app.goo.gl/D2DYrvVp8uFMpabG8',
+    'google': 'https://maps.app.goo.gl/D2DYrvVp8uFMpabG8', // this goes to madison cafe so not changing yet
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.88666949255493,-77.00471438765344',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.88666949255493,-77.00471438765344',
   },
   'portland': {
-    'google': 'https://maps.app.goo.gl/TFV54Z5jm2SNkBEG8',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:45.519276+-122.69190',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=45.519276,-122.69190',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.45.519276,-122.69190',
   },
   'portland-loc': {
-    'google': 'https://maps.app.goo.gl/iepyrfNMBdDpmivs6',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887837+-77.004790',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887837,-77.004790',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887837,-77.004790',
   },
   'hanford': {
-    'google': 'https://maps.app.goo.gl/yb9biRSLkJvoceXR9',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:36.32777951506234+-119.64042904288736',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=36.32777951506234,-119.64042904288736',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.36.32777951506234,-119.64042904288736',
   },
   'hanford-loc': {
-    'google': 'https://maps.app.goo.gl/HpAA36AzrbS1T92f6',
+    'google': 'https://www.google.com/maps/dir/?api=1&destination=The%20Library%20of%20Congress%20-%20Geography%20&%20Map%20Division,%20Madison%20Bldg,%20101%20Independence%20Ave%20SE%20Geography%20and%20Map%20room,%20Washington,%20DC%2020540&travelmode=walking',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.886958,-77.004710',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.886958,-77.004710',
   },
   'riverside': {
-    'google': 'https://maps.app.goo.gl/nXzqPJhCtkKyKdfC8',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:33.97161889590344+-117.37191527142812',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=33.97161889590344,-117.37191527142812',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.33.97161889590344,-117.37191527142812',
   },
   'riverside-loc': {
-    'google': 'https://maps.app.goo.gl/GorTjyBBdgNocDw57',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887384+-77.005466',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887384,-77.005466',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887384,-77.005466',
   },
   'truckee': {
-    'google': 'https://maps.app.goo.gl/vxZUGi3qYDMRHY7N7',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:39.327468+-120.18702',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=39.327468,-120.18702',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.39.327468,-120.18702',
   },
   'truckee-loc': {
-    'google': 'https://maps.app.goo.gl/k97R5AXNYwsBUrz69',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887752+-77.002705',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887752,-77.002705',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887752,-77.002705',
   },
 }
+
 
 const siteButtons = document.querySelectorAll(".sites .item .btn-yellow");
 siteButtons.forEach(function(siteButton) {
