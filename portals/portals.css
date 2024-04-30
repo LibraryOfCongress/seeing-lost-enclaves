@@ -26,7 +26,20 @@ body {
 #portalFrame {
   width: 130vw;
   height: 130vh;
+}
+
+#portalFrame iframe {
   pointer-events:none;
+}
+
+#portal-description {
+  position: absolute;
+top:0;
+left:0;
+
+  z-index: 999;
+  width: 130vw !important;
+  height: 130vw !important;
 }
 
 @media (width < 600px) {

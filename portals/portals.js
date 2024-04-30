@@ -7,6 +7,8 @@ X TEST test portal closing aggressively (fixed with persistance?)
 X Finish modal
 X make stereo icon larger
 X make it possible to close the portal
+X """Warn GPS permission - """"permission priming""""
+      - SHOW WARNING IF DENIED Ask again if previously denied?"""
 
 X rework buzzing, stop when actually there
   - checked preservePortal < 1
@@ -17,11 +19,15 @@ X TEST after 3m open portal if near - TEST ON SITE
 X TESTED - lengthen to appx 30 checks?
 - TEST 30 checks or switch to time, not iterations
 
+make portal focusable - pointer events none
+
+
+>> DeviceMotionEvent permission - go through this
+  - only after click? 
+
+
 - fix portal height
 - dim audio during narration
-
-- """Warn GPS permission - """"permission priming""""
-- SHOW WARNING IF DENIED Ask again if previously denied?"""
 
 - test with system text magnification?
 - debug audio not turning off
@@ -39,7 +45,7 @@ let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
 el.style="position:fixed;z-index:997;left:50%;bottom:50%;";
-el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hidden"></div></div>';
+el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hiddenX"></div></div>';
 el.onclick = function() { portalGrow() };
 let portalFrame = document.getElementById('portalFrame');
 let portal = document.getElementById('portal');
@@ -63,43 +69,52 @@ if (window.location.hash != "") {
   scrollAcross(window.location.hash.split('#')[1]);
 } 
 
-if ( window.DeviceMotionEvent && typeof window.DeviceMotionEvent.requestPermission === 'function' ) {
-  window.DeviceMotionEvent.requestPermission()
-  .then(response => {
-    if (response === 'granted') {
-      window.addEventListener('devicemotion',
-        () => { console.log('DeviceMotion permissions granted.') },
-        (e) => { throw e }
-    )} else {
-      console.log('DeviceMotion permissions not granted.')
-    }
-  })
-  .catch(e => {
-    console.error(e)
-  })
+
+let permissionGranted = false;
+
+const requestPermission = () => {
+  if (typeof DeviceMotionEvent.requestPermission === 'function') {
+    DeviceMotionEvent.requestPermission()
+  }
 }
+// Call requestPermission first for devicemotion listener working (This will call silently because not being called inside an eventHandler)
+requestPermission()
+
+// Listen to motion events and update the position
+window.addEventListener('devicemotion', function (e) {
+  permissionGranted = true;
+  document.getElementById('orientation-permission').classList.add('d-none');
+}, false);
+
+// After 1s if still no data received from devicemotion event, just show Grant Button to click => Nomaly requestPermission
+setTimeout(() => {
+  if (!permissionGranted && typeof DeviceMotionEvent.requestPermission === 'function') {
+    document.getElementById('orientation-permission').classList.remove('d-none');
+    document.getElementById('orientation-permission').addEventListener('click', requestPermission);
+  }
+}, 1000)
 
 let locations = [
   { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/mapogu.m4a', narration: 'audio/providence.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
   //{ name: 'Providence Coal Fired Pizza', lat: 41.82149997128618, lng: -71.4147083014786, url: 'stereo.html/?embedded&url=spheres/mapogu.jpg', audio: 'https://jywarren.github.io/sfpcrr/audio/mapogu.m4a'},
 
-  { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/portland.m4a', narration: 'audio/providence.mp3'},
-  { name: 'LOC Jefferson Courtyard/Portland', lat: 38.88846874367604, lng: -77.00489686567619, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
-  { name: 'LOC Jefferson Lawn/Portland', lat: 38.88781245768495, lng: -77.00477273819244, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
-  { name: 'LOC G&M/Hanford', lat: 38.88695681049907, lng: -77.00469312973286, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/portland.m4a', narration: 'audio/hanford.mp3'},
-  { name: 'LOC Madison Terrace/Pachappa', lat: 38.887369, lng: -77.005503, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3'},
-  { name: 'LOC Adams/Truckee', lat: 38.887752, lng: -77.002705, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/together-shovel.m4a', narration: 'audio/truckee.mp3'},
+  { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/portland.m4a', narration: 'audio/providence.mp3', description: "The cobblestones glisten with recent rain as you smell their drying, and warm lights shine from many windows on this narrow city street, filled with two and three story row homes and small houses. At the end of the street, you can see a theater marquee glowing in the distance, and the shadows of taller buildings looming up to block starlight. Light spills out of the doorway of a restaurant – Yick’s – and you get a whiff of a dozen foods you recognize. Down a narrow alley beside the shop, a warm light glows as you see a familiar figure crouch to smoke on the stoop during their break."},
+  { name: 'LOC Jefferson Courtyard/Portland', lat: 38.88846874367604, lng: -77.00489686567619, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
+  { name: 'LOC Jefferson Lawn/Portland', lat: 38.88781245768495, lng: -77.00477273819244, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
+  { name: 'LOC G&M/Hanford', lat: 38.88695681049907, lng: -77.00469312973286, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/portland.m4a', narration: 'audio/hanford.mp3', description: "A tight row of brick buildings with tall, second-floor wood balconies lines a narrow dirt street as sunset approaches, interior lights beginning to shine from entryways. People are resting on benches outside a shop as the day ends, the street’s gravel warm from a hot summer’s day, and one man lovingly tinkers with the whitewalled tires of his bicycle. Others sit in the low sunlight on a bench behind a spreading young tree. Above, pigeons coo in the rafters, and beyond, a hint of mist begins to form among the dusty farmland."},
+  { name: 'LOC Madison Terrace/Pachappa', lat: 38.887369, lng: -77.005503, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/riverside-ambient.mp3', narration: 'audio/riverside.mp3', description: "The sun hangs low in the sky, lighting up the porches of a row of homes between tall drooping trees, facing the railroad tracks. Large, fragrant pink flowers grow in carefully protected enclosures between the homes, and a few children shout as they play hide and seek between them. A young woman sits on the porch in the dappled light and shades her eyes with her hand as she looks towards the sun dropping towards the hills across the valley, and a small group bicycling home after a day in the citrus fields. In the distance, someone practices trumpet."},
+  { name: 'LOC Adams/Truckee', lat: 38.887752, lng: -77.002705, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/truckee-ambient.mp3', narration: 'audio/truckee.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
 
-  { name: 'Providence Empire St. Chinatown', lat: 41.8213485, lng: -71.4156095, url: 'viewer.html?url=spheres/providence.jpg', narration: 'audio/providence.mp3'},
-  { name: 'Portland Chinese Vegetable Gardens', lat: 45.520291, lng: -122.692254, url: 'viewer.html?embedded&url=spheres/portland.jpg', narration: 'audio/portland.mp3'},
-  { name: 'Portland Chinese Vegetable Gardens', lat: 45.520269721339204, lng: -122.6921961678906, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
-  { name: 'Pachappa Camp', lat: 33.971627, lng: -117.371908, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3'},
-  { name: 'Pachappa Camp 2', lat: 33.971262, lng: -117.372294, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3'},
-  { name: 'Hanford China Alley', lat: 36.327791409233875, lng: -119.64041287997296, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/together-shovel.mp3', narration: 'audio/hanford.mp3'},
-  { name: 'Truckee Chinatown', lat: 39.32746622566374, lng: -120.1870212082937, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/together-shovel.mp3', narration: 'audio/truckee.mp3'},
+  { name: 'Providence Empire St. Chinatown', lat: 41.8213485, lng: -71.4156095, url: 'viewer.html?url=spheres/providence.jpg', narration: 'audio/providence.mp3', description: "The cobblestones glisten with recent rain as you smell their drying, and warm lights shine from many windows on this narrow city street, filled with two and three story row homes and small houses. At the end of the street, you can see a theater marquee glowing in the distance, and the shadows of taller buildings looming up to block starlight. Light spills out of the doorway of a restaurant – Yick’s – and you get a whiff of a dozen foods you recognize. Down a narrow alley beside the shop, a warm light glows as you see a familiar figure crouch to smoke on the stoop during their break."},
+  { name: 'Portland Chinese Vegetable Gardens', lat: 45.520291, lng: -122.692254, url: 'viewer.html?embedded&url=spheres/portland.jpg', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
+  { name: 'Portland Chinese Vegetable Gardens', lat: 45.520269721339204, lng: -122.6921961678906, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
+  { name: 'Pachappa Camp', lat: 33.971627, lng: -117.371908, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3', description: "The sun hangs low in the sky, lighting up the porches of a row of homes between tall drooping trees, facing the railroad tracks. Large, fragrant pink flowers grow in carefully protected enclosures between the homes, and a few children shout as they play hide and seek between them. A young woman sits on the porch in the dappled light and shades her eyes with her hand as she looks towards the sun dropping towards the hills across the valley, and a small group bicycling home after a day in the citrus fields. In the distance, someone practices trumpet."},
+  { name: 'Pachappa Camp 2', lat: 33.971262, lng: -117.372294, url: 'viewer.html?url=spheres/pachappa.jpg', audio: 'audio/portland.m4a', narration: 'audio/riverside.mp3', description: "The sun hangs low in the sky, lighting up the porches of a row of homes between tall drooping trees, facing the railroad tracks. Large, fragrant pink flowers grow in carefully protected enclosures between the homes, and a few children shout as they play hide and seek between them. A young woman sits on the porch in the dappled light and shades her eyes with her hand as she looks towards the sun dropping towards the hills across the valley, and a small group bicycling home after a day in the citrus fields. In the distance, someone practices trumpet."},
+  { name: 'Hanford China Alley', lat: 36.327791409233875, lng: -119.64041287997296, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/together-shovel.mp3', narration: 'audio/hanford.mp3', description: "A tight row of brick buildings with tall, second-floor wood balconies lines a narrow dirt street as sunset approaches, interior lights beginning to shine from entryways. People are resting on benches outside a shop as the day ends, the street’s gravel warm from a hot summer’s day, and one man lovingly tinkers with the whitewalled tires of his bicycle. Others sit in the low sunlight on a bench behind a spreading young tree. Above, pigeons coo in the rafters, and beyond, a hint of mist begins to form among the dusty farmland."},
+  { name: 'Truckee Chinatown', lat: 39.32746622566374, lng: -120.1870212082937, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/together-shovel.mp3', narration: 'audio/truckee.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
 
   { name: 'Providence Burrill St. Chinatown', lat: 41.820647, lng: -71.415001, url: 'viewer.html/?url=spheres/providence.jpg', narration: 'audio/providence.mp3'},
-  { name: 'Portland Chinatown Museum', lat: 45.52433723518639, lng: -122.6735075902735, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
+  { name: 'Portland Chinatown Museum', lat: 45.52433723518639, lng: -122.6735075902735, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
   { name: 'Statue of Confucius', lat: 25.027136, lng: 121.528874, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland.m4a', narration: 'audio/portland.mp3'},
   { name: 'Rome Square', lat: 25.027419553970663, lng: 121.52940233206643, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/portland.m4a', narration: 'audio/truckee.mp3'},
   { name: 'Hanford TEST', lat: 34.09576763300175, lng: -118.30430354416602, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/together-shovel.mp3'},
@@ -114,7 +129,7 @@ let links = {
     'waze': 'https://www.waze.com/live-map/directions?to=ll.41.821381,-71.415611',
   },
   'providence-loc': {
-    'google': 'https://maps.app.goo.gl/Gq6Sm6pa1zSfjgSN8', // no way to open navigation yet
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.88680634946634+-77.00470928653392', 
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.88666949255493,-77.00471438765344',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.88666949255493,-77.00471438765344',
   },
@@ -159,7 +174,6 @@ let links = {
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887752,-77.002705',
   },
 }
-
 
 const siteButtons = document.querySelectorAll(".sites .item .btn-yellow");
 siteButtons.forEach(function(siteButton) {
@@ -211,7 +225,7 @@ function portalGrow(src) {
   portal.style.width = '100vw';
   portal.style.height = '101vh';
   portal.style['border-radius'] = 0;
-  portal.style['pointer-events'] = 'all';
+  document.getElementById('portalFrame').style['pointer-events'] = 'all';
   portalFrame.style['width'] = '100%';
   portalFrame.style['height'] = '100%';
   document.getElementById('portal-click').classList.add('hidden');
@@ -238,7 +252,7 @@ function hidePortal() {
   portal.style['border-radius'] = '1000px';
   portal.style.width = 0;
   portal.style.height = 0;
-  portal.style['pointer-events'] = 'none';
+  document.getElementById('portalFrame').style['pointer-events'] = 'none';
   portalFrame.style['width'] = '130vw';
   portalFrame.style['height'] = '130vw';
   document.body.classList.remove('dim');
