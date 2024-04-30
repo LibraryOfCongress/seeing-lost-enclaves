@@ -20,7 +20,10 @@ X TESTED - lengthen to appx 30 checks?
 - fix portal height
 - dim audio during narration
 
-- test with system text mag
+- """Warn GPS permission - """"permission priming""""
+- SHOW WARNING IF DENIED Ask again if previously denied?"""
+
+- test with system text magnification?
 - debug audio not turning off
 
 - per-site closeness value
@@ -348,11 +351,14 @@ if (navigator.geolocation) {
         portalOpen = false;
       }
       if (dcToggled !== true) wereInDc(position); // toggle images to DC images
+    }, function(error) {
+      if (error.code == error.PERMISSION_DENIED) {
+        console.log("Geolocation denied");
+        document.getElementById('gps-off').classList.remove('d-none');
+      } else {
+       console.log("Error: Your browser doesn't support geolocation.");
+      }
     },
-    () => { console.log("There was an error geocoding."); },
     { enableHighAccuracy: true }
   );
-} else {
-  console.log("Error: Your browser doesn't support geolocation.");
 }
-

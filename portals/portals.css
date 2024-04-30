@@ -57,6 +57,11 @@ h2, h3 {
 }
 
 a { color: #ffa; }
+
+.alert a {
+  color: inherit;
+}
+
 .chrom {
   position: relative;
   -webkit-filter: url(#kill);
@@ -189,13 +194,30 @@ button#closePortalButton,
 @supports (-webkit-touch-callout: none) {
   /* CSS specific to iOS devices */ 
   .android { display:none; }
+  .android-inline { display:none; }
   .ios { display:block; }
+  .ios-inline { display:inline; }
+  .desktop { display: none; }
+  .desktop-inline { display: none; }
 }
 
 @supports not (-webkit-touch-callout: none) {
   /* CSS for other than iOS devices */ 
   .android { display:block; }
+  .android-inline { display:inline; }
   .ios { display: none;}
+  .ios-inline { display:none; }
+  .desktop { display: none; }
+  .desktop-inline { display: none; }
+}
+
+@media (min-width:1025px) {
+  .ios { display: none;}
+  .ios-inline { display:none; }
+  .android { display:none; }
+  .android-inline { display:none; }
+  .desktop { display: block; }
+  .desktop-inline { display: inline; }
 }
 
 /* https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585 */
