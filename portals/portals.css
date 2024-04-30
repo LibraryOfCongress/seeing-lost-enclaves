@@ -20,13 +20,13 @@ body {
   transition: all 2s ease-out;
 }
 #portal {
-  pointer-events:none;
   background: #311;
   overflow: hidden;
 }
 #portalFrame {
   width: 130vw;
   height: 130vh;
+  pointer-events:none;
 }
 
 @media (width < 600px) {
