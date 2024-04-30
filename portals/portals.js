@@ -6,6 +6,7 @@ X carousel hash override - do it ourselves, so we can also detect and do it smoo
 X TEST test portal closing aggressively (fixed with persistance?)
 X Finish modal
 X make stereo icon larger
+X make it possible to close the portal
 
 X rework buzzing, stop when actually there
   - checked preservePortal < 1
@@ -18,8 +19,6 @@ X TESTED - lengthen to appx 30 checks?
 
 - fix portal height
 - dim audio during narration
-- make it possible to close the portal
-
 
 - test with system text mag
 - debug audio not turning off
@@ -36,7 +35,7 @@ X TESTED - lengthen to appx 30 checks?
 let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
-el.style="position:fixed;z-index:998;left:50%;bottom:50%;";
+el.style="position:fixed;z-index:997;left:50%;bottom:50%;";
 el.innerHTML = '<div id="portal"><iframe id="portalFrame" src=""></iframe></div>';
 el.onclick = function() { portalGrow() };
 let portalFrame = document.getElementById('portalFrame');
@@ -96,7 +95,7 @@ let links = {
     'waze': 'https://www.waze.com/live-map/directions?to=ll.41.821381,-71.415611',
   },
   'providence-loc': {
-    'google': 'https://maps.app.goo.gl/D2DYrvVp8uFMpabG8', // this goes to madison cafe so not changing yet
+    'google': 'https://maps.app.goo.gl/Gq6Sm6pa1zSfjgSN8', // no way to open navigation yet
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.88666949255493,-77.00471438765344',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.88666949255493,-77.00471438765344',
   },
@@ -173,7 +172,7 @@ function showPortal(src) {
   document.getElementById('portal-click').classList.remove('hidden');
   document.getElementById('openPortalButton').onclick = function() { portalGrow() };
   document.getElementById('openPortalButton').focus();
-  document.getElementById('closePortalButton').style.display = 'block';
+  document.getElementById('closePortalButton').classList.remove('hidden');
   document.getElementById('narrationButton').style.display = 'block';
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
@@ -222,8 +221,9 @@ function hidePortal() {
   portalFrame.style['width'] = '130vw';
   portalFrame.style['height'] = '130vw';
   document.body.classList.remove('dim');
-  document.getElementById('closePortalButton').style.display = 'none';
   document.getElementById('narrationButton').style.display = 'none';
+  document.getElementById('portal-click').classList.add('hidden');
+  document.getElementById('closePortalButton').classList.add('hidden');
   if (audioEl.hasOwnProperty('stop')) {
     audioEl.stop();
   } else { console.log('couldnt stop audio'); }
