@@ -45,7 +45,7 @@ let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
 el.style="position:fixed;z-index:997;left:50%;bottom:50%;";
-el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hiddenX"></div></div>';
+el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hidden"></div></div>';
 el.onclick = function() { portalGrow() };
 let portalFrame = document.getElementById('portalFrame');
 let portal = document.getElementById('portal');
