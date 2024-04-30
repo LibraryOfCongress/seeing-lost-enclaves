@@ -63,8 +63,24 @@ if (window.location.hash != "") {
   scrollAcross(window.location.hash.split('#')[1]);
 } 
 
+if ( window.DeviceMotionEvent && typeof window.DeviceMotionEvent.requestPermission === 'function' ) {
+  window.DeviceMotionEvent.requestPermission()
+  .then(response => {
+    if (response === 'granted') {
+      window.addEventListener('devicemotion',
+        () => { console.log('DeviceMotion permissions granted.') },
+        (e) => { throw e }
+    )} else {
+      console.log('DeviceMotion permissions not granted.')
+    }
+  })
+  .catch(e => {
+    console.error(e)
+  })
+}
+
 let locations = [
-  { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/mapogu.m4a', narration: 'audio/providence.mp3'},
+  { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/mapogu.m4a', narration: 'audio/providence.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
   //{ name: 'Providence Coal Fired Pizza', lat: 41.82149997128618, lng: -71.4147083014786, url: 'stereo.html/?embedded&url=spheres/mapogu.jpg', audio: 'https://jywarren.github.io/sfpcrr/audio/mapogu.m4a'},
 
   { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/portland.m4a', narration: 'audio/providence.mp3'},
@@ -163,7 +179,8 @@ function showModal(site) {
   mapsModal.show();
 }
 
-function showPortal(src) {
+function showPortal(site) {
+  let src = site.url;
   if (portalFrame.src != src) portalFrame.src = src;
   portalOpen = true;
   el.style.left = '10%';
@@ -171,6 +188,7 @@ function showPortal(src) {
   portal.style.width = '80vw';
   portal.style.height = '80vw';
   portal.style['border-radius'] = '1000px';
+  if (site.hasOwnProperty('description')) document.getElementById('portal-description').innerHTML = site.description;
   document.body.classList.add('dim');
   document.getElementById('portal-click').classList.remove('hidden');
   document.getElementById('openPortalButton').onclick = function() { portalGrow() };
@@ -261,7 +279,7 @@ function readNarration(audioUrl) {
 }
 
 function testPortal() {
-  showPortal('viewer.html?url=spheres/providence.jpg');
+  showPortal({src: 'viewer.html?url=spheres/providence.jpg'});
   window.navigator.vibrate([50,50,50]);
   preservePortal = 3; // leave portal open for 3 cycles
 }
@@ -306,7 +324,7 @@ if (navigator.geolocation) {
             if (portalOpen == false && timeLooking > timeLimit) {
               console.log('just open');
               if (loc.blocked !== true) {
-                showPortal(loc.url); // just open if it's been more that 60 checks
+                showPortal(loc); // just open if it's been more that 60 checks
                 setupPortalBlock(loc);
               }
               currentPortal = loc;
@@ -322,7 +340,7 @@ if (navigator.geolocation) {
           if (Math.abs(loc.lng - position.coords.longitude) < closeness) {
             if (portalOpen == false) {
               if (loc.blocked !== true) {
-                showPortal(loc.url);
+                showPortal(loc);
                 setupPortalBlock(loc);
               }
               currentPortal = loc;
