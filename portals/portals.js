@@ -95,7 +95,7 @@ setTimeout(() => {
 }, 1000)
 
 let locations = [
-  { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/mapogu.m4a', narration: 'audio/providence.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
+  { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/truckee-ambient.mp3', narration: 'audio/truckee.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
   //{ name: 'Providence Coal Fired Pizza', lat: 41.82149997128618, lng: -71.4147083014786, url: 'stereo.html/?embedded&url=spheres/mapogu.jpg', audio: 'https://jywarren.github.io/sfpcrr/audio/mapogu.m4a'},
 
   { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/providence-ambient.mp3', narration: 'audio/providence.mp3', description: "The cobblestones glisten with recent rain as you smell their drying, and warm lights shine from many windows on this narrow city street, filled with two and three story row homes and small houses. At the end of the street, you can see a theater marquee glowing in the distance, and the shadows of taller buildings looming up to block starlight. Light spills out of the doorway of a restaurant – Yick’s – and you get a whiff of a dozen foods you recognize. Down a narrow alley beside the shop, a warm light glows as you see a familiar figure crouch to smoke on the stoop during their break."},
@@ -202,6 +202,7 @@ function showPortal(site) {
   portal.style.width = '80vw';
   portal.style.height = '80vw';
   portal.style['border-radius'] = '1000px';
+  if (site.hasOwnProperty('description')) document.getElementById('portalFrame').title = site.description;
   if (site.hasOwnProperty('description')) document.getElementById('portal-description').innerHTML = site.description;
   document.body.classList.add('dim');
   document.getElementById('portal-click').classList.remove('hidden');
