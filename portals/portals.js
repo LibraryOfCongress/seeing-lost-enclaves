@@ -96,27 +96,27 @@ let locations = [
 
 let links = {
   'providence': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:41.821381+-71.415611',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=41.821381+-71.415611',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=41.821381,-71.415611',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.41.821381,-71.415611',
   },
   'providence-loc': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.88680634946634+-77.00470928653392', 
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=38.88680634946634+-77.00470928653392', 
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.88666949255493,-77.00471438765344',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.88666949255493,-77.00471438765344',
   },
   'portland': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:45.519276+-122.69190',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=45.519276+-122.69190',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=45.519276,-122.69190',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.45.519276,-122.69190',
   },
   'portland-loc': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887837+-77.004790',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=38.887837+-77.004790',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887837,-77.004790',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887837,-77.004790',
   },
   'hanford': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:36.32777951506234+-119.64042904288736',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=36.32777951506234+-119.64042904288736',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=36.32777951506234,-119.64042904288736',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.36.32777951506234,-119.64042904288736',
   },
@@ -126,22 +126,22 @@ let links = {
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.886958,-77.004710',
   },
   'riverside': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:33.97161889590344+-117.37191527142812',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=33.97161889590344+-117.37191527142812',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=33.97161889590344,-117.37191527142812',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.33.97161889590344,-117.37191527142812',
   },
   'riverside-loc': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887384+-77.005466',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=38.887384+-77.005466',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887384,-77.005466',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887384,-77.005466',
   },
   'truckee': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:39.327468+-120.18702',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=39.327468+-120.18702',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=39.327468,-120.18702',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.39.327468,-120.18702',
   },
   'truckee-loc': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=loc:38.887752+-77.002705',
+    'google': 'https://maps.google.com/maps?dirflg=w&daddr=38.887752+-77.002705',
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.887752,-77.002705',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.887752,-77.002705',
   },
