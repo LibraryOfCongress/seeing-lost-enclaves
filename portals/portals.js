@@ -20,7 +20,7 @@ X TEST after 3m open portal if near - TEST ON SITE
   - closes?? (maybe after 3 persist?)
 X TESTED - lengthen to appx 30 checks?
 - TEST 30 checks or switch to time, not iterations
-
+X per-site closeness value
 
 >> DeviceMotionEvent permission - go through this
   - only after click? 
@@ -30,7 +30,6 @@ X TESTED - lengthen to appx 30 checks?
 - test with system text magnification?
 - debug audio not turning off
 
-- per-site closeness value
 - try preloading imgs with onLoad() ( preloading is already done somehow? Caching?)
 - do it when in closeness*5 distance?
 - audio preloading ?
@@ -96,7 +95,7 @@ let locations = [
   { name: 'Providence Coal Fired Pizza', lat: 41.82129802473228, lng: -71.41502773093613, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/truckee-ambient.mp3', narration: 'audio/truckee.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
   //{ name: 'Providence Coal Fired Pizza', lat: 41.82149997128618, lng: -71.4147083014786, url: 'stereo.html/?embedded&url=spheres/mapogu.jpg', audio: 'https://jywarren.github.io/sfpcrr/audio/mapogu.m4a'},
 
-  { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/providence-ambient.mp3', narration: 'audio/providence.mp3', description: "The cobblestones glisten with recent rain as you smell their drying, and warm lights shine from many windows on this narrow city street, filled with two and three story row homes and small houses. At the end of the street, you can see a theater marquee glowing in the distance, and the shadows of taller buildings looming up to block starlight. Light spills out of the doorway of a restaurant – Yick’s – and you get a whiff of a dozen foods you recognize. Down a narrow alley beside the shop, a warm light glows as you see a familiar figure crouch to smoke on the stoop during their break."},
+  { name: 'LOC Madison Atrium/Providence', lat: 38.8867524, lng: -77.0047272, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/providence-ambient.mp3', narration: 'audio/providence.mp3', radius: 0.00005, description: "The cobblestones glisten with recent rain as you smell their drying, and warm lights shine from many windows on this narrow city street, filled with two and three story row homes and small houses. At the end of the street, you can see a theater marquee glowing in the distance, and the shadows of taller buildings looming up to block starlight. Light spills out of the doorway of a restaurant – Yick’s – and you get a whiff of a dozen foods you recognize. Down a narrow alley beside the shop, a warm light glows as you see a familiar figure crouch to smoke on the stoop during their break."},
   { name: 'LOC Jefferson Courtyard/Portland', lat: 38.88846874367604, lng: -77.00489686567619, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland-ambient.mp3', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
   { name: 'LOC Jefferson Lawn/Portland', lat: 38.88781245768495, lng: -77.00477273819244, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland-ambient.mp3', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
   { name: 'LOC G&M/Hanford', lat: 38.88695681049907, lng: -77.00469312973286, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/hanford-ambient.mp3', narration: 'audio/hanford.mp3', description: "A tight row of brick buildings with tall, second-floor wood balconies lines a narrow dirt street as sunset approaches, interior lights beginning to shine from entryways. People are resting on benches outside a shop as the day ends, the street’s gravel warm from a hot summer’s day, and one man lovingly tinkers with the whitewalled tires of his bicycle. Others sit in the low sunlight on a bench behind a spreading young tree. Above, pigeons coo in the rafters, and beyond, a hint of mist begins to form among the dusty farmland."},
@@ -351,8 +350,9 @@ if (navigator.geolocation) {
       })
       // compare and we should be within ~7m or 0.0001 degrees to match 
       locations.forEach(function(loc) {
-        if (Math.abs(loc.lat - position.coords.latitude) < closeness) {
-          if (Math.abs(loc.lng - position.coords.longitude) < closeness) {
+        let localCloseness = loc.radius * 2 || closeness;
+        if (Math.abs(loc.lat - position.coords.latitude) < localCloseness) {
+          if (Math.abs(loc.lng - position.coords.longitude) < localCloseness) {
             if (portalOpen == false) {
               if (loc.blocked !== true) {
                 showPortal(loc);
