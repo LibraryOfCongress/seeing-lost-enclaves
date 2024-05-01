@@ -101,7 +101,7 @@ let links = {
     'waze': 'https://www.waze.com/live-map/directions?to=ll.41.821381,-71.415611',
   },
   'providence-loc': {
-    'google': 'https://maps.google.com/maps?dirflg=w&daddr=38.88680634946634+-77.00470928653392', 
+    'google': 'https://maps.app.goo.gl/Y9cD3ZjypapB5UE88', 
     'apple': 'https://maps.apple.com/?dirflg=w&daddr=38.88666949255493,-77.00471438765344',
     'waze': 'https://www.waze.com/live-map/directions?to=ll.38.88666949255493,-77.00471438765344',
   },
