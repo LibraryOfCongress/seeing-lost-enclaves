@@ -45,7 +45,7 @@ let el = document.createElement('div');
 document.body.appendChild(el);
 el.classList.add("portalDiv");
 el.style="position:fixed;z-index:997;left:50%;bottom:50%;";
-el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hidden"></div></div>';
+el.innerHTML = '<div id="portal"><iframe aria-describedby="portal-description" role="alert" autofocus="true" id="portalFrame" src=""></iframe><div id="portal-description" class="visually-hidden"></div></div>';
 el.onclick = function() { portalGrow() };
 let portalFrame = document.getElementById('portalFrame');
 let portal = document.getElementById('portal');
@@ -113,7 +113,7 @@ let locations = [
   { name: 'Hanford China Alley', lat: 36.327791409233875, lng: -119.64041287997296, url: 'viewer.html?url=spheres/hanford.jpg', audio: 'audio/hanford-ambient.mp3', narration: 'audio/hanford.mp3', description: "A tight row of brick buildings with tall, second-floor wood balconies lines a narrow dirt street as sunset approaches, interior lights beginning to shine from entryways. People are resting on benches outside a shop as the day ends, the street’s gravel warm from a hot summer’s day, and one man lovingly tinkers with the whitewalled tires of his bicycle. Others sit in the low sunlight on a bench behind a spreading young tree. Above, pigeons coo in the rafters, and beyond, a hint of mist begins to form among the dusty farmland."},
   { name: 'Truckee Chinatown', lat: 39.32746622566374, lng: -120.1870212082937, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/truckee-ambient.mp3', narration: 'audio/truckee.mp3', description: "A pinkish light washes over a dusty country town road dotted with pebbles. A wooden porch-fronted brick storefront offers a shady spot to look out over a series of wide, lush green garden plots across the narrow street, a pine-covered hill rising in the distance. Soft clouds and mist mix with the trees and beside and behind the shop, a range of other small wooden buildings are packed together in a tight and lively looking neighborhood, wooden walkways linking storefronts and keeping your feet up out of the dirt."},
 
-  { name: 'Providence Burrill St. Chinatown', lat: 41.820647, lng: -71.415001, url: 'viewer.html/?url=spheres/providence.jpg', narration: 'audio/providence.mp3'},
+  { name: 'Providence Burrill St. Chinatown', lat: 41.820647, lng: -71.415001, url: 'viewer.html?url=spheres/providence.jpg', audio: 'audio/providence-ambient.mp3'},
   { name: 'Portland Chinatown Museum', lat: 45.52433723518639, lng: -122.6735075902735, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland-ambient.mp3', narration: 'audio/portland.mp3', description: "Summer sunlight warms the cool earth in a narrow valley between a tall wooded hillside and a high wood fence with cypress peeking over the top. A creek meanders calmly by, dragonflies darting by, as a gentle breeze brushes the tops of the dense crops planted across the flat bottom of the gulch – melons, beans, radishes and more offering familiar scents. The soil is soft and full of organic matter as you step away from the creek and look towards the small tin-roofed wooden cabins at the base of the slope, dark shadows cast from their porch overhangs, and firewood piled alongside. A larger group of houses stand halfway up the hill, roofs shining with reflected sunlight, and across the narrow valley, a timber bridge reflects in the water of the creek."},
   { name: 'Statue of Confucius', lat: 25.027136, lng: 121.528874, url: 'viewer.html?url=spheres/portland.jpg', audio: 'audio/portland-ambient.mp3', narration: 'audio/portland.mp3'},
   { name: 'Rome Square', lat: 25.027419553970663, lng: 121.52940233206643, url: 'viewer.html?url=spheres/truckee.jpg', audio: 'audio/truckee-ambient.mp3', narration: 'audio/truckee.mp3'},
@@ -203,13 +203,15 @@ function showPortal(site) {
   portal.style.height = '80vw';
   portal.style['border-radius'] = '1000px';
   if (site.hasOwnProperty('description')) document.getElementById('portalFrame').title = site.description;
+  if (site.hasOwnProperty('description')) document.getElementById('portalFrame').innerHTML = site.description;
   if (site.hasOwnProperty('description')) document.getElementById('portal-description').innerHTML = site.description;
   document.body.classList.add('dim');
   document.getElementById('portal-click').classList.remove('hidden');
   document.getElementById('openPortalButton').onclick = function() { portalGrow() };
-  document.getElementById('openPortalButton').focus();
+  //document.getElementById('openPortalButton').focus();
   document.getElementById('closePortalButton').classList.remove('hidden');
   document.getElementById('narrationButton').style.display = 'block';
+  document.getElementById('portalFrame').focus();
   if (audioEl.src) {
     audioEl.addEventListener('ended', function() {
       this.currentTime = 0;

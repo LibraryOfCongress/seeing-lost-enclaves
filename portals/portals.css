@@ -26,10 +26,11 @@ body {
 #portalFrame {
   width: 130vw;
   height: 130vh;
+  pointer-events: none;
 }
 
-#portalFrame iframe {
-  pointer-events:none;
+iframe#portalFrame:focus {
+  outline: 0;
 }
 
 #portal-description {
@@ -60,10 +61,11 @@ h1 {
 }
 h2 {
   font-size: 2.5em;
+  margin-top: 60px;
 }
 h3 {
   font-size: 1.8em;
-  margin: 6px 0;
+  margin: 40px 0 20px;
 }
 h2, h3 {
   font-weight: 100;
@@ -103,6 +105,10 @@ body.dim .sites,
 body.dim .texts,
 body.dim .how-it-works {
   opacity: 0.3;
+}
+
+.sites h3 {
+  margin-top: 7px;
 }
 
 .portal-overlay.hidden,
@@ -190,6 +196,10 @@ button#closePortalButton,
   text-decoration: none;
   text-wrap: nowrap; 
   line-height: 2.6em;
+}
+
+.accessibility ul {
+  text-align: left;
 }
 
 .modal {
