@@ -178,6 +178,17 @@ if (testPortalKey) {
   }, 2000);
 }
 
+// Providence qr code
+if (params.get("vwkqenigs")) {
+  setTimeout(function() {
+    let loc = locations.find(function(l) { return l.name === 'providence' });
+    if (loc) showPortal(loc);
+    preservePortal = 100;
+    currentPortal = loc;
+    if (loc && loc.audio != audioEl.src) loadAudio(loc.audio); // if there's new audio
+  }, 2000);
+}
+
 function showPortal(site) {
   let src = site.url;
   if (portalFrame.src != src) portalFrame.src = src + "&description=A circular portal opens suddenly on the page. " + site.description;
