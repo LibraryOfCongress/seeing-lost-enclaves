@@ -13,21 +13,19 @@ X """Warn GPS permission - """"permission priming""""
 X rework buzzing, stop when actually there
   - checked preservePortal < 1
 TEST above
+X make portal focusable - pointer events none
+X dim audio during narration
 
 X TEST after 3m open portal if near - TEST ON SITE
   - closes?? (maybe after 3 persist?)
 X TESTED - lengthen to appx 30 checks?
 - TEST 30 checks or switch to time, not iterations
 
-make portal focusable - pointer events none
-
 
 >> DeviceMotionEvent permission - go through this
   - only after click? 
 
-
 - fix portal height
-- dim audio during narration
 
 - test with system text magnification?
 - debug audio not turning off
@@ -195,7 +193,7 @@ function showModal(site) {
 
 function showPortal(site) {
   let src = site.url;
-  if (portalFrame.src != src) portalFrame.src = src;
+  if (portalFrame.src != src) portalFrame.src = src+"&description=A circular portal opens suddenly on the page. " + site.description;
   portalOpen = true;
   el.style.left = '10%';
   el.style.bottom = '15%';
@@ -270,6 +268,9 @@ function hidePortal() {
 
 function loadAudio(src) {
   audioEl = new Audio(src);
+  audioEl.id = "ambientAudio";
+  audioEl.style = "display:none;";
+  document.body.append(audioEl);
   /*audioEl.addEventListener("canplaythrough", (event) => {
     audioEl.play(); // doesn't work because it requires user interaction before audio is allowed
   });*/
@@ -277,22 +278,19 @@ function loadAudio(src) {
 
 function readNarration(audioUrl) {
   // dim other audio
-  console.log('play', audioUrl);
+  console.log('load', audioUrl);
   document.getElementById('narrationButton').style.display = "none";
-  let narrationAudioEl = new Audio(audioUrl);
-  narrationAudioEl.onload = function() {
-    narrationAudioEl.play();
-  }
+  let narrationAudioEl = new Audio();
   narrationAudioEl.controls = true;
+  narrationAudioEl.autoplay = true;
   narrationAudioEl.id = "narrationAudioEl";
+  narrationAudioEl.src = audioUrl;
   document.getElementById('portal-overlay').append(narrationAudioEl);
   narrationAudioEl.addEventListener('ended', function() {
     audioEl.volume = 1;
   }, false);
-  narrationAudioEl.onload = function() {
-    narrationAudioEl.play();
-    audioEl.volume = 0.2;
-  }
+  console.log('reduce ambient volume', audioEl.volume);
+  audioEl.volume = 0.3;
 }
 
 function testPortal() {
@@ -347,7 +345,7 @@ if (navigator.geolocation) {
               currentPortal = loc;
               preservePortal = 3; // leave portal open for 3 cycles
             }
-            if (loc.audio) loadAudio(loc.audio); // preload audio
+            //if (loc.audio) loadAudio(loc.audio); // preload audio
           }
         }
       })
