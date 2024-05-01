@@ -101,9 +101,9 @@ a { color: #ffa; }
   padding: 20px;
 }
 
-body.dim .sites,
-body.dim .texts,
-body.dim .how-it-works {
+body.dim .main .sites,
+body.dim .main .texts,
+body.dim .main .how-it-works {
   opacity: 0.3;
 }
 

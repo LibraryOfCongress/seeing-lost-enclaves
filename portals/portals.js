@@ -1,15 +1,16 @@
 /*
 
-- debug audio not turning off
+X debug audio not turning off
+
+- don't dim orientation alert? above 
 
 - fix portal height
+- figure out compass orientation X switch to photo-sphere-viewer
 - test with system text magnification?
 
 - try preloading imgs with onLoad() ( preloading is already done somehow? Caching?)
 - do it when in closeness*5 distance?
 - audio preloading ?
-- figure out compass orientation X switch to photo-sphere-viewer
-
 - read volume level and warn? https://stackoverflow.com/questions/62725857/how-to-get-volume-level-using-javascript
 */
 
