@@ -53,6 +53,7 @@ requestPermission()
 
 // Listen to motion events and update the position
 window.addEventListener('devicemotion', function (e) {
+  if (permissionGranted !== true) document.getElementById('portalFrame').src = document.getElementById('portalFrame').src;
   permissionGranted = true;
   document.getElementById('orientation-permission').classList.add('d-none');
 }, false);
