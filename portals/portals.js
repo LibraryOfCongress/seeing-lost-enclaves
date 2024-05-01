@@ -173,6 +173,8 @@ if (testPortalKey) {
     let loc = locations.find(function(l) { return l.name === testPortalKey });
     if (loc) showPortal(loc);
     preservePortal = 5;
+    currentPortal = loc;
+    if (loc && loc.audio != audioEl.src) loadAudio(loc.audio); // if there's new audio
   }, 2000);
 }
 
