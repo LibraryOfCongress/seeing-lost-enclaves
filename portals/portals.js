@@ -25,6 +25,7 @@ let portal = document.getElementById('portal');
 let audioEl = {};
 hidePortal();
 
+let hasOpenedOnce = false;
 let currentPortal = false;
 let closeness = 0.0002; // approx 14m in US
 let timeLooking = 0, timeLimit = 30;
@@ -217,6 +218,7 @@ function generateCode(date) {
 }
 
 function showPortal(site) {
+  hasOpenedOnce = true;
   let src = site.url;
   if (portalFrame.src != src) portalFrame.src = src + "&description=A circular portal opens suddenly on the page. " + site.description;
   portalOpen = true;
@@ -346,6 +348,7 @@ function setupPortalBlock(loc) {
 
 if (navigator.geolocation) {
   navigator.geolocation.watchPosition((position) => {
+    console.log('accuracy est', position.coords.accuracy, 'm');
       let foundPortal = false, isNearPortal = false;
       //document.getElementById('lat').innerHTML = position.coords.latitude + ',' + position.coords.longitude + '<br />'+ count;
       count = count + 1;
@@ -407,10 +410,17 @@ if (navigator.geolocation) {
       if (error.code == error.PERMISSION_DENIED) {
         console.log("Geolocation denied");
         document.getElementById('gps-off').classList.remove('d-none');
+      } else if (error.code == 2 && hasOpenedOnce == true) {
+        console.log('force refresh due to GPS error');
+        setTimeout(function() { document.location = document.location }, 4000);
       } else {
-       console.log("Error: Your browser doesn't support geolocation.");
+       console.log("Error: Your browser doesn't support geolocation.", error);
       }
     },
-    { enableHighAccuracy: true }
+    { 
+      enableHighAccuracy: true,
+      timeout: 5000,
+      maximumAge: 0
+    }
   );
 }
