@@ -1,15 +1,15 @@
 /*
 
-X debug audio not turning off
-
-- don't dim orientation alert? above 
-
 - fix portal height
 - figure out compass orientation X switch to photo-sphere-viewer
 - test with system text magnification?
 
+- time-bound switches 7am ET
+
+- watchPosition position_unavailable error = https://stackoverflow.com/questions/77070960/geolocation-watchposition-persistent-error-position-unavailable-on-windows-v1
+
 - try preloading imgs with onLoad() ( preloading is already done somehow? Caching?)
-- do it when in closeness*5 distance?
+  - do it when in closeness*5 distance?
 - audio preloading ?
 - read volume level and warn? https://stackoverflow.com/questions/62725857/how-to-get-volume-level-using-javascript
 */

@@ -2,6 +2,14 @@
 
 _Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color_ is a project by [Jeffrey Yoo Warren](https://unterbahn.com) *![external link](../images/external-link.gif)* as part of the 2023 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/). You can read more on the [Seeing Lost Enclaves experiment page](https://labs.loc.gov/work/experiments/lost-enclaves).
 
+## Hidden Portals
+
+This May 2024, Yoo Warren invites the public to visit a series of virtual installations on the Library's Washington, DC campus and five historic Asian American sites around the country. Accessible by mobile device, the experimental Hidden Portals event provdes an immersive 3D reconstruction of these neighborhoods developed with archival photographs and records from local and Library of Congress collections. 
+
+## [Visit Hidden Portals &raquo;](portals/)
+
+----
+
 <div class="youtube-video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5f2JwnqFak?si=GM7pHeaM0E6NT7vQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
