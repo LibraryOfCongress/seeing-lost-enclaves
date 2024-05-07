@@ -193,6 +193,29 @@ if (params.get("vwkqenigs")) {
   }, 2000);
 }
 
+// temp codes - req a k= key param and p= portal name
+let currentDayKey = generateCode(Date.now());
+if (params.get('k') && params.get('k') == currentDayKey) {
+  let dayPortalKey = params.get("p");
+  if (dayPortalKey) {
+    setTimeout(function() {
+      console.log('day-long portal', dayPortalKey);
+      let loc = locations.find(function(l) { return l.name === dayPortalKey });
+      if (loc) {
+        showPortal(loc);
+        setupPortalBlock(loc);
+        preservePortal = 60000;
+        currentPortal = loc;
+        if (loc && loc.audio != audioEl.src) loadAudio(loc.audio); // if there's new audio
+      }
+    }, 2000);
+  }
+}
+
+function generateCode(date) {
+  return Math.round(date/(1000*60*60*72)).toString(16);
+}
+
 function showPortal(site) {
   let src = site.url;
   if (portalFrame.src != src) portalFrame.src = src + "&description=A circular portal opens suddenly on the page. " + site.description;
