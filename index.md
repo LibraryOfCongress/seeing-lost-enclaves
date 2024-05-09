@@ -6,7 +6,7 @@ _Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoo
 
 This May 2024, Yoo Warren invites the public to visit a series of virtual installations on the Library's Washington, DC campus and five historic Asian American sites around the country. Accessible by mobile device, the experimental Hidden Portals event provdes an immersive 3D reconstruction of these neighborhoods developed with archival photographs and records from local and Library of Congress collections. 
 
-## [Visit Hidden Portals &raquo;](portals/)
+## [Visit Hidden Portals &raquo;](https://libraryofcongress.github.io/seeing-lost-enclaves/portals/)
 
 ----
 
