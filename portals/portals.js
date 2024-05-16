@@ -158,11 +158,12 @@ siteButtons.forEach(function(siteButton) {
   }
 });
 
+let mapsModal;
 function showModal(site) {
   document.getElementById('googleMapLink').href = links[site]['google'];
   document.getElementById('appleMapLink').href = links[site]['apple'];
   document.getElementById('wazeMapLink').href = links[site]['waze'];
-  let mapsModal = new bootstrap.Modal(document.getElementById('mapsModal'), {
+  mapsModal = new bootstrap.Modal(document.getElementById('mapsModal'), {
     keyboard: false
   });
   mapsModal.show();
@@ -222,6 +223,7 @@ function showPortal(site) {
   hasOpenedOnce = true;
   let src = site.url;
   if (portalFrame.src != src) portalFrame.src = src + "&description=A circular portal opens suddenly on the page. " + site.description;
+  if (mapsModal && mapsModal.hide) mapsModal.hide();
   portalOpen = true;
   el.style.left = '10%';
   el.style.bottom = '15%';
