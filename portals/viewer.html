@@ -7,6 +7,7 @@
         <title>Hidden Portals</title>
 
         <link rel="stylesheet" href="./node_modules/@photo-sphere-viewer/core/index.css" />
+        <script async src="https://ga.jspm.io/npm:es-module-shims@1.10.0/dist/es-module-shims.js"></script>
         
         <style>
             html, body, #viewer {
@@ -45,6 +46,7 @@
             let params = new URLSearchParams(document.location.search);
             let description = params.get("description"); // passed-in screen reader text
             document.getElementById('description').innerHTML = description;
+            let heading = params.get("heading");
         </script>
 
         <script type="importmap">
@@ -70,6 +72,9 @@
             const viewer = new Viewer({
                 container: 'viewer',
                 panorama: baseUrl + (params.get("url") || 'spheres/providence.jpg'),
+                panoData: {
+                  poseHeading: (params.get("heading") || 0), // 0 to 360
+                },
                 defaultZoomLvl: 0,
                 
                 //interpolateBackground: true,
