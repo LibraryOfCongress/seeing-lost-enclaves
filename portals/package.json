@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@photo-sphere-viewer/core": "^5.7.3",
-    "@photo-sphere-viewer/gyroscope-plugin": "^5.7.3",
-    "@photo-sphere-viewer/stereo-plugin": "^5.7.3",
+    "@photo-sphere-viewer/core": "^5.7.4",
+    "@photo-sphere-viewer/gyroscope-plugin": "^5.7.4",
+    "@photo-sphere-viewer/stereo-plugin": "^5.7.4",
     "bootstrap": "^5.3.3",
     "three": "^0.163.0"
   }
