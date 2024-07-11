@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+_Seeing Lost Enclaves was a project I developed during 2022-2024 as the Library of Congress Innovator in Residence. Please see https://unterbahn.com and https://instagram.com/unterbahn for more recent work, some of which emerged from this project._
+
 ## Is this a precise historic recreation? How is precision communicated?
 
 No - my goal in relational reconstruction has been to use the process of reconstruction as one of healing and of belonging, and as a reclaiming and re-contextualizing of the archive and its meanings for our futures, inspired by Saidiya Hartman's _critical fabulation_ (also see Venus in Two Acts, cited in [Inspirations](inspirations.md)). My practice engages peoples’ creative and collaborative abilities, building tools and spaces which support and inspire creative practices, and the Relational Reconstruction Toolkit focuses on the creative possibilities of what it could have felt like –as an Asian American person – to walk down the street and experience a sense of belonging at that moment in history.
@@ -14,7 +16,7 @@ Though Chinatowns are for me a starting point, due to my work in Providence's Ch
 
 ## Can I visit one of the virtual reconstructions online?
 
-So far, I have hosted public visits and walking tours to Providence's Chinatown, and will continue doing so. I am working on ways to enable asynchronous visits as well, please stay tuned.
+So far, I have hosted public visits and walking tours to Providence's Chinatown, and will continue doing so. You can also visit the reconstructions through the [Hidden Portals project](https://hiddenportals.org) and the [Sites page](sites).
 
 ## Can I participate? 
 
@@ -26,6 +28,4 @@ I’m also beginning to reach out to folks about – slowly – beginning a reco
 
 No, there will be workshops and activities open to people of all skill-sets.
 
-
-_I will post more Q&A as the project progresses, thank you!_
  

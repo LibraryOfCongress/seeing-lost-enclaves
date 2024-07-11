@@ -1,12 +1,12 @@
 ![Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color](images/banner.png)
 
-_Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color_ is a project by [Jeffrey Yoo Warren](https://unterbahn.com) *![external link](../images/external-link.gif)* as part of the 2023 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/). You can read more on the [Seeing Lost Enclaves experiment page](https://labs.loc.gov/work/experiments/lost-enclaves).
+_Seeing Lost Enclaves: Relational reconstructions of erased historic neighborhoods of color_ is a project by [Jeffrey Yoo Warren](https://unterbahn.com) *![external link](../images/external-link.gif)* as part of the 2023 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/). You can read more on the [Seeing Lost Enclaves experiment page](https://labs.loc.gov/work/experiments/lost-enclaves), including blog posts and other materials.
 
 ## Hidden Portals
 
-This May 2024, Yoo Warren invites the public to visit a series of virtual installations on the Library's Washington, DC campus and five historic Asian American sites around the country. Accessible by mobile device, the experimental Hidden Portals event provdes an immersive 3D reconstruction of these neighborhoods developed with archival photographs and records from local and Library of Congress collections. 
+In May 2024, Yoo Warren invited the public to visit a series of virtual installations on the Library's Washington, DC campus and five historic Asian American sites around the country. Accessible by mobile device, the experimental Hidden Portals event provides an immersive 3D reconstruction of these neighborhoods developed with archival photographs and records from local and Library of Congress collections. 
 
-## [Visit Hidden Portals &raquo;](https://libraryofcongress.github.io/seeing-lost-enclaves/portals/)
+## [View archived portals](sites) | [Visit Hidden Portals website &raquo;](https://libraryofcongress.github.io/seeing-lost-enclaves/portals/)
 
 ----
 
@@ -16,9 +16,9 @@ This May 2024, Yoo Warren invites the public to visit a series of virtual instal
 
 ## Toolkit
 
-This website an evolving guide to _relational reconstruction_, a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown) *![external link](../images/external-link.gif)* (see below), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. Guides and documentation of subsequent phases of this work will be posted over the course of 2023, and will include topics such as reconstruction, modeling, soundscapes, ambience. 
+This website is a guide to _relational reconstruction_, a set of practices for creating an immersive (virtual, 3D) reconstruction of an erased neighborhood, such as the one I have begun to craft in the [Seeing Providence Chinatown project](https://unterbahn.com/chinatown) *![external link](../images/external-link.gif)* (see below), about the neighborhood which existed on Empire Street in Providence, RI until December 1914. Guides and documentation of subsequent phases of this work will be posted over the course of 2023, and will include topics such as reconstruction, modeling, soundscapes, ambience. 
 
-As I dive deeper into this work, I hope to share the techniques I've learned and developed, both in this guide and through public workshops over the coming months. I especially hope to work together with fellow Asian Americans who share my interest in unearthing early histories and stories of erased communities across the country -- and with descendants of these communities. Though Chinatowns are for me a starting point, due to my work in Providence's Chinatown, I am also interested in the histories of other erased communities of color, and hope to learn more about these histories over the course of the project. Please [reach out](contact.md) if you are interested in sharing or contributing.
+Here I share the techniques I've learned and developed, both in this guide and through public workshops over the residency period. I especially sought to work together with fellow Asian Americans who share my interest in unearthing early histories and stories of erased communities across the country -- and with descendants of these communities. Though Chinatowns are for me a starting point, due to my work in Providence's Chinatown, I am also interested in the histories of other erased communities of color, and hope to learn more about these histories over the course of the project. Please [reach out](contact.md) if you are interested in sharing or contributing.
 
 ## Contents
 
