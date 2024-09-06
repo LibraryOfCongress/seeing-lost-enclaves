@@ -99,11 +99,11 @@ As a part of my residency project, portals were also created in and around the L
 
 Use the links above to access the photospheres. However, if you are unable to use the photospheres, there are video recordings of each available as well:
 
-* Portland: https://youtu.be/IllUh_NuK4E 
-* Providence: https://youtu.be/HNxS6kIr4cY
-* Pachappa/Riverside: https://youtu.be/ITRJ17VTrwM
-* Hanford: https://youtu.be/lovDF7h-Qj8
-* Truckee: https://youtu.be/FgnavPmVvtQ 
+* Portland: https://www.loc.gov/item/webcast-11439/
+* Providence: https://www.loc.gov/item/webcast-11438/
+* Pachappa/Riverside: https://www.loc.gov/item/webcast-11436/
+* Hanford: https://www.loc.gov/item/webcast-11437/
+* Truckee: https://www.loc.gov/item/webcast-11435/
 
 <style>
 
