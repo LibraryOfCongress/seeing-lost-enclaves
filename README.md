@@ -1,6 +1,8 @@
 # Seeing Lost Enclaves
 ### Relational reconstructions of erased historic neighborhoods of color
 
+<em>This project is a demonstration experiment and there is no active development and/or maintenance of the codebase. Fork at your own risk! In the unlikely event that there are further updates, the LC Labs team will announce it through our communication channels. Sign up for our listserv on labs.loc.gov, follow us on Twitter @LC_Labs, and watch #SeeingLostEnclaves.</em>
+
 Seeing Lost Enclaves is an [initiative](https://newsroom.loc.gov/news/2023-innovator-in-residence-rebuilds-and-revisits-lost-communities/s/33e910fb-0ea2-4676-ba4c-0ce15e664735) by [Jeffrey Yoo Warren](https://unterbahn.com) as part of the 2023-24 [Innovator in Residence Program](https://labs.loc.gov/about/opportunities/innovator-in-residence-program) at the [Library of Congress](https://www.loc.gov/).
 
 This repository contains the documentation for the Seeing Lost Enclaves project.
